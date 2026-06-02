@@ -24,3 +24,28 @@
 "source":"https://example.com"
 }
 ]
+,
+{
+ "id":"003",
+ "type":"forest",
+ "name":"長野県森林火災",
+ "date":"2023-05-14",
+ "lat":36.651,
+ "lng":138.181,
+ "prefecture":"長野県",
+ "damage_area":"30ha",
+ "summary":"山林焼損",
+ "source":"サンプル"
+},
+{
+ "id":"004",
+ "type":"temple",
+ "name":"京都寺院火災",
+ "date":"2021-08-02",
+ "lat":35.011,
+ "lng":135.768,
+ "prefecture":"京都府",
+ "damage_area":"本堂焼損",
+ "summary":"寺院火災",
+ "source":"サンプル"
+}
