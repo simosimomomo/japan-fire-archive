@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>日本森林火災・神社仏閣火災アーカイブ</title>
+
+<link href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+<h1>日本森林火災・神社仏閣火災アーカイブ</h1>
+</header>
+
+<div class="controls">
+
+<select id="typeFilter">
+<option value="all">すべて</option>
+<option value="forest">森林火災</option>
+<option value="temple">神社仏閣火災</option>
+</select>
+
+<input type="date" id="startDate">
+<input type="date" id="endDate">
+
+<button id="searchBtn">検索</button>
+
+</div>
+
+<div id="stats"></div>
+
+<div id="map"></div>
+
+<script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<script src="js/app.js"></script>
+
+</body>
+</html>
