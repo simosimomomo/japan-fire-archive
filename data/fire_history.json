@@ -1,5 +1,495 @@
 [
   {
+    "id": "1780861139948-714",
+    "title": "山火事マップスポットライトジョージア州ブラントリーハイウェイ82火災 - IQAir",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRmpaRFBnNDI2MC1rSEZYUHRfalRCLVNVLVJBakZob2poQkdBZEYwVVR6b0hqVUJ4dkcxNXFmZzU2LTNQSGFENUFMSzdtYUZBMHdKVWxIYWVYUjBCVGhQUjNOMExaVXcxOGlXdmYxM19aZ0twMWE0QWt3UGE3UXU5by1GTnFzek9UWlpSdDVHVV9UMWc?oc=5",
+    "date": "2026-06-07",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1780861139948-286",
+    "title": "沿岸部の森林火災を迅速に消火すること。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LQVNuLWs5eEMxbU5WRjBFVUZ4SmtFdDVWOGQ5ZmtDQmtRRE9ZZWVzblBIQXpLRDFIUjNIOFBqVXpoNE5mZlZGa0FId29tTEdydE5nbl9UMUpFbG9GeHVlVlFIWU52UThkTEsxZXpHOFBnaUlXLXNz?oc=5",
+    "date": "2026-06-07",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1780861139948-888",
+    "title": "火災への懸念、DLHKバベルの努力はカーフトラを防ぐ - VOI.id",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAweUJtMlExNnVJUXV0dG4zcnNYQjNhb1g3bmhTTDExWXl2SXBFOXFZWEZXZlVXSTZGUHRDRHdxMGJueDjSAUJBVV95cUxPSjhQNHBQYUV5THJpVWNNSjd4amo2dFhyUzRfZU1KaG1BUTUxQklnOHVJOEFtTlY4SFk2eDB3bWFHZkE?oc=5",
+    "date": "2026-06-07",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139948-32",
+    "title": "タイニン省における森林火災のリスクは、過去最低レベルまで低下した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXYnUzWGhsX3hhRFZ3MU9FN3hqQy1UOEpBVGd0d3JUcXR0MS1oRC1hRENYZ2Zwc1RYQUdXQV9PdFRpajl0MkZWY2VlRVdWR25rX2Fmb0ZJNElUWG0wTTNjR0F6VDhteGVqLUkzZWJqR3FpMFNVSC1ScnZvYnZTU1k?oc=5",
+    "date": "2026-06-07",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1780861139948-702",
+    "title": "山火事マップ スポットライト：ジョージア州ピネルランド・ロード火災 - IQAir",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRFAzMGRqTnFxYkpHNGlCTzlPN09OY0M5TTRPWFVzMENqcHd3ODJKV1JuT2ljRGRGeHE2U1lYekxPWlVyeGJuTmMwemJiSVRSSGh5Y3VKTVpTNEtVVzBZOWdxbF8wdjlpZEh4VGxrN2hBSnJxRzY4cUFwOFJYdTRHRFlkZ3dOTW0wYUxJ?oc=5",
+    "date": "2026-06-04",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1780861139948-426",
+    "title": "山林火災、なぜ三陸ばかり大規模化？防止策は？ 専門家に聞く [岩手県] - 朝日新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80X2dpYWhld0hnZ3NLMzFrWlRMYWQwS29PYTBDU2Fka0V1YllHRlFDTEJLUzVpb3cyWjJNY3k0Z1J3Q184cGFmNzRMY2l1R1hfb1JFTVNhRWUyUTh5VDU4ZkVoclRGVms?oc=5",
+    "date": "2026-05-29",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-950",
+    "title": "ニンチャウ村の森林火災をできるだけ早く消火するため、人員と資源を集中させる。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMFh3Y3lCWFRDY3Yzcy1iM0RpN0Vnc196bS1QTlBsN2dYNHNMWTZGWlloWTR4V3dMYk1LQkdPV05LTWVXcGVWSEtIdzlUQ2ZOUzVOVlZnTXIzcjN0eUdVbE0zZXZSMzgwWFpxd3JtblZaVW5OaXF5RWxDc2RSdnpsQXRmY29RVnJMQUFUTmttclFySjcyRmVmYkZlMHFwei1MdmEzdm5oNzlWSkxRM1YyalhHc0tVc1U?oc=5",
+    "date": "2026-06-07",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1780861139949-770",
+    "title": "クアンチ省：ニンチャ​​ウ省の沿岸森林火災は、数時間にわたる消火活動の末、鎮火した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYWxqWmw4b29xQ2YtN0VWQmp0ekxhRlN5NWNMMGFDVTJNSmxMMkVSR1JGbUlHVmxIRWdtVV9VZUlXYzNySVpGQWJ4aHB4Qnl6M05memFLSnNZS1FPRHBhM2E3MlhvVGVDN2lUZ1hCX1ZBT0lOTTVCWjFIeUtMb2FscEdjSDNlZmdPMy1CZEVnQk5ydHRFQmpHdVd6azRmb0tySHRDSFotRm9MYzh0REdz?oc=5",
+    "date": "2026-06-07",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1780861139949-773",
+    "title": "フエでは猛暑がピークを迎える中、森林火災のリスクが高まっている。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVDZhWkNUX3Itd2tWaG5PS2FkX3ZFeDBDS3lXY0h5UHdZbXdSeVptYkNrUUZ6OVp5M0RrYVZjTFBxcjBIcnJJekpnTDR3ZUVVT0s5QWRseWtXc1BVTll6alBqVy1iNWFTYVJkUDVQWWtaaWpIVElIUExUNWptdVU5amJod1d4QjBrU3c?oc=5",
+    "date": "2026-06-07",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1780861139949-331",
+    "title": "クアンガイ省で猛暑がピークを迎える中、沿岸保護林で森林火災が発生した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOUc2WkhoUUdZNk9ZZ1M3b2E2UzdZdUxRQ05uME5pRVRjaTZvSjVWeTJ5S3BTbHU5M3BHcXFUY3lGUDlRRzczWURpMU9CODNlOTU3QXZfWlZ5eVNxSmNZdXhMZmF2ckR2UEtuNko2WHB4b0RhaUVuVGVzWWpCa3hGbUNXY1ZDV25vNkRYaGZjNFUyQQ?oc=5",
+    "date": "2026-06-07",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1780861139949-585",
+    "title": "クアンガイ省の沿岸保護林で大規模な森林火災が発生。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LV0tVMzVjLVdWazhsUEVKeWIzNU15eThxd2taaWEzS2tyS1NxQ21sMGw5anpDd09QZjIwbUtiYnZQMGhUaHhPOFdUbEE0Ql94M1I0N2haSU5qMUJnQlFCN1JTdUxOUi0wTEZ6RGhlOWlrQjNJXzQtMlV3?oc=5",
+    "date": "2026-06-07",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1780861139949-76",
+    "title": "ダナン市は猛暑の中、森林火災の鎮火に成功した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORXB1VWdyZWRLMGotLU94ZDZncUFJYkExczBtb2lEQkZLOTdHMkpKcGJGR0FKUi1GelZraUFiNzg3aHZ0dHJ3dTlVc0tRXzVTOXBHajVsd0gxdWZScTE0OVBGeVVRMldXbWFkenF4VEU1d29hSjhsZUM4TGs3STItU3B0djRmUEMxNzI1UktEeWdCYXJ1elRveXBqMmgtQQ?oc=5",
+    "date": "2026-06-07",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1780861139949-781",
+    "title": "クアンガイ省は、沿岸保護林で発生した森林火災を速やかに消火した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUTR0VDY0N3Z1QlNlejFzUHhQUDRKbmtGWFBxX3k2UzZkSXplSk0yd3drWXhBVXU3WUVRWmhwLUZMZFNlTFlBNEVCaTdBSGphazFTMVlRNEViTTVSS0dyN2V0WjdpeVJMSXJJQ3g2M2ozWjVmMWxyRHV3QXAwNFRzTG1TdUZ1R0VGMC1xVQ?oc=5",
+    "date": "2026-06-07",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1780861139949-778",
+    "title": "【続報】久留米市の山林火災鎮圧 4万7000平方メートル焼失、消防が残り火確認 - 西日本新聞me",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NRUw4M1JJVi1MM0pqRDEwOG9Zb2ZIRjBfZndTTGhTU2c2RVVtb2thLW9mN01pM1Z2aDIxVEJydDVDRldheEdHeVdOaHJHQkd3OExQd2dn?oc=5",
+    "date": "2026-05-20",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-501",
+    "title": "岩手・大槌の山林火災、発生３８日目に「鎮火」宣言…町長「森林再生に向けた取り組み進める」 - 読売新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwX3duUlJ1cVBsX055Qi1DZFM3QXdxSjExMVpJbUhyWFlEejVLZkFRSnBGMU1lZ2RwM0s4S3g4MU5LaUI4aGZNRDRSeGtkaDhFeGFtRVpQUi1RVkdLcncya2FtN0Q0QQ?oc=5",
+    "date": "2026-05-29",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1780861139949-26",
+    "title": "三重・津市で山林火災 自衛隊に災害派遣要請も 鎮火のめど立たず – Quebee キュエビー - QAB 琉球朝日放送",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wTmtMbUg0REkzd1h5LWhXYmdyd1Y0TzVsckFaZk5KS1lld2NXSjV3RXZQd2Rsa1JLejNQaU01dUFvY1BFRlNreVA3WFgwa3ZTM1RrVkZwWmI?oc=5",
+    "date": "2026-05-20",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-283",
+    "title": "【続報】久留米市耳納の山林火災、福岡県知事が自衛隊派遣を要請 消火活動いったん打ち切り - 西日本新聞me",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SSWJXN2x1MVlZemh3ZEM1ekQ3YVJ4elBzRW5tU21EemVyT2lSWXRIXzVzTEJ6and4b21mNnozRldSMzYzcU51Q3VGMEUtMUtidzZWWlpn?oc=5",
+    "date": "2026-05-20",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-810",
+    "title": "三重で山林火災 自衛隊も消火活動 22時間以上経過も鎮火せず - khb東日本放送",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TU0xYVEI4ektEQmphalljT3F6MWhvODQwblRwSzVTVEZxNXhLTmhDWTZDY0tmUzJ0X2FQT1JLTlBnT0JHV1V0akcxWnRMQ1U?oc=5",
+    "date": "2026-05-20",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-604",
+    "title": "福岡・久留米市耳納で山林火災 「草刈り中に燃えた」空から消火活動 - 西日本新聞me",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDZEFtU2dRczlwYVJuMXR4cEFRMmhiVzE4cUNZeHJ0TDZSTTFGRWlOaW56dFM0Zkt1UmUxU1FYVWcwWlZZQ25DZkJlVG1sMU5XM2dMak9R?oc=5",
+    "date": "2026-05-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-302",
+    "title": "広島・福山の山林火災、鎮圧状態に 人や家屋の被害確認なし - 毎日新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KZ192bXpkVm9xSzFBRTVGVXpRUlhfNGk2d1lQS3NEM0NFSHpLbENjcWR1dnlBV1JJeDBlWHhxUnFDUHRLWU94T2g2SnRKNFIwX05PMnBlQm5oaUlJZ1p6UXFmY3puZXhx?oc=5",
+    "date": "2026-05-18",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-601",
+    "title": "【速報】三重･津市の山林火災は午後6時過ぎに“鎮圧” 消火活動が必要なくなる“鎮火”はめど立たず 火や煙がないか24時間現場で確認 - TBS NEWS DIG",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sc1BhblFlbWFjWmNORUdBSWlZamtEMUhnMGQtOW5ZcldpYnlmWnNkakdQMnd5TGRmbUg2SWN4Y3ZaUlhBelVmSzBNakZYSUt5UkMxTTM0SQ?oc=5",
+    "date": "2026-05-20",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-795",
+    "title": "津市美杉町で山林火災 「山の方から煙が見える」 三重県、自衛隊に災害派遣要請 - 中日新聞Web",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CYXVnMnU3WGFuNm9Jejl4by1RbjhxUW45VDBHOUttUkc2X0VCQ1djbHFPY1NTek9HdTZlTE5xOExzMm11RnAtcnpPSl85eXM1Y3UtcQ?oc=5",
+    "date": "2026-05-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-988",
+    "title": "岩手・大槌町山林火災、地元ＮＰＯが応援ツアー企画…出動多く本業の売り上げ落ちた消防団員も - 読売新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIcEFkUjZhTGE5aFZ4YmMybXVjZkFrV3AwdU1XRjVYckZvNW5nd3lXUl9UNEtrTHFxWUJSeF9sVmlIcWVPdU5ZZFNhQVBwX1RFQnRJVXVzZTgycjh6TmM3dWpsTmFfUQ?oc=5",
+    "date": "2026-05-18",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-702",
+    "title": "広島・福山の山林火災が鎮圧 けが人、建物への被害なし - 47NEWS",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sSnZBbmNqazd6WktNMnlMa1lfRXRrR0xwUkhOeG45bFRtTnhrVGl1MTh6c3d3MTVVUi1qSnlNQjhYVDRlQndHOWgxTQ?oc=5",
+    "date": "2026-05-18",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-239",
+    "title": "【速報】津市の山林火災鎮圧、けが人や建物被害なし - 47NEWS",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CcG1FcXV4WEoxWUpSX1UxTGNiRTVlSDNnOG13REdTdHFkR1Q2Y2ltMmpCSHhBZDJ1UXRwaTdkMVhqM3YwMU8xLTdPMA?oc=5",
+    "date": "2026-05-20",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-8",
+    "title": "福岡・久留米の山林火災が鎮圧 焼失面積は東京ドーム1個分 - 毎日新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlVW1kbUxLNjJqMXBMSnpqYnJzSDU1dlQwYTdpSlJ2N05tQy1femxWNzVnYml0V3ZRZzlyNFgxdlZvRUs4c2lMOXdIMFB6Z3RscmgtSlNWeThpVnBHRnhsLTBHSGpqa1Jr?oc=5",
+    "date": "2026-05-20",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-340",
+    "title": "【山火事】福山市赤坂の山林火災 福山市が鎮圧を発表 - 中国新聞デジタル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGS0NwWWFsdzZlbXQwNi1WVjFSR3F0UTg1b0lGWUY0RWNDS25jU2R5akNHSUREVldrMlcxRnhHS3VERzloZHJ6U2xDN3JteTBFZzI5bE1SMnlkQQ?oc=5",
+    "date": "2026-05-18",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1780861139949-232",
+    "title": "広島県福山市で山林火災、けが人はなし 廃材から燃え移ったか - 日本経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SUTFNOHMwRDlTUmpkTkVwVm9TVEduY1RMUEN2TkVsbVdxVHIyNHZ0Uk41N1RBb0RfWjJmb3ZwTi1Ga3dZcUZJUHNVelR3RmtpcFEwUHRKN2c4eDZyeW5KRkNMRi1NWm0teU5xMg?oc=5",
+    "date": "2026-05-18",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-438",
+    "title": "三重で山林火災 自衛隊も消火活動 22時間以上経過も鎮火せず – Quebee キュエビー - QAB 琉球朝日放送",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0XzV2bkMyVmxOQXBEVS1ua3h3VVg3MEM1eHlINE9uLThXeTdPTExUS2pUSnlRQThNSWR4OTZ4ckktb3p0cjJHV1RITEVZcmZORUZwZEN5V3o?oc=5",
+    "date": "2026-05-20",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-773",
+    "title": "津市の山林火災 20日夕方に鎮圧も鎮火のめど立たず…消防隊指揮官「山は思っているほどやさしくない」 - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zVkVjRFdtT1Z2c0EzX0FQQVgxSGNJVjNIUjlnaTBQMndSekdWSnhzRnB1UEVCMlRrNFdlMTNSN1MxUjlIa2VoLVd3R2M3aWRmNnExdnFyVGdxVXc3dGZCcnd4Sm9RQ1NNck05V0gtLVg2Z2doQUZKM2E3TngtOFU?oc=5",
+    "date": "2026-05-20",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-829",
+    "title": "三重・津市美杉町の山林火災は鎮火のめど立たず　消防が夜通しで消火活動 - nagoyatv.com",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tc01yeFRvQ2dDZktTeVNxTUZNR3o3NXktVkMwd1oyeWdfbUNHNFR2ZUdmREZ1ZVhEaVZFR0pWM2Y4VFFYcjR4QUFnUUxvRUVrbGfSAWRBVV95cUxOWFJzZF9WWnc3eTVKV0V6WG9PMkdZYXlrQzIxcjIzUndyS3pxNWszV0h5M0dRaGFjNlB0dmU1NkVJNzNGcTV1a3pxendJRnVWRVJodExvM3ExNXVBbFFzRDBXNUJf?oc=5",
+    "date": "2026-05-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-259",
+    "title": "「白い煙が上がっている」京都市で山林火災 6万平方メートル焼け、消火活動続く - 京都新聞デジタル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EQU95eVppbjNLS0k3bGR5dTlraWtjTzd6bksxZ3B0c1pGU1lXNjNKenNZbE93QjJ6dHN5NFU1Tnp4M21YVjY4RTdCNFdiTGhGSGR4V3YyMzY?oc=5",
+    "date": "2026-05-15",
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-290",
+    "title": "【続報】久留米市の山林火災鎮圧 4万7000平方メートル焼失、消防が残り火確認 - 47NEWS",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51MVlDUHRMNDNaNElfeXE0amotdjJQY3pqSjRZRmdqTVpEZ1V0aGUzOHNiVHNCT2ZmNk5QZDcwMnNYbEtQSnRuRGFtOA?oc=5",
+    "date": "2026-05-20",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-381",
+    "title": "三重県津市美杉町の山林火災、発生から1日で鎮圧 10ヘクタール焼く、民家への延焼なし - 47NEWS",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WTmpGWFhLdjlRSG8yZkRHdHBUSkwtalUwNWhTRVA2VWlnLW5UbGd5OUs5M2tPWXpVcXRkay02eFF4OW10Tk1OZFBVSQ?oc=5",
+    "date": "2026-05-20",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-948",
+    "title": "久留米の山林火災が「鎮圧」 4.7ヘクタール焼失、けが人なし（朝日新聞） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51OFdZT1l5MTNiN3pnSXlJd3Z4OWRiNDhNeFI1cWQtSGtjUEtMVmlWOUlBSk9leUk2dnpLdHBGLVhneGRPVDBncjNYZXEzWGUxblNvR2QzakVtc0U1T3d6czVVaThpUTRDM1g5WTloamd5QWs5a0Z6XzY4Rk94UGc?oc=5",
+    "date": "2026-05-20",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-344",
+    "title": "広島・福山で山林火災、「枯れ草が燃えている」と１１９番…消火活動続く - 読売新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ma1RpeU5ZYVI0aC1SazRQNXEtbDB0dFdMOG1PX2hmR0NCUTJONTdsT3hUSVhiVUFId2VXbW5ZM1lYdzQ0N056dTVyTlFjcU9FVlhnN2FEaDctWmExMlpuY0NvY2l4UQ?oc=5",
+    "date": "2026-05-17",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-125",
+    "title": "津市美杉町で山林火災、消火活動続く 三重県、自衛隊に災害派遣要請 - 47NEWS",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jUERieE16NUhtUWdfMTYyX3hlTHJCQjEteXo1Q0NNeVdZaFhHUWFNTzZhVzdNeXJUR3JfVDhxRUlObFg4bHcxY2hERQ?oc=5",
+    "date": "2026-05-20",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-458",
+    "title": "大規模化する山火事、消火剤導入し対応力向上へ…総務省消防庁が効果評価にガイドライン - 読売新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54OHhRa0dld1VZZnJlYklGRVp4RWlWbWxZODNvamVod1VBdk8yUkV5dGZEWVBsT2Vxb0hTTFhBcmNlUlNKSWp2VUNpSkpCekxxb0RENUUzY3E0Y0pXUTJ6ek1vSHdBUQ?oc=5",
+    "date": "2026-05-17",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1780861139949-705",
+    "title": "岩手・大船渡の山林火災、被災スギ使った住宅に市が100万円補助 - 朝日新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DOHk1UHlIWllxZ0FGTV9rcDdKTEU1d01VcnFKakhnaTFaaG1GeTVMNmVxelVscnVyTlZrckJDVlJmT1VlZHQ3VUF0TGF4OFR4cHd0QmpyMmtJa0RPOS15Z1NLVWdQeWM?oc=5",
+    "date": "2026-05-14",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-864",
+    "title": "【速報】津市で山林火災、三重県が災害派遣要請 - 47NEWS",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50TEp2ckNiVVc1WWhhVXNBY2pkeW1UWEdZSjhSdTI4eTFQcmR0cFFfeGMxZjJhMVJDVlV3MVRWVlR5MFNrcDJvbzlEQQ?oc=5",
+    "date": "2026-05-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-528",
+    "title": "「山が燃えている」埼玉・横瀬町で山林火災 1時間半後に鎮火 けが人なし - FNNプライムオンライン",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qUnRDTGo4SF9Ia1E4SlkyUVhiRXZmN3NuNy1PNGtZY2NCRy1faVZPZzlfOUUyYS1MNVBQU18wdjd3Zjlna2g1V1E4RnZTUQ?oc=5",
+    "date": "2026-05-18",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-700",
+    "title": "17日 福山で山林火災 延焼続く（HOME広島ホームテレビ） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WbXRlQUNsVXNjdDBFMW1qVERabTR0QVhaaUp6czhpeG9zLXdlMWd4X1NhQlh5a05PV3NNcy1oblF5ZFA5XzZqLVYtcldFNzc4ZHVSTnYxblktcHhSTVBvMkVVOW1ESnJzWWJvQ1BKaTQxVV94ZVZJQTdLZTBVMzA?oc=5",
+    "date": "2026-05-17",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-923",
+    "title": "【岩手県大槌町 山林火災緊急支援】柔軟に、迅速に。空飛ぶ捜索医療団“ARROWS”だからできることを - Peace Winds Japan",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15VjdiY2pobWRUZjZORnlwMVNrYTc1ZHFCWXNzc180dUl0aGdjb0hPZEFSWGJ2LWxQSmlNX2hmQ1JERmRnRTVaMzJucWQzRjNHelh6MmpzNDY?oc=5",
+    "date": "2026-05-13",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139949-868",
+    "title": "三重･津市の山林火災 消火活動の必要がなくなる｢鎮火｣のめどは立たず… 消防が警戒続ける 美杉町 - TBS NEWS DIG",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52bF9nV0xVU3BQYUlQR2FfN256UUR0OHNHWTNZTFY3V3pLTWZuVVhfZWpmdFdwR2lhSVpsNEpCY2FVeHptV25LcW1ISkdhSlk1TkxNanpraw?oc=5",
+    "date": "2026-05-21",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139950-670",
+    "title": "津市美杉町で山林火災 「山の方から煙が見える」 三重県、自衛隊に災害派遣要請 - 47NEWS",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JSGpWajlQLThGLXpXWjhLT2FYOVRTYkFHeW40SkNVajhvakd1OUgzcVN4MWQ4YTh5UDB2VkVjVHh0TnhtdGlhQ3RSZw?oc=5",
+    "date": "2026-05-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139950-243",
+    "title": "三重・津市で山林火災 自衛隊に災害派遣要請も 鎮火のめど立たず - KSBニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5cVdON2xBRmJfdnBDb1VkYkxuLS1hTkZlRzZLMW5oNVc1bS1jNjd1U0lxZEtSeEJUYm00TC1pZnMxdTgwYU5aZm5NLTZVME53TUNoM2xB?oc=5",
+    "date": "2026-05-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139950-395",
+    "title": "広島・福山市の山林火災 約15ha焼失 消火活動続くも夕方には鎮圧へ - テレ朝NEWS",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE10VW9Ic0VOQlFIVHp2OGl4Y1d3OG9VY29VVTVyU3VZWmRhby1McGhqTDgwYkV3SkpVREN2UTREMVVraDY0MWhEd01lTjI0NzRSQjlPY3VoWG14R2ZxVmJMSllWeHBQNWloOUtVN19YNEtHUQ?oc=5",
+    "date": "2026-05-18",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139950-886",
+    "title": "岩手・大船渡市山林火災「煙が上がっている」と通報 約1時間後に鎮圧 （岩手めんこいテレビ） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00SHhUUlRvR25tUEtWOG5DMGJ0MHBJckFRMVVEQlpRdUFyVDZEbjFVV3pXanQtTDNhZU1tVzdXWGhkQjhTV2FtaGZjQlFYd0lCbHZ3MEx1WmtPd2dGcWJtRzg5amxIaHZHMENUZnNjZFBHSXJYOUFuQmxkWklCOG8?oc=5",
+    "date": "2026-05-20",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1780861139950-820",
+    "title": "「白い煙が上がっている」京都市で山林火災 6万平方メートル焼け、消火活動続く - 47NEWS",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XX3B5Z1ZDYnVLT2l5RlcxaUkyd3hHRFNYSGJ0Y0pzYy1qaUZVMTVLY3hRTWxvOUlja0tkanlKbUpnRnR6OEw4VDl0UQ?oc=5",
+    "date": "2026-05-15",
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "type": "temple"
+  },
+  {
     "id": "1780819150054-479",
     "title": "岩手：［検証 大槌山林火災］森林再生 境界確認が課題 私有林調査 大船渡で先行：地域ニュース - 読売新聞",
     "source": "GOOGLE_NEWS",
