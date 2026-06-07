@@ -1,0 +1,12 @@
+{
+  "name": "japan-fire-archive",
+  "version": "1.0.0",
+  "description": "Japan Fire Archive Automation",
+  "main": "scripts/crawler.js",
+  "scripts": {
+    "start": "node scripts/crawler.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
