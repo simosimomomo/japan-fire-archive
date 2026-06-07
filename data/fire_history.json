@@ -1,38 +1,72 @@
 [
   {
-    "id": "001",
-    "type": "forest",
-    "name": "岩手県大船渡市森林火災",
-    "date": "2025-03-01",
-    "lat": 39.082,
-    "lng": 141.709,
-    "prefecture": "岩手県",
-    "damage_area": "120ha",
-    "summary": "森林焼損",
-    "source": "サンプル"
+    "id": "hist-001",
+    "title": "世界遺産・京都 醍醐寺で火災、お堂が全焼",
+    "source": "PAST_ARCHIVE",
+    "url": "https://www.asahi.com/",
+    "date": "2008-08-24",
+    "lat": 34.9511,
+    "lng": 135.8203,
+    "type": "temple"
   },
   {
-    "id": "002",
-    "type": "temple",
-    "name": "東京都寺院火災",
-    "date": "2024-11-10",
-    "lat": 35.6895,
-    "lng": 139.6917,
-    "prefecture": "東京都",
-    "damage_area": "本堂焼損",
-    "summary": "寺院火災",
-    "source": "サンプル"
+    "id": "hist-002",
+    "title": "栃木県足利市で大規模な山林火災が発生、目視困難な煙が広がる",
+    "source": "PAST_ARCHIVE",
+    "url": "https://www.yomiuri.co.jp/",
+    "date": "2021-02-21",
+    "lat": 36.3541,
+    "lng": 139.4222,
+    "type": "forest"
   },
   {
-    "id": "1780815698337",
-    "type": "forest",
-    "name": "自動更新テスト",
-    "date": "2026-06-07",
-    "lat": 35.68,
-    "lng": 139.76,
-    "prefecture": "東京都",
-    "damage_area": "不明",
-    "summary": "GitHub Actions動作確認",
-    "source": "自動生成"
+    "id": "hist-003",
+    "title": "広島県江田島市で大規模な森林火災、自衛隊へ災害派遣要請",
+    "source": "PAST_ARCHIVE",
+    "url": "https://www.chugoku-np.co.jp/",
+    "date": "2024-01-14",
+    "lat": 34.2255,
+    "lng": 132.4744,
+    "type": "forest"
+  },
+  {
+    "id": "hist-004",
+    "title": "福井県敦賀市の中興寺で出火、本堂が全焼する火災",
+    "source": "PAST_ARCHIVE",
+    "url": "https://www.fukui-np.co.jp/",
+    "date": "2015-11-03",
+    "lat": 35.6525,
+    "lng": 136.0558,
+    "type": "temple"
+  },
+  {
+    "id": "hist-005",
+    "title": "釜石市尾崎半島で山林火災、200ヘクタール以上を焼き4日後に鎮火",
+    "source": "PAST_ARCHIVE",
+    "url": "https://www.iwate-np.co.jp/",
+    "date": "2017-05-08",
+    "lat": 39.2552,
+    "lng": 141.9619,
+    "type": "forest"
+  },
+  {
+    "id": "hist-006",
+    "title": "奈良県桜井市の長谷寺付近で山林火災発生、一時騒然",
+    "source": "PAST_ARCHIVE",
+    "url": "https://www.nara-np.co.jp/",
+    "date": "2023-04-12",
+    "lat": 34.5342,
+    "lng": 135.9069,
+    "type": "forest"
+  },
+  {
+    "id": "hist-007",
+    "title": "国指定重要文化財、福井県小浜市・明通寺の近くで山火事",
+    "source": "PAST_ARCHIVE",
+    "url": "https://www.fukui-np.co.jp/",
+    "date": "2020-05-01",
+    "lat": 35.4528,
+    "lng": 135.7958,
+    "type": "forest"
   }
 ]
