@@ -22,5 +22,17 @@
     "damage_area": "本堂焼損",
     "summary": "寺院火災",
     "source": "サンプル"
+  },
+  {
+    "id": "1780815698337",
+    "type": "forest",
+    "name": "自動更新テスト",
+    "date": "2026-06-07",
+    "lat": 35.68,
+    "lng": 139.76,
+    "prefecture": "東京都",
+    "damage_area": "不明",
+    "summary": "GitHub Actions動作確認",
+    "source": "自動生成"
   }
 ]
