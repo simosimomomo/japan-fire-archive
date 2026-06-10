@@ -1,5 +1,485 @@
 [
   {
+    "id": "1781123756644-844",
+    "title": "神戸・有馬温泉街近くの神社で火災 社務所や自宅など3棟全焼 屋外の温水器が火元の可能性|事件・事故 - 神戸新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4OXRqc290RVNtZjBVeUV6a1RzSG90YzlDMTFZRE1tT3ZpU3BNNEdaOUVERHNpNlQtSW9ta0RUNGlIUVc5eG9Ld3E4RDFCSW5meGM3V0dsYWVVTGdSZVN5X1RmQm9kWXZXdERr?oc=5",
+    "date": "2026-06-09",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1781123756644-514",
+    "title": "有馬温泉街近くの神社で火事 社務所など全焼 宮司夫婦がけが 神戸市北区 - サンテレビ",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XNWQtejBsLWlmYjhzZnFqMnVHcDNpZFQtYjlkUVA0MTVoVFowYkZSUmJPd0tZZENwVEhqSVpHYWNDMFhNREtGRUQxeG90aWVjS3JUNDEyeV8tWkNpdGQ1YkFQeTdRUHI1?oc=5",
+    "date": "2026-06-10",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1781123756644-452",
+    "title": "ホテルの客避難 神戸市の有馬温泉街の神社で火事 ホテル支配人「延焼の可能性あるということを聞いたので・・・」（関西テレビ） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHUFFBWlNEQjZZckNRemMybFpBdWxvRi01Zy15T0ZLWDBkOTQxb1hMLTQyN3lnQVlVdk5MUFBsQWY2engtYTA2azZXRDAxdk4xTmxrdzVUVFhPRlpyN1ZMRXRKTGNKc2hYNjg1WkpQYXl0YW9FREh3LVA1UkhaeEk?oc=5",
+    "date": "2026-06-10",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1781123756644-314",
+    "title": "有馬温泉街で神社火災 宮司宅など3棟焼ける 旅館街近くで炎上し現場は一時騒然 神戸市北区 - FNNプライムオンライン",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSQmc2WlhiY2d1UE5QbElsclBwWklzRUZoX3YzMzRyNEJQV3RxQU9qZTB3a0ZONVZmall5VXhKWWVpb2dGam1hbUNSdWRqdw?oc=5",
+    "date": "2026-06-10",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1781123756644-185",
+    "title": "【火事】神戸・有馬温泉近くの有馬稲荷神社で火災 約200段の階段のぼり消火活動も宮司の自宅など3棟全焼…約5時間後に鎮火 宮司夫妻が火傷 神戸・北区 | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ) - TBS NEWS DIG",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XV3QwWGZQWXlnUnRwQlpRY0lkSXE3YXk2YlRWSlJZdHg5alFDVVIzSVVybGhhYjE3NnRDdkRaT29YM0VMX0pST0ZTVjJISENaRFRqQTZrdkhfV3FDODltUV9wNzNvR3M?oc=5",
+    "date": "2026-06-10",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1781123756644-330",
+    "title": "神戸・有馬温泉街近くで発生した神社火災、5時間後に鎮火 社務所など3棟全焼 山林への延焼なし|事件・事故 - 神戸新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrMm9PNlFWQkotZ1FkVVNPN1dJNWdfZFlaUnNmaEpJVE5obWZtODZxZ05FdVBwTGFqZktRODVSTjlmcHlqYUF3ZmNudjZqZ2dqM1p5azE4UWhVeDBOT2xtRWxWYnFXRFNLa09vci1VV1FUOGN2?oc=5",
+    "date": "2026-06-09",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1781123756644-638",
+    "title": "神戸・有馬温泉街そばの神社で火災 敷地内の宮司宅から出火か、2人軽傷 近くのホテル宿泊客避難 (神戸新聞NEXT) - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMGlLQ1kxbkl2R1lWUTRSbUctMEhGSWs5bUoteW9XOVNyeEdjUllkUDV6OG1UVlNTeFpZbGRDOEMwc09nWHNWY245TkY5b1lGbWVEUjZicmljN2ppal81RkJ1ZEZHdGxtQkx0SFlfSUJGTDQ0Uzc3b0ZhcXdqZ3dXa1lkaVpkU0NsU0dOWVN3?oc=5",
+    "date": "2026-06-09",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1781123756644-536",
+    "title": "神戸・有馬温泉 神社敷地内で火災 3棟全焼 | 関西のニュース | ニュース - ktv.jp",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiSmo3TDNjcWhoUnNFTnNFeEp5M21FTm93RmJkSjlGdUJ6NWlxX0VYTEp3X3duTXVNS0dSOUVjVEdfa1FNLXYtek9UYk9SMDFYSFdaZg?oc=5",
+    "date": "2026-06-09",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1781123756644-940",
+    "title": "注目の山火事マップ：ニューメキシコ州ハミングバード火災 - IQAir",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTZKN1hQODlMNkQtUmVzMENBTUJKYnlZY3lFbWpNd0FFT05rZ2ExRVBCVTJyOS1RQVFNZVpfUE1QaWlfVS12WVhiRGZmOUh0clJyYjh5MnZjcFdhNGhLeVdmQzRaQlU0aEsxVVBzbVZTR2dFWnQwQW5LNlc0X2JYZU5XV0pYV2FZa1c1Mw?oc=5",
+    "date": "2026-06-07",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756644-544",
+    "title": "山火事マップの注目情報：カリフォルニア州サンタローザ島の火災 - IQAir",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPREZfdWotS1B6ek9NWTNLTnBlMHptLVNLakptNFA4RHpZWTZBNjhjZ01iM0hSb2tBbEFvbGNwOVUwaVdMbFoyNkxoYnNjYnZyNjZwaG9kQkhYdGEwMUNSYkJTTkE1SFlYMXlwZ2FTVXJhMUxuR1ptRUdWY0ZoeGtkVE9na3N2a05qWmZTZUFHODJENkV3?oc=5",
+    "date": "2026-06-05",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756644-440",
+    "title": "有馬温泉の神社で火災、3棟全焼し宮司夫妻が負傷 200段の階段が消火活動を阻む - スマートニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxNeWlTZ2VyYkU3S3BwbnNIX0pqTWU1eW1ycGRGVl9ySGpNX3VEckhveHByMFNOWTFfdzlwUjFNUVpQaVN3QklYdktLeG1RUFpldjlEWmJjV092NmJ2akp3VzJMTGltcm1IOS1HNjBod1RIYjFkSi1yaEluS244aE8zV0tQT0lfQlNvdnZVX3RlNmo4MGRZYnFuSjR5UzFuWkR5cVh3SVVOdEpJUDZXY2g4YnVsY0NJb3hfMnNEUlB5ckh1UXNGdVduYjc2YUF2Q19GUHUyV2xLMVZUWlJVSEx5WVZsM05GUWxydnE0d2V0TWFkekdTTFRhSU9WanRXSWFYVjlqeFlQZllnMURCN1EzWno3cjBwVVlWT1ZSa2N0OWw2MnM3ZW1pN0hsSEcyd3ZaZGVlN0o5dlZJbXh6ZGxfUWJqOXBUampIbk9PeFMwUXlYOEx5cW45eEdQSTVURk1PV0swSmZURVBrd0FJVlVULWxXSDhTMU1EU0szRWJHRWhZak04QUdVYnhsandiX2daSTBtU3F2Um5BQVIyS2xFVV80NXNOZEMwZ1FYSTFGYWY4WHd0ZnVleHR5RVRDNnk1c2wtNDN5Ym9IWFBvaU0tT2FEYkRIVU9famZjS0NkZUR2UmFpYTJRUm9HQzNJd2N2cUltQS1VT2tfMkhuNUU0S2JGbHVrckVVRmFENw?oc=5",
+    "date": "2026-06-09",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1781123756644-326",
+    "title": "「消えずの火」の聖地が燃えた 憶測呼ぶ神社仏閣の連続火災 - 世界日報DIGITAL",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pQlNob3QtTHlFZm9yOGRrQTZPS0dNZTRLbWl3TlRnaVk0UmNBMXloY0djdU9RdXVHclEzVF9aSWU5MzRtTmoxLTI5eVNZZVlfUkNlUUlveWFkRGpTa1dxdzB3WQ?oc=5",
+    "date": "2026-05-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1781123756644-213",
+    "title": "神戸・有馬温泉街近くで発生した神社火災、5時間後に鎮火 社務所など3棟全焼 山林への延焼なし - au Webポータル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzV255bUV4UmNMLWpRaHhOdlhlREVNVVVuMnJ5emVwQjJ6U1NWVlNZeGR2X2ZPVzRjUzdPTUNsT0tXaUFpVFFVS2ZDa29jenpPQmxMVTdELVBPSnRXaHg4OUFyQTd5b3ljOUN6aFRsMjFYc2lpR3J5OTFYOA?oc=5",
+    "date": "2026-06-09",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1781123756644-74",
+    "title": "火災で保水力失った山の下にわが家 手入れ不足の森、再生に課題山積 [岩手県] - 朝日新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VMm5DemhQSjRWemxyNkZvV1hITWdkYnFINDNvWUNWTFJ0Z1dyT3c2OWxvUUFyd3FsTHNnZGdIMWpLSTM5UUdtU2lUaU5sYm9wbUNmX19tX0daMVZ0c2hKSGRwaDVzLW8?oc=5",
+    "date": "2026-05-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1781123756644-811",
+    "title": "有馬温泉街で神社火災 宮司宅など3棟焼ける 旅館街近くで炎上し現場は一時騒然 神戸市北区 - au Webポータル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RMy0wd3VnZmdFdERYQ2ZzbkVUWWZaaE0yS290R1BEVEpNME91ZDY3R0tVOGlnaE1Id0czYVhWS013bnhKczhDaG9MQzd5RDhFemlKbEJXa1RzUUFJX3o5bWVfZ1R0c2tBWTZrUUE0WDh6QTFGRkxUY2tCbw?oc=5",
+    "date": "2026-06-10",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1781123756644-457",
+    "title": "米国立公園の島、山火事で3分の1が焼失 希少な動植物が生息 - CNN",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oZVpmLVZmQ1ZJYmVCU1JYeEI3QndZY1VBcDV2VFUyUWI1d1BfeHFkZ3VEV1pLN1RFaWhlYUdHMXZTUTR1Zi0xd0VkOHdhbmtw?oc=5",
+    "date": "2026-05-21",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756644-724",
+    "title": "神戸・有馬温泉 神社敷地内で火災 3棟全焼 - au Webポータル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wRmNZRHdaTmQ4TmVNLXlZckFaTjZvc2RFLXQ3LW5JenJfY01ONmhhNm5nLVdpalJybzlabFJ4anlsWWZ2NTd1LXFhWkQyNUZWUGR0UWI1WnVrODRqQUI3Vmw2MjQwTFVIZXd2QUQxN0JIeV9CTkFUTjRGbw?oc=5",
+    "date": "2026-06-09",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1781123756644-62",
+    "title": "数百人が夜通し作業を行い、フックロック村の森林火災の鎮火にあたった。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTHlrWFB3TVVuMURTc25fQUMyNjdtcUdUS3FYUXByUFlsNkpvdVV0a256MHJoVkRwSFhVYld4RFZvNHo3Z045UWFyRG5RcUg1NzI1RUVjRFZQX0R0S0Q4ZUZPZXdPY00yUmdjUGRObTBDTy1HaUFKbUV3UWtUN1NuSGU3MkVaTkluN196T2c2bUg?oc=5",
+    "date": "2026-06-08",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756644-43",
+    "title": "有馬温泉街騒然「爆発音も」 人気の神社で火災、80代宮司夫婦が軽傷 - スマートニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxQWlJVWXAtYXdwaF9oM0pZSl9zbEVBbnk0QWFzYjlTT2lRWkgzVS1jc0l1QnphRTAteTJsZXoyVlA3Y3NaNDNhUnJVNVA5NG94Y2t5eXNFU1Nmal9lZ09UR2I0OWJLNkgydVZweWJ3dTVEMkRkeU5RbjQwMU9wTEdXYlE3LU42QlBxODBOQkVQdlhZa0tYMkdtOGFHMzh6blVBOFNjazZYaEtoekpyX3N3X1NMVXNyZGs1QWl5aTFiUFhYdHljcmpMZmJTZThqY2ZyZXE2eHJhdzFPXzlaVllhZDVLR1NzWWxuNWJRbzZrSUxVRUlReThEMDVvOG0xTXlUV0ExRlNEblE3NXBBODBqWkYxbFRiWm1hRVNWQjhzZjR5b1VtWGNpa1pBbWozM1NOWS14SThHNm9ScE9ab081NFROLS1qVnJuQ0lyS2FIc2JuYWlVSElROVk1ZEJVeF9oN2tyYmZtcWpjQ043TGxDWXdpQkVQZ2pJWElBajdvTjJXd3k4TElSQ3JqaktUc2phdFpHZFlkUGYteGJTZkVxVUVXNzdxblpfMlNzWnQ5T3hPUVBzQmtHMmZ4WVZPOG8xZ3VSSy10SnVsS0FETUQteWNmdV8yODRiWXc?oc=5",
+    "date": "2026-06-09",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1781123756644-634",
+    "title": "有馬温泉近くの山中で建物火災 男女2人けが 神戸 - au Webポータル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MbkN6ZWZNc2l0d050ZXI4ajlSRlBqTnhmMVQ0WjBHdkRHZjl5ejRDeDRUdFVRRXJZVHJ0cFRPWEgxd2EzYUVtd05RQ3M2QTdHbzZBc25qaWl6clZIRXQ4TlNEQm9aaVpZbm4wamxFMWZENURNRVhYQnVpZw?oc=5",
+    "date": "2026-06-09",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1781123756644-133",
+    "title": "シャボン玉石けん、世界の森林火災に挑む 環境負荷抑えた泡消火剤 - 日本経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fUi1iR3RlU3ByTzZ2WU5kTWZ0YmM0eGdsLURQY1pnMEtpS2tHczZSaGpjT3JfVGlxa3B5Z04zZUNPUGY4dUJ1V1drVk5QaTB1MUluR2o0NFp6UGFTYnFrSGtZcDJZaHVPcEMzNQ?oc=5",
+    "date": "2026-05-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756645-471",
+    "title": "通報から7時間たつも鎮火せず 久留米市の耳納連山で山火事 ヘリコプターが上空から消火活動 「林野火災注意報」発令中 福岡 - 福岡TNCニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50SGRuRTMwdjFvREd6WVFoRFI5VHZQb0dxMThSZGNpRnNWSFY2bFVzUm1VZTJGdlJFVjJYTFVEMkNkR1pSMzlnN1NOcUF5X1AxX05pbzNFRkplR1hPX3RZZXNrOA?oc=5",
+    "date": "2026-05-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756645-897",
+    "title": "クックフォン国立公園の森林火災を鎮火させた。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRks1dUxucnRYT3RKaXJ2UWVGUVJab1daa25qTnllSENWaTB4NkpMUTluT0YzQ2gxeE5GTjdzQmp6WmNpNFM3VFl1VnQwQS05T3Q5eTNybjFDQW5wSF8zUW13TkZZVTh5OTBQNmR5dU5RbERFbkxQbzRHbUk4YktOVzJvZw?oc=5",
+    "date": "2026-06-04",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756645-549",
+    "title": "北海道内で林野火災相次ぐ 過去10年、原因は主に「人為的」 [北海道] - 朝日新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCVFR1T2dYcHhiRXNwNlg5a2xTRUpIQWJ5aVdYY18wQm1wX190RmwzMjU3Rm1NNEV0NVVOaUFJUllNYkxOUm9ubXZwbWhDTTNmZE1jcF9OcjFBT1BlRzRwWGJlX3FyRjg?oc=5",
+    "date": "2026-04-21",
+    "lat": 43.0642,
+    "lng": 141.3469,
+    "type": "temple"
+  },
+  {
+    "id": "1781123756645-639",
+    "title": "【山火事・続報】福山市赤坂の山林火災が鎮火 - 47NEWS",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LV3dUX05CUGZZZkpLWWs0VGUtQ2l5Q3RvN2lrald2ZXpFWUtFSVYzcjk4UkdXLVVIcFRfUnVoS3FmdDZIdk9mNk82MA?oc=5",
+    "date": "2026-05-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756645-223",
+    "title": "「山火事は消えない」実例から見る山林火災の恐ろしさと”消えない理由” 岩手県大槌町の火災は未だ鎮圧ならず 山火事は”土が燃えている” - TBS NEWS DIG",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvRGt0TzY0cFU4a0hEV3I1MVI3dXZsQXVNeFNKaUlWUV9JOGN4ZmpKWXBpSFZEbTBlY05mMmg4SEl4VDJqR1JRaVQ2czVQdjU2a25RWWMySQ?oc=5",
+    "date": "2026-04-28",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756645-186",
+    "title": "山火事マップ・スポットライトアルゼンチン、パタゴニア森林火災 - IQAir",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSkthQl9iQ1ZZdjdoSFJpOW9YZTY2Z0w0QzRGWlQwT2V0bXYwMlZOcTBaTmpaY1JmeFlud0RmMGQ4TkVkLTRiSE4tZkN6WGVmMFBsNmNydlNaRXZrOEZ0b29CeTB6N1hiejdyaEUzb3dVR1J6SXVPRGVLVW5fdzdKVUswRDg0RXNFckRRNFB3UjN2QnM?oc=5",
+    "date": "2026-02-03",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756645-794",
+    "title": "有馬温泉街の近くの神社で火事 宮司夫妻がけが 観光客も混乱「山が燃えてる。えらいことやって」「マッサージしていたら消防車が来てますって」 近隣ホテルでは定休日の系列ホテル開けて避難も - au Webポータル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4YkY0N0NCZFhiSXdSVmpabDlnTm5wMUVRczFTamZRckQ4ZjhGSEZfd3NKekJlT1ZKQXNhWU1kWUxfcDhmcUQtaE4ySEdnZHBVMF9faTQ4V08ycnlKcG5SZ3VnRW1kWU5XcUQ3aEhWYTdRSFRpZTdhSF9kaw?oc=5",
+    "date": "2026-06-10",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1781123756645-788",
+    "title": "火災の発生・延焼危険度を可視化した「林野火災リスク」 〜火事のリスクを減らし、命と自然を守りたい - 株式会社ウェザーニューズ",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBYUVHVUhMRkV5RjlfbFo3YklJeENJeFpVanNBUWpSeld5eHE2UTB5Rlh1MUVDS2FZbUtIMUs4Y29TRFRYTUNzcXk2UnV6TkgzeTFScVpaYzhMTE1nNlpsNg?oc=5",
+    "date": "2025-12-05",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1781123756645-697",
+    "title": "【山火事・続報】福山市赤坂の山林火災が鎮火 - 中国新聞デジタル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBenFJQkJTMGVjRU5pQ3pXZU92RUluUVhLR2R4YmJKc29GclBMaGxGajdLSU9QODgzOUREYndYdGRyZV9rbndkRE1lRU9VQzZ1WTMwVXJLbVpWQQ?oc=5",
+    "date": "2026-05-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756645-742",
+    "title": "大槌町の林野火災懸命な消火活動と降雨で鎮圧へ - WEB防災情報新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2aFVRbGdhUlNlMXpEeG16MlZ6UTNqczRyMWsyMTZqaUYwbUtodFZFbVVOMkk3RG5ncHFIangwWFRqb3pFaFVwUkVVT19RN29BQkpVT3k4akIyR3JDNy01aGFvVHE5SVl4REhWSw?oc=5",
+    "date": "2026-05-01",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1781123756645-373",
+    "title": "山梨の山火事続く、一時民家まで30メートル 神奈川の火災も延焼中 - 朝日新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qT21NOW1mV09taVg5ZnYwVWV3OEN3SmVSUzFuUUszNmJwaU1YazRaeWZUQWdkMTMtNmJxQWlJRFQ3RGJ5S3pWX2h1UHhQdF9od2ZqWGQ5SUljWklrXzYzRDRKWVlNUHc?oc=5",
+    "date": "2026-01-12",
+    "lat": 35.4475,
+    "lng": 139.6423,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756645-696",
+    "title": "火災警報・林野火災注意報・林野火災警報 - city.minamiuonuma.niigata.jp",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Td24zbERSbnlKeWJOa3FMaWRRV281azZDZWNEOEZfZHNuNmpNbEhJTnM2UTBiUmJRMHo0a1pzUXJUNnBqMFFUV1lwM3ctd3owZU5aWWgxelBxVzlFVl9EWDBZX3llcFBocEh5R0VjX1p5eUU5aUstQg?oc=5",
+    "date": "2026-02-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1781123756645-741",
+    "title": "チリで山火事が拡大、都市部に被害　「大災害事態」を大統領が宣言 - BBC",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jN0drdGZiSzBIUDR2aWJ4M3FORGdtYnp1dTZTaVZDM2sxTkZjOVpLQ201S0M4RnlxVDdzRm9nRU1uSjNUOWl4a3BWdkxCbDJTeG9GcExNdmlsRERfQktn0gFkQVVfeXFMTkNrZnRic0kxLVMtNGJfMjROQ1hLcVRFNFVoWThSUTR3aTJHN0VIc0FjR2JQSmY1dk9IMm5waWlfbEQyZFpWTndzYlpVZVJTakt6VTdDMFhjdC1UcmVXSG5uZ3c5dQ?oc=5",
+    "date": "2026-01-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756645-512",
+    "title": "【山火事】福山市赤坂の山林火災 福山市が鎮圧を発表 - 47NEWS",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1UUNxLThTMzVfcXZLei1mS1o5WlVrZmsyb0Y2bGlNcERhaTdRNWdsczZYNF9VOVJnb1lUR19zQlQwYUxWX1pvQ3RIUQ?oc=5",
+    "date": "2026-05-18",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756645-825",
+    "title": "「中央アジア＋日本」対話・首脳会合で、森林火災×気候変動対応 ファイテック、カザフNCCPと消火薬剤の共同実証MoUに調印 - PR TIMES",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10VjBBd2RqUGZUVWRTZno0XzdSd3lZb3B1RVNNcXBDanVpYWJHaTFLRERuRllRaWtYbzM2YkJwVzRBUGQtRl9SZG0wUl9Pdlc0bUtCZVZBV25tLTZmd0xqNnhMNTNsRGhRY0E?oc=5",
+    "date": "2025-12-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756645-868",
+    "title": "（ひと）峠嘉哉さん 「森林火災学」を現場で学び続ける千葉大准教授 - 朝日新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wQU5aZ3RSc28wbzBuMDdWNVVHbHFGNUZrLV95b0FZUjJxeFpEWTJzQUh1MWFQLVZRaTAwUmtFVkdjaHFhOUNnRFgzMnhXbkZ4UldnSjZqNUlKQjF6?oc=5",
+    "date": "2026-05-01",
+    "lat": 35.6074,
+    "lng": 140.1063,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756645-24",
+    "title": "大規模な山火事にどう備えるか 「林野火災警報・注意報」とは？ - NHKニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSV3JLWGZuUFl2Z2gzX0hYRUZCTWRrczEwX0N0VWh3QUJMRmR0THl0aXZTMXdSbHV3MGNRNE9lUTEwSG55a2h6UUFhdktLbnNDandyY2RtTkJ1TDBSZXBkMWRBNEIzSDJmUl9mZ1BhVmdXNDhIRDdOZG5tVQ?oc=5",
+    "date": "2026-03-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756645-946",
+    "title": "深夜の温泉街「山が燃えている」有馬温泉近くの神社で火事 84歳宮司と83歳妻やけど 自宅が火元か 兵庫 - au Webポータル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uTGduaXNmV2xOTjhIUnRjN3BWT0JYY3l4T1NfckxqTm5ERi13Q3pnazA1UWFBb09XSTNoNGl6NUNGcjBRS3NLdGRaNmdKaVg1QUxwOU4wS3kyYW9paDM3dzQwS3BkdVo2WXc3Q3pNdjJlMXpHbGltM3lPWQ?oc=5",
+    "date": "2026-06-10",
+    "lat": 34.6913,
+    "lng": 135.183,
+    "type": "temple"
+  },
+  {
+    "id": "1781123756645-546",
+    "title": "山火事を防ぐためには？ 宮城県の担当者に話を聞く「１人１人が自覚を」 - khb東日本放送",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93NV9FN0ppQVJBZHZPdTI0TGNmNDhtS0tDMk8wdWotc3pTcmtkVHZqWVJqYjdHQmlqWlctRnU1MnhydUcyOWg1bERxLUpFc00?oc=5",
+    "date": "2026-04-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756645-557",
+    "title": "「山火事は怖い…」木曽町三岳の山林火災 発生から約20時間後に「鎮圧」 けが人なし【長野】（2026年3月24日掲載） - 日テレNEWS NNN",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSGhVV1YxTGEybnJMRFdueVJydTZKNTczakFaRTItWmpNU19KbFdCb1pNV082dl9ZRjhETmdzM1otMXRYMDlLcjdVS1lJUFhISXkzR0JGR3o5ME5KVmZ6SG5RTEdiMzNzY09FMUk2aE5TcjU1MU1vNmI2dXE0S2NXbGlkTjhBVTQ?oc=5",
+    "date": "2026-03-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756645-243",
+    "title": "山火事マップスポットライト：南アフリカ、西ケープ州、パーリービーチとスタンフォードの火災 - IQAir",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLTFUQzA4RE9PVjEzcVE5Y1djLWlUMHgxOHlYYUJTNXRYSU5oRVY2d1d4VEZ0M01pdUZjeDNDcWFrNm5YcUxwV2JnWWxFWFRhV3E5MEtqTDMxRUJnb0pYdjFEUFN3Tm5ncVRhSkVlQ0lBQS1mUzJGRDRfYTdMNlRxYXVISWw0WDYyMmg3TXlpeFVvaHRGaWxxZXNCUlA2ZU1VX3laaHFGb0xRbTlidVlfYUw1SUM?oc=5",
+    "date": "2026-01-22",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756645-380",
+    "title": "山火事マップ注目情報：フロリダ州ミラマーのMax Road火災 - IQAir",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaGIwV2N1OTByYWx2ZmcweXJVLXhCdVlBN1BSWjZQcGxYU1FjSzZUV2dPaHU3NVR0RDdPRVdrWEh6VmZmbFE3enYwMHQ5eGtpVnNXOElUNEhPWnhvNUs0d3YzSzZ4Y3ZPeE5VOFRVbEpuSzViS2Zfekk2azZWUWMtMEJSaE1KelJiZjlkbkNMMA?oc=5",
+    "date": "2026-05-14",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756645-535",
+    "title": "【山火事】福山市赤坂の山林火災 福山市が鎮圧判断（中国新聞デジタル） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96R2MyMXRlWjdJdGdkeGlqT1VmRkxlNDdaWWFrdHpieFdxSnZwcHhKR1ExQ19MYy1reGtWLTRJX2t6RnVRUV9XWndaQ1hSeDRwY2pkOWVCVjhoMlJIcFlMMGNDMnV3RHJvTUtVd2lTOXFWcldCOU1LQ0NndE1adVU?oc=5",
+    "date": "2026-05-18",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756645-850",
+    "title": "山火事に注意 岡山市で初の林野火災注意報を発令 - KSBニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53cEV1WEFPUERITmtic2JWYW1IX09wY0dpTHRINlBWQmE2QTVLd2lpLVdZWDhYelBvSlNCdWdaaXJCX24tZFl6akFWNFRfb3Y3?oc=5",
+    "date": "2026-04-22",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756645-248",
+    "title": "山梨 上野原・大月の山火事 1週間経過も鎮火のめど立たず 延焼リスクをシミュレーション - ウェザーニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82UTBVdjJoa0tiVzJJZzVqNW9BeWpORXk2Zm5QWkRuWmYwdy1FanFsRU02RTNpeUI0OTRPRTlMeExzYm9YVXQ2SU8zZUxDalBpajluQg?oc=5",
+    "date": "2026-01-15",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756645-14",
+    "title": "【山火事】福山の山林で火災 防災ヘリコプター出動【動画あり】 - 47NEWS",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zYUNCVHVqR2Y5N1Jic01pX2hYSEQ2MEo2LXlnV2VDbFdQQzBtSEFzSGs2Wnhqd2FaeVhhV1dGREgyV1BJODlfUlYtMA?oc=5",
+    "date": "2026-05-17",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781123756645-671",
+    "title": "魚沼市の元スキー場跡地の山火事は鎮圧 - 新潟日報",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rUTFRMDNSTENMMF9qdnN0cnA4WXhfN01YN29aM2k1bzNRNWxKMC1FYVI5X1A2TTlBUzdoUmd2dGdzb0xpOE1uRTZIS282YUw1X1dtdlRWcnZ2UnhvV0E?oc=5",
+    "date": "2026-04-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
     "id": "1781035901054-28",
     "title": "神戸・有馬温泉街そばの神社で火災 敷地内の宮司宅から出火か、2人軽傷 近くのホテル宿泊客避難 - 神戸新聞",
     "source": "GOOGLE_NEWS",
