@@ -1,5 +1,85 @@
 [
   {
+    "id": "1781898838380-518",
+    "title": "山火事マップ注目情報：ロシア、クラスノヤルスクの火災 - IQAir",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN0xzdm4xNkRRdnZqWnotTl92aFJLLWVZU29nSmo4TkxrU1IydHlMMndxVHNudXNqeTdHcVJ0MlRVeC0xZEw3TjFmVExzUjl5TUtVWUpjSUJCRF94WXBPeUFKNTVrcXU0YVJyVy1TQXhvQ2FScVVKd0JzT1hTdmRUc3NZeUFfenRm?oc=5",
+    "date": "2026-06-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781898838380-235",
+    "title": "山火事、空き家、集合住宅、そして倉庫…今年５回目の火災 警察が関連を捜査 - TBS NEWS DIG",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lSnoyaHdWZFRGYi1hVkZHSzJNbEZnd254bFJJSzRwbW1kMFlWNU9SOGprSDZFa2xzenV1ajFLU0xxVGpZcklhbG05TlZneDhVd3lORnZRWVVuUQ?oc=5",
+    "date": "2026-06-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781898838380-674",
+    "title": "山火事、空き家、集合住宅、そして倉庫…今年５回目の火災 警察が関連を捜査（あいテレビ） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WNW1mS2VRTHNiUXZrSkJodmlfZHRVUmk4NThsQlh4cTFQdGNCcVkzZjBMWHhIbHAyYmtCZGs2S01rSGs0djh0U0JDbnpKQWJrYTYxMjRWSzJTV29rOE5ueV82ZHJ2SldBcWt0VHNVQTExbENsbVVtMGZQQ1pfM0E?oc=5",
+    "date": "2026-06-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781898838380-701",
+    "title": "99の自治体と区に森林火災警報が発令されました。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xWXlCU1hKSGpnQkp5aXZqajZhZFRPZHI4YXpJcnpxbVF4Yng2bWpxS1NmdXVmOWx3ZEVUaGp5Z3ZBYmNQclFSVXlIaGJ5UThUVG43cE16eWoxV195RHNoOFhETDdMU1JjUDJnOXZn?oc=5",
+    "date": "2026-06-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781898838380-297",
+    "title": "ニンチャウ村における森林火災の抑制に向けた取り組み。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rbzlQQVFBQVRCbENWd2hNTjhXNmJBNFNydUdZRkRaay1RQVNWVEFkRDRGZS1KZDdQQzU3ZWJvb3oyRFlBWHE2d2hOVGpUVGM4ODlwbTZISHJPaXNHZ2NJeUd6YldrQnl4N1pzVUxJZGhxVDBQbWc?oc=5",
+    "date": "2026-06-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781898838381-753",
+    "title": "クアンチ省で山火事、数百人が消火活動 - Laodong.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcmQ3eC04T0JtZHVuN1AzUlJuZXNIcjA3bEVUR0xZYmdLUUItLWwzNXh5Wmg2em9oZTA4ZGs2MGNjcWFoQ05rQmxFZjBrMnFGVU44RGRBZ0RLSkFzRHlldUFBZmE2ZG1sRVdRVWF5ZTJmSjBrN0p6eTVEa3ZxTGhEdUszek5WLWRoS2VJMjZmbw?oc=5",
+    "date": "2026-06-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781898838381-540",
+    "title": "山火事マップスポットライト203号線沿いの火災（米国ネブラスカ州 - IQAir",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPemdkSHdGd3MzOVd2UmVQWlc0RXJDWDJTZ2ZhempkMHdhX1ZBa0ZnakdXdGJSdHZETXJyOUExbzQxNHRSeUpmbEJMSldZRWNjVGtUNEtJZllfVGUtX0ljSEVxNlBqMXljNE9ITEk0bzFhSkJXSVZWUUlMbTlaejNsNXBqUFRQdkJMSkJJ?oc=5",
+    "date": "2026-03-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1781898838381-864",
+    "title": "「林野火災注意報」及び「林野火災警報」について - city.maebashi.gunma.jp",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcmFFWE9jUzJkb0FWN0NsNVpkZ05DVHZtQzU2YURnOEJwZjlFeUpPdGJKQkFxcDBVUXJpbmdKb2QyRC0zQ2xRakp5TGVzek5nZnJndjRYNHhXckNPSWtOUXBaWFJ3MnBCSkpscmlraTFBUDhoT0hQM2NIcUd6Rnk0SnlQMXZnQQ?oc=5",
+    "date": "2025-12-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
     "id": "1781814622273-548",
     "title": "夜間に相次ぐ山火事や住宅火災 人けや火の気なく連続不審火か 住民も不安「エスカレートしている」 愛媛・新居浜市 - FNNプライムオンライン",
     "source": "GOOGLE_NEWS",
