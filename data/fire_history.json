@@ -1,5 +1,525 @@
 [
   {
+    "id": "1782330706274-523",
+    "title": "山火事マップ注目情報：ユタ州コットンウッド火災 - IQAir",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcEtiRG5tWGh5ajY1eXdPVDYwSUlkRDYydFJtSldsYXd1bi1jS3MxQkhiR0F1X08xanZ0NFVJSy1JWkxFVUNqQUJobHBEd0lvNWY3OFQ2RmQ0akZkSTN6ZWFVdUxzY0poSTVUOWFnN2Vjc0kwVVR5eHktTEZUNkl1QWl4Zw?oc=5",
+    "date": "2026-06-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706275-520",
+    "title": "夜通し作業が行われ、ハイビン区の森林火災を鎮火するための緊急措置が実施された。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObnNGTklkbGNnTHl2d2tZaUFNN09rVXdITVhLdzdWUnFPWDJEYTNaQ04zbmRwRlY4Rjg1bjZORE1tTHctNDR4YXktNl9pWmRBSU5DMVVaeTExZXQyT2c0UnVXc2xDaTEtQUtYclR4OTAzeUtzM2t4VUJNSDQ5Wnp4NTBDNG8zaFVhYUZnY2pPNk9TakFVWGN3c2NmN3duU3hHTmZ4aExKX0tvSGFid0daS0NhRVRRZ3RvZlNJ?oc=5",
+    "date": "2026-06-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706275-752",
+    "title": "【命の価値】ジビエで大槌町を盛り上げたい シカを狩り加工販売するハンターの挑戦 山林火災では消防団として活動 - 日テレNEWS NNN",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ1h1Zk8yN25tZUh0Tm45WmNQQzBOcjRHOHVBbU9kS1hmbmdid2hFa25kNFQxVWFSQUFTVmI5RWNmV1JYTDRwMWQ1a08wSjhYOGtEMzkzUTVwV3o1OFZYNDZSQnd5MlRQTTZSeVRNVlh6dy1JUC1vMVc0a3Vtd2w5aEx3aGp1dFk?oc=5",
+    "date": "2026-06-23",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782330706275-224",
+    "title": "山林火災、全国で相次ぐ 岩手・大船渡は約３３００ヘクタール被害｜朝刊・夕刊ニュース｜下野新聞デジタル - 下野新聞社",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kTk5wemdaZDZUOC1SdVo0dVJUWmF5MGQzN1JOdXlrX2NyQ3BqYzVCQjh6ZF8zcTc0SXR3OHNQclJKV1FNNjBoRS1fSFFhZHFCUUd2dmx3QUhaTE0?oc=5",
+    "date": "2026-06-22",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782330706275-41",
+    "title": "消火活動に生きた“大船渡の教訓” 岩手・大槌町山林火災…建物への延焼を最小限に食い止めた背景 - FNNプライムオンライン",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PX1FlWUVaS1BYeUl3TXN4bm5Ib3BNcUNBSDE5WVBhUnZUa1o1SEsxQVRHbkFCYVBWZGlSc3ZSNGoxX2l1SUdMa1JvOURXZw?oc=5",
+    "date": "2026-06-22",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782330706275-734",
+    "title": "森林火災は、トゥルックラム、ダオズイトゥ、ハイビン地区で発生した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdWdnOHNjWHgzdGxhSkxDLWZXRGxMWG1UTDNLUTZnNUstMEpBUzVYYlg2N3QtMlVOQk9iOGEwRHJUSEpxRENCMmVnb1lKeERfR1NYNzk3WmpYODl6cWZSZE1GazU5RE05bEdjTU9zUnNoNF9JbzhEX1FKMlItNUJfNHc0WnVrUQ?oc=5",
+    "date": "2026-06-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706275-322",
+    "title": "タインホア省で発生した3件の森林火災を鎮火するため、集中的な取り組みが行われている。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONl9mUnd3SWI1QklYU25oWWRKYTN5bGw4WXZCa2pOWWl0bVFwRkhNTkVaMVJacWZwOEpCSEJGaXRUZG01WkZJOEl5SXZObU1WNnVRM1h2QXJNeWwzM08wSk44MXF4Nmp4R1RBbTd3bXVVX2xnZEJMaXpTOGZtVnA1aFJR?oc=5",
+    "date": "2026-06-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706275-761",
+    "title": "クアンチ省：トリエウコー村の森林火災は完全に鎮火しました。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWDBUY1ZDV1NyUjJKZzdXMnJmSlVIYmRtSDQ2ZXllUjdKcG9lR1YwTGpFamMtYXFFdDg0R3IxLVA5U1JBN0c4WHFVbWt1VmVidHp6Um1PbWNuR0psY3kwUkxiLUZEc1VrVGFfZ1BreUw2dEJ0bk9wSjFiWVhPRHluZ2oxZWl2Ui13ZlE?oc=5",
+    "date": "2026-06-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706275-107",
+    "title": "第202飛行隊は、クアンチ省で発生した森林火災の消火活動に緊急に貢献している。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORTlDV0xTaTBRbi1FMWR6SjBQLTM1anY1UjFmcnhfTDExWnVCZUdKUXdQTW0tS3FvN1lXa19xd1djeXdIN1RsanJTOXRrRUZnY2RSNi1PVUFWZkMwT1hjMHJQb0ZVdGpsUk1FM01xVHY2V2hnOFRGeVpPVXEwaHZWTkRIRjFPanZ3YlR3U0pVbTJraFU?oc=5",
+    "date": "2026-06-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706275-630",
+    "title": "タインホア省の軍隊は、猛暑の中、森林火災の消火活動に精力的に取り組んでいる。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd0dGYVlfVnFSWW5HZVg5UjBGb2JIX0tld3UxOXk0cmlqclBTelM1Rk1Kd2hqQ1lZUEtTVVgyTUJ3VWJpdm5RREJjUzBPdHF4RGNMN3BVT3VHY1otS3VyQjVaY01LSzZmajhQWUNRRTlSb3FfSk55dHY2VWFERjZZVnY4VXpIUUEzQ0t3amt0OXNnV0F2NkNLY1VSaXhJOWYz?oc=5",
+    "date": "2026-06-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706275-443",
+    "title": "タインホア省：ハイビン区で発生した森林火災の消火活動のため、様々な部隊や地元住民を含む500人以上が動員された。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcjk4Z0ZHU2VISjhYMnRUWkMyOTBwc3pKanh2anZFc2xmSXVzWkY4c1BaRGZuanNjRUdFdWRidmtlaVNETUNNSW5WNEk0bHRfT3pqV1dzUTFIbDhyaDFvVThnS2dxdUxjM3F3TlNBZUJncHVsTUpTb1d3bUhBSGxUaHdXQWlhYWUwRlpfdjZBa3lpZl85ZGZFS2lFYTVvNXZhQU1GTUlpU1NQZ05ab05la2FrWnBmU0xEMjZreWpwSWswRHhBWWNPa1Q2M0FqRXNJdEZOaWNfRldXOVR6OS1fbFhKb1FFcnlPWFE?oc=5",
+    "date": "2026-06-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706275-584",
+    "title": "120人以上がマイラム森林火災（タインホア省）の鎮火に尽力した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSW4tZk1uWjJDenBUUk1ja2VEUUNVQlB4QmhPSnJfWTlNQ05VemZGZGNPTmxWVUw0REZCbkstXzdfekVMU2laWUhGSmQ3Q0M5VXRJNUdINnZuU25fS3dzWHBnSDZIaFJTNEMyZVVBYnVkMHNZODJlMmpaeDFTZXJvY0phRQ?oc=5",
+    "date": "2026-06-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706275-150",
+    "title": "クアンチ省：森林火災が繰り返し発生している。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSc3lqMkdKNzI4WkdRdUo4dDBKektFNFlEeld2Q2w5LVBtZ0dTRWVMUS1mLUpUZmROd09VRFdWTGRGNy1XdUpkcGRsUFJVTndXMS1WLWkwYi1yZHdaa0pJQWNyclFKXzYtd3V1WXZtTQ?oc=5",
+    "date": "2026-06-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706275-400",
+    "title": "タインホア省：ハイビン区で発生した森林火災の消火活動に500人以上が動員された。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUXJtaFl3Y2lTVnd3UHNHY1BhVDg0M0hvdkhmYVA5RXgyaUxoTVllenZqRHRLUTJkYVJKbmNXaEpSdF8xOGFHWHgtUjZNd3paQTB3TjlOWFFYRUE4Sk5ja0xFNVRfVFhPYnJYa1RoNUlkN1pON2g0NG5QV2pBWmN5NUNrdzZGdFhPeDVpT08xUWIyUG0xdTBNV0pvc2Izdy03QlprUWZVWHRpNWs?oc=5",
+    "date": "2026-06-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706275-109",
+    "title": "ニンビン省が森林火災警報システムをアップグレード。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yay1HUFpNNGdpdURPV05lWGpOOG41ejY0UzZmOGlsUU5RbEVzdXFBQUU4eDdCenJnNG9vSHN5dURna1U5dVRVbHljNng2UkpValVLcUF0bTBtMVh3allUVWxXU1BCVmNHM3poWU8xYnM?oc=5",
+    "date": "2026-06-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706275-86",
+    "title": "ハイビン区で発生した森林火災の消火活動には、500人以上が参加した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWEFvdlRaQnZHNXF4MTNBakpBNF9sTW5mRW1uVFh4blRfRjZjelJpTkdtM0tTTGtNV192aWg3ZEt6b2RidlJaNlRrUmhUNWlSWEhZZW42MF9aRU1oYm1NenRGQzd4STk4b1hvam1LUUo0VnI1bU05SjlUQ0NaeDZ3OE41dmV2X2FCRU5aR2tiOXhLVW9f?oc=5",
+    "date": "2026-06-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706275-439",
+    "title": "タインホア省：ハイビン区の森林火災はほぼ鎮火した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNGdzR3ZSaWNKMFQ5b1V4N2tTdEpuVlo2dGM2MkV1TXNxOVpCNDhmWnlZY19BMVk1NFVYNWUwNTlZLW5VNHlDWnZsNXNFUjUtdUxGZXY1STBtYllGVHBXeGlrMFhhUXV0MnlvMUlpUmxHancyTVo3UUZrRWdqMXF3YzlCN3pQQUlQTGxDX3VnQ3NMdw?oc=5",
+    "date": "2026-06-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706275-244",
+    "title": "クアンチ省の沿岸森林火災と闘うため、数百人が夜通し作業を行った。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYUJqTG82bS1UeU9NczBJbUdVdGlXOWZTeU8yRHpPODV3YVBJcjA2eV9OZjFKT01mbGJpZExkVzR3azh5ejkwYjhFejhhWWRiRDNoa01EOVR1MkFCcWlxNV9RZTQ3dUM5cXA3NVZxQlhtWWZPcjVKZTFRS245TjZzUk9MOExXakdXcHVlUVkzWUY?oc=5",
+    "date": "2026-06-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706275-327",
+    "title": "タインホア省：森林火災の消火活動に約300人が動員された。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWU10eDhsbmEwdGhSZFJKTkdPZTFNZTdDczVRX0FSZlFXOXdpUktZN3NHbDdEdWM0MXU0TmJlWEtzd3ZxYmZzMkc0UmVQVFFEc3phTVFacERVelRTNk9mdTVZOGlMazFHWGdLam04OFBFa1hGenlrdWQyM1Q3MlhwQl9qcnhmVHBsNlE?oc=5",
+    "date": "2026-06-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706275-515",
+    "title": "労働組合は、森林火災の消火活動中に負傷した組合員を見舞った。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUUx2enhLRG15cGU1bnExX1EzYncyVE5LU3hLUDU0ZGR6V2l3OURWeE5pLTRTbzJBRFVsOFd4R2hYamo5bzNFUktoak5MQU9Tdk8wRmY5ZmQ0bGVMSnV5OVg3Wkc3X3ZvN1F3OFVWQ1N4b3NDZjJHYmRWSU51Rkg1NUF1V3JDdw?oc=5",
+    "date": "2026-06-23",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706276-510",
+    "title": "タインホア省軍司令部は、3件の森林火災に対応するため、400人以上の将校と兵士を動員した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0xKTm5XSmRWRXNaaEs2bW9nalI2bERDOTYyT3psTy12YUpROGxqNmJVdTYxQUhCNnI2RUZIN0w3eVFMMklaQnZnX1BmUjhzLU1qUlZ6VlN0OXR0a1lnQWpTVWFldXZ0V29kZFlKMVZ2N1BNczlGSTBaZTVPWVhmTnlTV3dDZ3ZURGNydUwzNDJkYWpuZmVmM2ZtZVVqdlBVSzFkVG05ZzF5dw?oc=5",
+    "date": "2026-06-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706276-697",
+    "title": "猛暑により、クアンチ省で一連の森林火災が発生した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQnlCVWwxMnY3cUZtVER5LTEtY1pZVWNITHNqVURSUHU5RDBaOFMxU2p0NVY1VERCOXNuc3F6ZTBxSVNZd09OWklUNmQ0S2xYY0ZybE9DUnFvM29jR2ZvWHp1WmQ3S09qU2lqbVVJVk13b3FSV2lIUVhtbTVtZFJFZHZ2anFieVU?oc=5",
+    "date": "2026-06-23",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706276-727",
+    "title": "暑い季節における森林火災の防止。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oc1ZHTWRta2d2OVdxWE14bEkydDJmSUZXQnNkeWtoN2JyVVVOTDhZY2N2T1FiVkx1clVsNlR0Rm4wMVdaSXNuNkhBVDI0TnlHTkNudTdEdXQzSkVlaHRMU3otNkd5aWJ5VXhJ?oc=5",
+    "date": "2026-06-23",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706276-942",
+    "title": "タインホア：ハイビン区で森林火災。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iZEVrRTY5aTFFejNYUGhHSG5GRlNBRkJ3Z2lrcUVCV0QyczhzTEtIbDBZdTBnYTdpdE9pNUEzOTZDbURLR0N1aW0tZnlhV2xwT2Y2el93UnEwM0tDLWJDQ1NSSmRCSGE2Yk80d2NzX05XMTA?oc=5",
+    "date": "2026-06-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706276-854",
+    "title": "森林火災は2日目も続き、州知事が自ら現場を視察した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV3lUT2hIejNOaDA0SDk2SjlYd2xqZ2ZKWURscm1ObjZ0Z2RLb3laUl9PLXNhMElBYlEyNlpnRF9xUm1SRTMtYl9aR0hrRHdhUU1udUNLUlJaM0xaaTZiRTl4dzdLX3dadHEyazlZcFE5anQ4a1A0M25IT0dMMk1Ia09WOVhIcU53aC14bXZKcmFvcXd5NTdUbERDaw?oc=5",
+    "date": "2026-06-22",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706276-847",
+    "title": "タインホア消防救助警察は、森林火災の消火活動に精力的に取り組んでいます。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZldGcG1JRm5KZDZBRzMwTGZMaHdMUFRCY0RzeEw3dW1EN29EQ3NMNUFHajVoU3RBTmREYjFDVmY3MGRDaWVrN2NhZGFFTzJpajJ6eWNPUFZ3aUJwUktVWEdxTjA3ZG9JMlRwOFB1bWRDYzZOenJBcVhMUmEyUEtwZzFGMERKZw?oc=5",
+    "date": "2026-06-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706276-933",
+    "title": "第202飛行隊の将校と兵士は、森林火災の消火活動に積極的に参加している。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNVhFR3FMRk85NW1JS2RNZGY3cExpaldQVkctd1l0N2VLQzVfODZGTkRnMGRRaTVpVnI4S2IwekJnZk1rZDVycnpYSldxXzh0VzBwOTlkbXYwNTJvS2llbU8zcEFOZlEyWjRUdTFibmpMd2Q1bXRVSEpTejlJRmx5TVFQLXduN1lBR0dWQmtXOA?oc=5",
+    "date": "2026-06-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706276-397",
+    "title": "コンコ特別区域では、森林火災を防ぐため、森林内および周辺でのキャンプとピクニックを一時的に禁止します。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa3hOR3pHc3Q1Q2JDVHRBTnVYMnNhSFZ0TFl1YnQ3eFJDcVB3MjIwOWdUQzRHc1FjU2x5aE9VcldMNUdrUGdBRUJ3ZEZWTzJlemFzMGVnWUlmNzREcTJCSWlXUE1qUkwwN1p3eDQyY283T3NtcHdROHQ5bU9MWHNyOFhSMm1GaGFTbmZHd0JFTjI4TFo3Tk5DSm96elQ4SWprYlJZT0VEZw?oc=5",
+    "date": "2026-06-23",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706276-780",
+    "title": "ゲアン省党委員会書記は、森林火災の消火と延焼防止に最大限の資源を集中させるよう要請した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbHhkaEV4cHMzN1o5YXBldkM3bUZwT1p0Q3UySy00eXpiVHkzaVlXSE4xSjBkdERoSmZnZ05aWUZxZkVFTjlGX3NzTXFyekRwQ0p1NEU5T2xXQTBYWW1QODgxWW03QVkyQjR3bVh3UzFaMGZhODFLMzZ6WDg1bldRaEF6bjRibmpLbDlZQUE4YkFQUFNQWkNNTDJLVGttSkdYbXRaLTZfb0VhWkhCNzlJYkx1Nlp2c0hIV0FNWndsLXBUUQ?oc=5",
+    "date": "2026-06-23",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706276-716",
+    "title": "山林火災でも生きた「震災の経験」 岩手・大槌で振り返るシンポ - au Webポータル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxVjVtaktYT21kVFVud3pfamxuVzZ6OGNjb1QyR0JoVERBM1RKOUo1ZzBQNXowZlJDZkFFbUNCYVZ2Zm5JdEV3NWtKTEZBNEtidmdnVFgtSGVoU0FwR3hXV2xkLTZBQ2IzVjh0MU9kN20tZkNGOTFzNnBqbw?oc=5",
+    "date": "2026-06-21",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782330706276-658",
+    "title": "クアンチ省は、2件の大規模な森林火災を鎮火し、完全に消火した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaS1PbEkxZjFWNjRjVGZ6MzR1TGZIQUZ6Q0xYSmhaRVFXRGhYdG9RTnJVdlVyNTBtODVucUI5VFhZMWZtb2NZVjhvdjZWM0dYd0JXbUEwMGplTmNPZnhyY2JfR1BGRUNudmVmY3dFd3JGYjVBX09iYmw3cU0tcDhDQzU0cURCT1FtY1BhZ3F0WmtfdXc?oc=5",
+    "date": "2026-06-23",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706276-727",
+    "title": "ゲアン省の森林火災は鎮火した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wbmJhckF4QXFKMXo5TWRSamwzM0lRaV9Va3l4aDVaSlZlVkRZRXExdUZ6RFZPelNxdnlJRlpDR0lJUXYzLWVHc004eUxnWWc0aTZYcXY1VE03Skx1MkFuaEE1dlNpQUY0MVlmdQ?oc=5",
+    "date": "2026-06-23",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706276-382",
+    "title": "ゲアン省は大規模な森林火災の鎮火に成功した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGFjVzlidW84WTI1TDlkZEpybUlKUTRWY1NuWlpFMzZwNzd5UzQzUENHUEsxY3lYT3A5NnlwbVh6Y1RKNFQ5aXZlSjdHYUNOTUNtUFNSSHNveDFQdkdKX1Y3QUNLVW9SYnBvbldGcjVOTGxSakV4Si1mOWdQVWJDdFJBczg?oc=5",
+    "date": "2026-06-23",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706276-395",
+    "title": "大槌町吉里吉里と小鎚で山林火災 100ha超焼失し延焼中、5棟被害 1000人超に避難指示 - 岩手日報",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BYWF3Zk0xeUo1VmhCT1FTUTNQVGVJU0EwUnhlVzlPRXp4b3VCd0FTRDEtX0NXRGlSZm9xQkwydHU0dmc1Vzc3MkRQTkZXV0pHQ3dZZXRXQzZucWhvNHB3VA?oc=5",
+    "date": "2026-04-23",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782330706276-323",
+    "title": "タインホア省で発生した3件の森林火災は鎮火した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlhQbXFwaGZQcHZKQjFMazlnTDkzd0tCSHlaMHloX21DT1dEd3pTSXdXcFdXaXNfVDc1cW5pUm11eU1RQW5TNThvdkE1anl4bUtKTmlSOWptcjlDOEpiSE5qX3JDMGJ2SVB4WFJWWm9iNlZ0SDBYZzhhSThXbnd0TGM5Ml8?oc=5",
+    "date": "2026-06-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706276-828",
+    "title": "トリエウコー村とヴィンディン村で発生した森林火災を無事鎮火した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWERPLWUzZ3FERHVSXzNhaE5fd191anRaTzFxUTR3dWVwczVZSF9nZk5HVHpSMnFIcEdDX3JpV01BcDVSRTdqN0J5QmtFSlA2SENwd29lc0lrZnFaZ1d5a2V0YUI2V0dCSDl1cTBZZ3VDRGhySmNiXy1TSGlKbHNJRVRSME43OGJaTEtROWIzNU1HV2pCbEJ1SVNB?oc=5",
+    "date": "2026-06-23",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706276-907",
+    "title": "ゲアン省の森林火災は鎮火した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44bl9QdWtLMHMwS2R2bjctdU90a1l4c1hCY0czc2FObWRLaVpPREpxNEc3QkpJSnZvTk5fUkhoR0U0bnpNRU1YTFNhTmlXYXpPSHU4Q2YzMU5iV1RUbUVYVmdXM2g0LU1qWVpkLXVB?oc=5",
+    "date": "2026-06-22",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706276-569",
+    "title": "延焼が続く岩手・大槌町の山林火災 ｋｈｂ記者が現地取材 - khb東日本放送",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MS2c1bzY1cmU1YnhfMGpmVXp6al9zZU1xZmNSS3lheHZuQ2habUZISzFuYy11Vld1emk3ZXAtWHRVdkk4MGQxSC1wYXo3OTA?oc=5",
+    "date": "2026-04-28",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782330706276-197",
+    "title": "島根・出雲市の商店街で火災 付近の5、6棟に延焼も - au Webポータル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKN1ItNlMyODAwVXdPSl90VUxScWhjWnNFNEx2ZmtFNG11MDZxdksycTFpSGtMSTNZWXpLMURhM25takFfdkc0Qy1BUEVUQWJsa09ISEpzUGJET1pLWXFnb3VfSHVoSmN3YVZ2dkVUUkkxN3NsMS1JY3I4bw?oc=5",
+    "date": "2026-06-23",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782330706276-348",
+    "title": "クアンチ省：メラレウカの森林火災2件が鎮火した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ROVJBU3ZFSTlWMUNpZnlkVDVQSEtzTVNUbGt2ak1xT2ZQRmdQOGZCNHZUNm5uWUdKdEE2eHVPU0g0VkVIMm0tNTlpdFBXSnkyYkRETnNpZFRZMzdVYW9GMWF2MVZkMTRaZFduOUFvdDU1ajg?oc=5",
+    "date": "2026-06-23",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782330706276-946",
+    "title": "大阪・能勢の山林火災、9万平方メートル焼ける 火の勢いは鈍る [大阪府] - 朝日新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zV1VMRWNrTkN4WkVhSHZBeTcxMUFxUGw1QWJEUmVkNTRjREZSMkszTWp0ZXpWX2pxUmRZRmUwWXNMVUFSbU9QYnFUUDdnNmczWVJaenpDWld1NEduVVJZMjBYa3EwczQ?oc=5",
+    "date": "2026-03-30",
+    "lat": 34.6937,
+    "lng": 135.5023,
+    "type": "temple"
+  },
+  {
+    "id": "1782330706276-339",
+    "title": "大槌町の山林火災 焼失730ha 延焼範囲は1100ha超 釜石市にも避難所開設 - 岩手日報",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00a3E5WnlSZ1prR3hRSUdrTkF4alMyNjJkdXNFSjVJbDJyOUdQUUZtd2cyRzlWOEsxZ0lTbExsR09aaWhKaDd4c1RJN2FETVlMaFcwbDhSZDl3c0Rna1Bwdw?oc=5",
+    "date": "2026-04-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782330706276-222",
+    "title": "大船渡の山林火災に関する調査研究、有識者が発表 岩手 [岩手県] - 朝日新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DVjRrTktBNlVUZjNRTnQzc1hmZW5CODhtMEMyMllhcFZOR3ZTc0d2eUl5aC1jT3Q4YmFrMnM2TGpGeVgya0RFVGc0RU1ZQTdIY3BxTDJyTnRqQ0c5T2VEOFMzeEtFSVU?oc=5",
+    "date": "2026-01-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782330706276-230",
+    "title": "山梨県東部の扇山で山林火災、近隣に避難指示 県は災害派遣を要請 - 朝日新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kRW51N3lzYlV6Q2lMNS1wV0NhcnRMbnVFdjdUcFlIYVc2TjRleEVlV2ZRRlB6YktXY2RBaUtZUzVBeVJ5NkpqLTBNcGp4dURZWTNDb1ZQX3cyTkpMc1dCY0NVTVRvQkU?oc=5",
+    "date": "2026-01-08",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782330706276-833",
+    "title": "【山林火災】池田町で最大60ヘクタール焼失、発生から3日目に鎮火確認 標茶町では「ロケット花火」が火元の可能性も…\"クマよけ\"に使用か | 北海道のニュース｜HBC北海道放送 (1ページ) - TBS NEWS DIG",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41QVlwR3I1X1VhRzNLX1RGRkx4VHRXanVGQldrWFlYV1NBcGNicUlrT0pMSE1yNG90RUNqQXhoTlYxRUthZ3U2WVBVVjgzX0NRbVdZVVg4eUJLY1l2Wjgyd3BoSS16eWM?oc=5",
+    "date": "2026-04-21",
+    "lat": 43.0642,
+    "lng": 141.3469,
+    "type": "temple"
+  },
+  {
+    "id": "1782330706276-734",
+    "title": "【現場動画】東根市の山林火災は未だ鎮火に至らず たき火が出火原因に ケガ人はなし（山形） - TBS NEWS DIG",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YRXJ2U01YVElCQWZkeVROSE9xX21XdTBqM3BPb1NtTWhjRmxhTW5FUnVtN28yRnVtSVc0VGlmMURsWkFyNEJkWkNJb1pNZm5BQ3pDYU1GTE5WWW1qRG10cFdTOXNiZTg?oc=5",
+    "date": "2026-03-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782330706276-387",
+    "title": "18日間延焼の群馬・上野村の山林火災 焼失面積が県内最大級に 《ニュース追跡》 - 上毛新聞電子版",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0QUxfdVEtQXJna2k0SUlEOE42YndxNDkzSVBOaDBiMkMxTUdjSWlUVzRNWV92RjkxbUNRZlh4MW1SYWdfbmpNaHFXVkdsZWNvelgtMXFmTGU?oc=5",
+    "date": "2026-04-22",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782330706276-772",
+    "title": "「心配で一睡もできない」山梨・扇山の山林火災、大月市側で延焼続く [山梨県] - 朝日新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RYzlRV2lOX2ZtenhDcjdST19ONWN2ZVdoV1poNWswcll0akpxY0lTSVhWV1M4aTNfaDdRYTQ3SmpZbnBaS09ad0NNT0gydDA3azBxc1BhWTFiODVCbWdZVXAyNE9LYm8?oc=5",
+    "date": "2026-01-16",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782330706276-332",
+    "title": "【扇山の山林火災】 発生から16日目 今回の火災で最多の280人態勢で消火活動 県内すべての消防本部から動員 - TBS NEWS DIG",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Xejh2VzFUTXZfNHpsQmxXWUhzRFg2bklfQ3dQeEFHSzlvZlNsVDM4RGMwRXVjQTkyam1fdFNNTjNLR1VFdXlmYjN3TXo4clg5NUVhY0RFV1lKNG1XYVpEeWx6SFFaMm8?oc=5",
+    "date": "2026-01-23",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782330706276-514",
+    "title": "「紙くず燃やして、戻ってきたら炎上していた」“山林火災”の原因か 新潟・魚沼市では延焼広がり約35ha焼失 乾燥しやすい春は火の取り扱い注意 - 新潟ニュース NST",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JSkZDLXctQ3VKcW91WnJTc1AyQ1hjZ2FBbHY4U2k2Uk9VV1c1Q1BnWVJXbTU1NmZFaldCVkt0SXg1Sl9QcmdxblA0dWNuR01aR0tFQ2EtS2NLaDlvTXo4?oc=5",
+    "date": "2026-04-28",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782330706277-413",
+    "title": "35センチほどに育ったスギの苗木を植樹　大船渡市山林火災の復旧作業現場を公開　岩手 - ｄメニューニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SdzN0WVdsSkItZWFDbUFlLXU5ZnhSWllEcHlJNENncC1hSXRuRUl3Q0ZkZTNwRkdhamU5dGdRbDBpb2ZPYldwUWRmNmdYZ2g3bmFVOWp0WGFuUUF1aGpLR0JZTWRMR3dzY3c0SjE3QdIBdEFVX3lxTE12dWJDR3FQVDBEd1VsdF8tV2l4dzFiS1l1VDE5cEMyVmtfV0VkS3pvdDl2Z1hrSGx0aEdyRWp6SlhMVXA1VG16UDVKUWpRTE1qeEU4OWhqYmRHbkZZdlF3ZHVLcHBJSnRieGpoM0xXQnpKYXEx?oc=5",
+    "date": "2026-06-21",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782330706277-610",
+    "title": "クアンチ省の保安林火災は基本的に鎮圧されました。 - Laodong.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdm5wYmxyczB3ZTREa09wQmlULTByS21tamNROGZQUWRiVFVRNW5oanFlaUszOU0xQXJfV3ZVRU41RndEWEtSZnl0SFpiTENoX1BldXRFT0tnMF9fRXp5aUlJLXRDdFhuc2hjWWhqSjg5WE5Lb1pSMzR2V2VkdXZxemJQTk1xLW8tbE9Pdmpyb3c0aXNqdDJudg?oc=5",
+    "date": "2026-06-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
     "id": "1782161603015-827",
     "title": "数百人が森林火災の消火活動に動員された。 - Vietnam.vn",
     "source": "GOOGLE_NEWS",
