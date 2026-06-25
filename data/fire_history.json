@@ -1,5 +1,245 @@
 [
   {
+    "id": "1782418005678-197",
+    "title": "「再建した家を絶対に焼くな」共有された使命…岩手・大槌山林火災の消火の舞台裏 大船渡の教訓が生きた「見える化」の力 - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzRWp2OEhPbEJTY0x6ckZLdWlOdlFNZk1rVmN3UnhaNm5NeWhxakM0TzN0TVZKTXVuX2o2Xzl0cjdTcmpTWk1GM01QVXAzRS1MNGZaTE5vZDJXRllUNmJvR0UwREZRTUI4QzU0SVVHb05MSHhkZTBFQUxweEpfVVk?oc=5",
+    "date": "2026-06-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782418005678-629",
+    "title": "暑い季節に「森林火災を見守る」。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBla3pPckM1Ymk1MVIzNGhUbXlPYzluWFpWaEYwbDdyS1I2YzNIaDh3RzVpaDZFaW1IeWVJVGhJMGdqSWFySDFPa3hIM3B5ZmdYQWVaZEJiYjJ2LXAtSUNHNDZ3?oc=5",
+    "date": "2026-06-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782418005678-397",
+    "title": "【速報】三重･津市で山林火災 延焼中 激しく燃える様子も… ｢山から煙が上がっている｣と通報 美杉町下之川の山林 - TBS NEWS DIG",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81MmV2ZHhYM0pXS29jNW9hS0dPQlVIdThycGRwWTlXY1VWMGJqajBQYjdhNWl4YzNWeXlQYnY2N3liUlV3ek9xRk95S0V2Mm9yV1J6cnVFT2lPU2NneEdR?oc=5",
+    "date": "2026-06-20",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782418005678-345",
+    "title": "「再建した家を絶対に焼くな」共有された使命…岩手・大槌山林火災の消火の舞台裏 大船渡の教訓が生きた「見える化」の力 - au Webポータル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xZmZrOW9kZWpLOTdRREF5LXdPb3lZRUphZy1hZWwtVzZJam8weDhqX2IzZm9GazdaZ2hrYjlhWHNEc2JaSFpfWU9vY2R3TEtnbE1ZVmxCZGx2YVVkMnY0dHF3RW9rbWNGU2dxVzlRTFFYWTVCWHpLeFJFcw?oc=5",
+    "date": "2026-06-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782418005678-936",
+    "title": "ハイビン区では、森林火災が再び複雑化している。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mS3NhVFRITGw4Q1dxYmlhQl81RE85ZHpJaS1KeE13bG5Cel95QWNSUEROaGgyNWJqeWxFX2tSQlpyc3hNc0p4ZkN6T0Uyc21YbDJjOWRhNHdDemZlRlJRZHg1c2FiRWU0OThqaXpFeGxUbW9obEJDODd3?oc=5",
+    "date": "2026-06-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782418005678-681",
+    "title": "タインホア省では、500人以上が森林火災の消火活動を続けている。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2tIbHp2b05EX2pjTWgzUEM5T1lFenZCZmRXdmZrb3dzZjJ5amE3R1lyRENhWmtlWVpxdncxN29RSG1SaDhYTnpVTjFVZWpnbU5JQW1jRTRhTi1xekU5WVdFbWhZTWdLMVJMaEtQdHNqSk5VS05kdXZBcGlqM2hsMg?oc=5",
+    "date": "2026-06-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782418005678-537",
+    "title": "タインホア省は、ハイビン区で発生した森林火災を完全に鎮火した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONlF6cHNucWw2QTBBODViYmZnOGhCTzVLM2IzbFBpMkkxYV9oSTl5WjV3RFRJSkVvQ3hVQklrMExPTkxLaDZNdHpwR3dDY2x1Si1qV1hfUjE4SXBwbGpCamg5RUNfa1dUbGNwNjJRaEhjdUMxcnNqMDhrRXZHUUVXYlkybkJ0aHBTQ1VrRmNyV2lET2NvZ1E?oc=5",
+    "date": "2026-06-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782418005678-367",
+    "title": "森林には防火帯がないため、火災が発生した際の対応が困難になる。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNnRaSmRlQ0xVZnMwM2NoVy1oYlQxbFFlbHNjWWJLWHhXcTJHd2l4d1ZzdEhiZE5MaGdmcFY5VjZUZkZTd2h6cUZwazllUHFXeEVZUHB5dm1pdnNDelNpbVg5YTl6V1VtOTk2UGdmVHJsWlYtakttOXZfRUxxOHo4RTR3VHJIMUhSUFpr?oc=5",
+    "date": "2026-06-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782418005678-245",
+    "title": "タインホア省：森林火災が再燃、当局は鎮火に向けて懸命な対策を講じている。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc01QRXZXWTNWM1haVkQ0aDM0Rl9XTGQyNG45cGN1Q2xtM0hGdnpZd1pLb3BjQ19UbC05M0QwZFN1QkJPcnJmMFZyR2hmUUZ5aUlEa0RPMmdJcGs5YUpJSDFodHhvblhjc3RTSTBvUzZMeDlqUWsyOGtiVERFSS05bkN3Y2Z3OHY2S2NQREZGQUUyZS1fbWUxdFF3?oc=5",
+    "date": "2026-06-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782418005678-234",
+    "title": "ハイビン区で発生した森林火災は無事鎮火されました。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMVQxS1h2WTFBV08zd2tmZWhUbktHanI4RjdsTGJrV1pzVkRaRllIQVktblhtRE9ucTA0d0RqcG1BRXNBRkN1MzVFc0dqUTZRdnZVWGRsSll3MTBEMzlUejBmSmhGNE5HUEZ5cF9pS1AwU1NqbEhfT3F1ZTd2SEVsREdVZ1JzQQ?oc=5",
+    "date": "2026-06-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782418005678-115",
+    "title": "ハイビン区では森林火災が続いている。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FTkxiLWcxWmhNYm8xcHBOVnBHRUVnWXZucTZqUXdJc0xyWkpfS2gtYU96VUtwOVh3ZFRMY0hTMlcyMVloV2JiTVNUY2NQdXZiazhGRTVScHV3cERTU2F2LU9TZnQyUm1QUU9iNkpHZUZtWWM?oc=5",
+    "date": "2026-06-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782418005678-59",
+    "title": "タインホア省は、森林火災の影響を受けた約3万世帯への電力供給を復旧させた。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3p6cUEwR0QxYW56dkt2QVJMT1FQejV5VUlDRGRwc1R6RjRvZ0NNWkR0VW1VV091REZKTTQ5aURxYmRNVEgyUndvYTl0VzlZeDdmeVhHRGFDRTcyVTRvbk04Ql9sTG9YbER6ajhNNFhRVDFWWHE0M2QwV1ZZV1BpcDY4c1l3U2MzelFzLVFMaUpFOURvOEs2Q3U5UjFYaFkybHlkVHdrWVN6VDB6WXlTeXRhZw?oc=5",
+    "date": "2026-06-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782418005678-159",
+    "title": "ハイビン区で、夜通し残火を消し止め、森林火災を抑制するために作業が行われた。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSjcwVUNvbmd3TlFlOFBMTU10VEwxQWIxdkhVYjUxakcycVFiX01JbGpZSGhhMUxLUFpWTEVZVGdldFM5cER5a1M5TmxDOG5yZlR1MXJxa1FFczU2SkhyeTNSSGlfQnB6b3FCMERJLUJtODhYeUFNYXFvZGlvZ3pfSHBkQ042OEtqRTNwbFlZYk9UU3p1S1NjRHE1WQ?oc=5",
+    "date": "2026-06-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782418005679-897",
+    "title": "岐阜・恵那市 山林火災 延焼中（ABEMA TIMES） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tWGo2ZUl4VUtHNlNSUEtCUUVZMElRYmI0LWVxbjlTcFJyVmpIWk40R2xlOGQ3dUdXZ2tXMnRIOVFIdUJVdkZpZVBvcUFsRWdreEpZazlfYXlvT3AzdGtFUDl4cENkLW45RnRMRFpyRUR1dU1NanhPMTN6UmdIQWs?oc=5",
+    "date": "2026-06-13",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782418005679-10",
+    "title": "岩手・大槌の山林火災、焼損1708ヘクタールに 経済的損失1億円（毎日新聞） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kdW52NGNQRWpFajJjSVd5bkxtSXBGNDhUUEdMNERhSlJPcjJOMmNLZ1haemstamRxYTZpX2duSEtZQUJYQTVaVjlXVjVEZ2NjS1JhRzdDckxic1dTZ3lWTDI2OXdyaVhQQ1ZZMlZ2RDZ6Z2piazRfNWNjTWlsUk0?oc=5",
+    "date": "2026-06-15",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782418005679-504",
+    "title": "まる見えリポート＞津市美杉町の山林火災 空中消火が効果発揮 関係機関連携、被害拡大防ぐ（伊勢新聞） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1talBucFhoUHBXVEI0aGJpbXpSUy1lcjBhcVc2cXo5Q3F6cjdsNmFqY050bE40dDRMLWQ2TVlqOHpjdkYwWWt3a3RaZDY2MFNOZE5pWmNqclpJbUFoM1dWYVhZaU5jQzJ1SUhVWTVmMkphaHlxLVhxYUFKU1RxNDA?oc=5",
+    "date": "2026-06-08",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782418005679-826",
+    "title": "タインホア省：森林火災はほぼ鎮火し、3万世帯への電力供給が復旧した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTTJGWTQyTTBCRmtZWUdjZW1aTHVJNkFWdWRmeTFfeDBLZlJvc3E2dGtOSlFsUEJJX3VzdTdoZkpHck55YWNlN0FlOWFsZ2JtOVFVVmJ3QkhzNFRadnJMdldmbU53VzZsZWdQdmkwMkRaaEQ0STJrYzFzYy00MnJaRjUzaUVpRWpJYkg3YkNXWVZzeWgwRDhzeFhoeHItUVhpWHlj?oc=5",
+    "date": "2026-06-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782418005679-435",
+    "title": "一連の森林火災を受け、クアンチ省は責任者に対し、厳格な説明責任を求めている。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQUVzUUxKc1NpMUVDUEp3RVBlWWNZaFQzeWFEUnRobWtKOVlVNXFlNzBzM2NRUmlzWUZ1enpTOHA0YjJsVmh1b1dPZUxZc01wVmJMbjJibUlVeU9DSnBoeVRrSnhPTkhUc2xkN09aYkJhRjNTWl9RdU9aNVNLZzNhMVM2NEd6WmZzM0tVdmF6VkZLNHlub3VDdFQ4ODJSZ2QzTUd0Nk1EMHowazEyam9v?oc=5",
+    "date": "2026-06-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1782418005679-527",
+    "title": "【速報】岐阜・恵那市で山林火災 延焼中 50代男性が手にやけど - テレ朝NEWS",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ielJER09lWXE4YU9OWEhqREJHZzdMVTdRN3pGS0Q3SHpJWTdZOTZ6b2d3N3o0SUFIMTROVkFNNDI1VGVxb1VocXpVMXAyaXhRdjFtSk1NV2N0NXZwczU0S09xSklwcGxOa0pyVzJQRXdKQQ?oc=5",
+    "date": "2026-06-13",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782418005679-951",
+    "title": "大槌の山林火災、被害1373ヘクタール 平成以降2番目規模 - 毎日新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKQ3NULW1hN3ZFTVNoNFFsNmx2ZTlkaDZDblZLOFdpZGtlT0RMRlR5V0dOc3I2NGpsc1BNN3paSnFhblFnQVJzZUpObG84RGxVX2RQRjBaWWZ5blc2akF0M09acGt2d2tm?oc=5",
+    "date": "2026-04-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782418005679-565",
+    "title": "恵那で山林火災 男性けが - 岐阜新聞デジタル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15eksyU29EZks3SVhUVm9fOWlSejdLYkVXQzVMMWZSOFVkeWJPMU5YVkFhZmRZbEd6a3c3cTJIdFAxZ1ZIRXFweXBVOEdnY3JKdGxWWUNR?oc=5",
+    "date": "2026-06-14",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782418005679-585",
+    "title": "廃材処理で木材を燃やす…山に燃え移ったか 岐阜県恵那市で山林火災（メ〜テレ（名古屋テレビ）） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLVHNtYUxiRmwwNDN4VDBSV2FMZUhCSGI3UC1LUmx0RkRGR1ZSeTN1aUplV3hpZFlvbWlLQ2JTa1VHRWU0dDd5Z3BUX1RvU0xFOEtQUzRZWjRUWHQzUl9kSENILXAyREpic2Y1Zk5hcTQwUTg2b0h3Yy1HSjdPa00?oc=5",
+    "date": "2026-06-14",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782418005679-414",
+    "title": "【速報】岐阜・恵那市で山林火災 延焼中 50代男性が手にやけど – Quebee キュエビー - QAB 琉球朝日放送",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZV2o1VHpkLUdIMHV4ZTVMU3gtRnk5MWM1OF9QMXA4RF9PaFVqdFFkYVpOcXZ0c0hIS3pJQmRwUnFsRHJUT2JhTDl6dWtRbzZTRC1WWG5aRDQ?oc=5",
+    "date": "2026-06-13",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1782418005679-339",
+    "title": "福島・喜多方市で山林火災発生、178世帯を対象に避難指示 - TBS NEWS DIG",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0dHVOSEt3bWhzZWlSd1RvS0NuZW1adWExXzMxc1FFa1M5dVQ2MzM0cVBURTlBUkJndEx2TWFRZDZYVDhENm1EUTdSYUhiM21VSTVqMzVKMA?oc=5",
+    "date": "2026-04-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
     "id": "1782330706274-523",
     "title": "山火事マップ注目情報：ユタ州コットンウッド火災 - IQAir",
     "source": "GOOGLE_NEWS",
