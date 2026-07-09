@@ -1,5 +1,75 @@
 [
   {
+    "id": "1783626699359-3",
+    "title": "フオックザン村の軍隊がアカシアの木々で発生した森林火災を消火した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM0lUcmtuYUtpcW9sZEc1QUpMN0hCWWI0UmVoV09GTlhwckNUUzFjM1NqUlMxUG5nTElYMS1CTnZqdWFSNy1rRW1PNG45MGM4NF83cTZQQl9Ma0lsTWlLeXNxTzZSUHB1WUpsWUlhbWxDUFhYcHJlSWJLaG5ZR3d0VXNTdw?oc=5",
+    "date": "2026-07-09",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1783626699359-421",
+    "title": "タムチュク区カオサン山の保護林で落雷により森林火災が発生し、200人以上が消火活動に参加した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV21LanRHclVxYUxFTzdOMEJYcmtCRUlBa0lZM0lITTZ4LVdmaEladlN6em5vNzlZbXBiZkxPdEFNcFVsT05HbGFxQnhzZGRMTTZNM1VXaEVxZGlKdWVEM1dYZE5lSlI3Wk41UkFUYTRrSy1NS2RoNmFydC1LUFY4d2I3Zi1oYnpYOGE5c1MzUG9NVlUtUk5MWWhuU3dvS3Rub1Q0OFNEaVBPdTh1NFhKYmJuQjhzN05PNnI5bmJn?oc=5",
+    "date": "2026-07-09",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1783626699360-713",
+    "title": "大槌町山林火災 - 下野新聞社",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yUHZidnBVT2lTS0FEOHRJa1N3cG9yNmNqSUQ2ZHZ2WUE2RzdtNEVHSko0M3RETE0wV3hxMVlMTUUtTEVfejQ5THdzYnlWTXp5OWhTLThNZDlCWUU?oc=5",
+    "date": "2026-05-08",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1783626699360-682",
+    "title": "【速報】三重･津市で山林火災 延焼中 激しく燃える様子も… ｢山から煙が上がっている｣と通報 美杉町下之川の山林 - TBS NEWS DIG",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6LVhVNW4tYXJWVUFCaEpxcU9QVXhpUjNReFVoUURQU3lVS3JERFIydmg3UERLMklJNThUOXVxYWpHSTNrSlpPX01UMTlVZHF5ZS1WNHdwbw?oc=5",
+    "date": "2026-05-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1783626699360-454",
+    "title": "大槌の山林火災、ホテル総支配人は「何か後方支援を」と消防隊員に浴場を開放…延べ１０００人以上が利用 - 読売新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2bFpxb3JXTXdSUThPNTFMQmd5QWNPbnJuR1o3b1ZsX25EZ1FxUm5xZkl0a2V6MHdEYlBKWVpvcHhvMXp5RDFqR2dva2NPT0JWRURlVlRtX21HcGVBMkY4cUNfaFQ2Zw?oc=5",
+    "date": "2026-05-04",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1783626699360-561",
+    "title": "焼失面積1000ヘクタール超え…大槌町山林火災3日目も延焼続く「家が心配」 - TBS NEWS DIG",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JdTZTM0ZwcmYtd0xpczZZVVl0MGJuVndUX0xhQm5odk90SE9oa1c1YUM5SDhNQURUVjV5Tnk4dlBuTEY3ZjA1bDgxUzlQQ0phZG43UzBDRQ?oc=5",
+    "date": "2026-04-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1783626699361-364",
+    "title": "岩手・大槌町の山林火災 早朝から消火活動も“鎮火のめど”立たず…民家1棟を含む7棟の建物に被害 「丸焼け何もない」住民が語る悲痛な思い…【news23】 - TBS NEWS DIG",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MQklrU21IS3VPXzRsLTE0eU0za0w3b3BBV0lTcmZrMER3WUdaRFdEZFdZY2Jzcmh5bFJKckx2UTZTbExjczdCRkFuRXZRT01jTGZQTUtjUQ?oc=5",
+    "date": "2026-04-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
     "id": "1783539543319-643",
     "title": "スーパー店頭の募金が1120万円に　山林火災の大槌町へ寄付金贈呈　岩手 - ｄメニューニュース",
     "source": "GOOGLE_NEWS",
