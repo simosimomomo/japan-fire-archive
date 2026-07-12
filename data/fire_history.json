@@ -1,5 +1,45 @@
 [
   {
+    "id": "1783883443540-833",
+    "title": "スペイン南部の大規模森林火災 徹夜の消火活動 も犠牲者多数（AP通信） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00YWlwZi1FVFV4enJLeGRkUzMtaFZvMmwyck92VC1RZEx0MUU3Rjl6bW9xX2NkVVFfN3hoREVza2dwSnYyV0gzQ0t5UU1Cc3NQYUs5T3hOV25oc0FJdVZFb1g0ZGE0ckplNW9uR2NzUkxSVjd0RGlIZGMwTWhuY2s?oc=5",
+    "date": "2026-07-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1783883443540-767",
+    "title": "被災木を治山ダム整備に活用 大船渡山林火災 岩手県（岩手めんこいテレビ） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LMlRtaE01bG1BT2J4c2FUbUVlajNvbEgzSjBGQmNydkprM09EZkc3aUdUYTBiMi1zWUhabFlpX3MwMzlGbHpSVGFLLXYwb1JmX3B0QzNZUVdJbHJkd1pVYmc4a0VCNlBkNmtaaXU5STR1RHNxUUVrWUtZanVIbTA?oc=5",
+    "date": "2026-07-06",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1783883443540-434",
+    "title": "スペイン南部の山火事「史上最悪の火災」と地元紙 死者12人 23人と連絡取れず (テレビ朝日系（ANN）) - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTjhSX3VfcmhJYUktWkt1bkV4UEI5WWZxVXlpME9yZWVPclFBbUZZNVJHaHZKRGRpc2ZkOWZoREVFaWdqZjlaelpxbGt3eE5uVGVFeUFPSlIwOThONG4tSko0eUttNnEzV1dZMUtxcEYySzRjcGZUcTFqbFBIQU1Nd0pIaHNnU2xUM2pkY3Zn?oc=5",
+    "date": "2026-07-10",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1783883443540-385",
+    "title": "米ユタ州で最大の山火事が拡大 独立記念日を控え花火を規制（AP通信） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWcjhnZlZNMzNaOFd6UzBJRnVjVUtWbURsYWFUZEFHcVQ1cHRlSnlXRXppRmpQbFUxUGQ0WW1fWTB2TEs2QW11b0NJOGd0aUt3Q3ozNmZLdVFyMHkyRm9RREtoRDFGbFFOR0g3dVJXbV9EV0tjSnpjSGVJN1ZZd3M?oc=5",
+    "date": "2026-06-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
     "id": "1783797008714-201",
     "title": "スペイン南部で大規模火災拡大 車両の中などで12人の死亡確認（AP通信） - Yahoo!ニュース",
     "source": "GOOGLE_NEWS",
