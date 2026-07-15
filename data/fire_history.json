@@ -1,5 +1,75 @@
 [
   {
+    "id": "1784143045780-160",
+    "title": "パリ近郊の森林火災で放火未遂疑い 新たに46歳男を逮捕 車からライターなど見つかる - テレ朝NEWS",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oN2k1Vml4aldVMWtaRjNoUk93NXJjaG1IY2RSdjdiallfZURET0Z1elBhd0ExV2M2OG5Udlp6VUlfdzN3amVwZUNsa3RJUkdXT2lhR1RXUnZyNDhlOVZ0Z0hXUjlqdG5DNktESmt3YlBjeXVjU2RkQmpB?oc=5",
+    "date": "2026-07-15",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784143045780-973",
+    "title": "ミネソタ州の森林火災による煙 米中西部州に大気質警報発令（AP通信） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RVkFUVkJ6eGJPZ0xCWWMtT0E4ejVaRUpaa2p5YWEtajVmdjZ0bkZZV1hkS0NnbVhMMWZycmxXcWQ1bFptWTVkaENCYkgwTnNpSHY4TXFZalRfaUlPZEh3N05UWVhhM3lEOUQyd2VJLU53eUVCZGxBbThoWEhPQWc?oc=5",
+    "date": "2026-07-15",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784143045780-857",
+    "title": "パリ近郊の森林で大規模火災 約1000人が避難 - au Webポータル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNUkYxWGp2VjVyREpKdXhOZllMVGtmYnJnRkZKMEM2V0lYdHJYV0NDSkdOWTV0blZucjdxN2hkaXlZV01UTEluaW5rdWFycDFlVmV4ZWs0VEdWWXQ1eDNCdkZ4M3ZNelB1Q3R6VF94VzhBQ1ZfVmRaMGt6cw?oc=5",
+    "date": "2026-07-14",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784143045780-271",
+    "title": "山火事マップ スポットライト：カリフォルニア州エレファント火災 - IQAir",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUHFjM2RGdkRiZzVORUtRN0U5SUJFOGlGazRnaVpsdTZqVXFFZ1NRbGIyenlBbmxtR2tlNzNfU1ZSZEZMa0pIbWd5NE4zSFZXTnp5ZGFrTGlPS1V3YzJMQm5xcFU3ZjNkdzRuNVZld3NrbmJ6eFRxNkRHQjVybjlabjl2V0JncXZ4?oc=5",
+    "date": "2026-07-14",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784143045781-616",
+    "title": "山林火災でも生きた「震災の経験」 岩手・大槌で振り返るシンポ - 毎日新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9COFhZVU43b0hYMlZMcGJ6bk5nd0swaVJORWF6WExjbHJtRGR4WFZXUTZWV09KM3lVc0NUYkJLWTlOcGVfLXZCNGZmQUZ1Ylc2TkVaT1RzS1IzdDhaSWlEUWRITDh1NmVw?oc=5",
+    "date": "2026-06-22",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1784143045781-381",
+    "title": "パリ近郊で森林火災、セーヌ川の水で消火 欧州を襲う熱波で増え続ける死者 - プラメポータル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByUzM1RGRtM3dhTFRZWU1PekhNbVg0dTItakFhVnVHYlJ0cWEwSGlQSzg1c1Y1RHdyYzFDVnp0WVVrNlltM0IzWTgwTHB3STlqMlN6aGRHZFQ2TUpGSzhoOXdUWEs2SEFhc19iblRXbXZMRW9feUpTWUQ3bFJfQlE?oc=5",
+    "date": "2026-07-14",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784143045781-526",
+    "title": "パリ近郊で新たな山火事が発生し、ヨーロッパで火災リスクがさらに拡大 - gamereactor.jp",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMk0yRkJRQjFELU55SzF4U01ac1FIdHV6LXlSMk5qRkhxTFljdXFCaE5RWnplaG50RkxRdWJiRWFaeGhrNGNmdU5vcC14R2xmVG11Y3VsRUdGWW0tU1EtLTM2UFkxX2xUN2J6anpESDh2VTRzZWZpQzR0RndheDhDZU9tTG1hcE00QzBwNWwycVVmdlZRUUZSWDdZNHVXb1dsU3c4TDN4bm9sOHNCdEE?oc=5",
+    "date": "2026-07-13",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
     "id": "1784057108513-973",
     "title": "パリ近郊フォンテーヌブローの森 異例の大規模森林火災が発生（AP通信） - Yahoo!ニュース",
     "source": "GOOGLE_NEWS",
