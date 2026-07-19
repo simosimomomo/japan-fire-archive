@@ -1,5 +1,255 @@
 [
   {
+    "id": "1784488280616-639",
+    "title": "【米国最新情報：118】カナダの森林火災がトランプ大統領のカナダに対する関税引上問題に飛び火（1）（中岡望） - エキスパート - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd2FnYUNRUmlFZ2thZFVRNXFRVGtYSGVmZzVhc1pDdDBzSlE1WmZoMGFmbWphZkdJSFF2eDRHX3pIYWkwZ3BRYm1VM0pZNzQ0MGxNUFRha3RNaE10eHd4M2doR0xVWmctaEpLTGZOT2lyUlhsUk5HNnlRWTE5bHEwSm1SWnlBZnNh?oc=5",
+    "date": "2026-07-18",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784488280616-534",
+    "title": "シカゴ発 〓 カナダの大規模山林火災、北米の野外公演を直撃 - 月刊音楽祭",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBlTlJMbzJYaDZnV1g4dm9nbnh3N2tjZGt5LW5RRnFFWmE5V1ZMRnBHQ0tuaVlYNUlFc011Vll0dzhZZw?oc=5",
+    "date": "2026-07-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1784488280616-92",
+    "title": "欧州の記録的猛暑で超過死亡1.4万人規模と推計、フランス・スペインの森林火災も深刻化 - 東京報道新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtUV9OZHdxNHp2SGtydmItZndXTlVlU1NYQm55emZMS2Uxazc1T1Y4VmJIVkItZXY5bnprVlZZdWRtU2dQaE4wTDhXXzZrZldxeFpv?oc=5",
+    "date": "2026-07-19",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "type": "forest"
+  },
+  {
+    "id": "1784488280616-823",
+    "title": "森林火災と埋立地火災の鎮火のため、200人以上の消防士が動員された。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmNkblRKcGtIWGQ1T3BvUkxFM09ycDRPU09VSzY1OTBTd1lqV2s4M3BoVWdwcFNsZHZmaFdQNzQ4V2JaT2RKdzhhVFpBYndBVG5UMWJoZ3V3NFpaVkYzZWt1SmZGZFVxTjY4dWJxamRNX0ZVYklmNlU1YlM4MjVTSE5vUk8zZ0p2ZEpBRGRkVmFwNEkwWDBN?oc=5",
+    "date": "2026-07-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784488280616-485",
+    "title": "ノルウェー南部の住宅地で大規模火災 100軒以上焼失 数百人避難 森林にも延焼 - KSBニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91NHNvaW4wUTZhcC1ITWFSdlVtdzAwUTFCMWhZVTZObmpfazRBenFMWUQ2YVdrend1TDZCeW9wa3lYdmF1NjJGXzVzdlIxWUIxcG9zWTdR?oc=5",
+    "date": "2026-07-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784488280616-719",
+    "title": "【米国最新情報：119】カナダの森林火災がトランプ大統領のカナダに対する関税引上問題に飛び火（2）（中岡望） - エキスパート - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObXF2SUhyNGl3NE1MdGxac0h4TTBaU1B1d2t2UjQ4ZVk3UHh4cy1HWklsd0VUbkI4RTFoUGxvMU1Bbk0tV1NyeVZWR3FXaWZseXJ0aWUtR1R5S3ZpVDNmNjJEVWtEWFplWHRwNmJ5M3gzaXJtSlFpaWlBS2FRbEVEc3BmRm9kdEhP?oc=5",
+    "date": "2026-07-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784488280616-637",
+    "title": "クアンチ省は、24時間以内に2件の森林火災を鎮火した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN3RCNHdjUkQ5cF9IclZuWmFha0EwTTFRNFA3VlNYdXRfczBVa2J5TTgxVXFFSmp6RlVOcjQ5cmpDb0lLYjFsekdLSlZJdkVxOHc5b3Rza016a2NtdVpMT0FsSlVOZUg5TGpWRjdlUmdEWXJuTFVfR2ppUjBsZzgwRGUxT1hSdHF3a0E?oc=5",
+    "date": "2026-07-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784488280616-462",
+    "title": "クアンチ省国境警備隊は、発生した複数の森林火災を速やかに鎮火した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzUxWEVJdVlaVURmOW92QWx6el96OEcyOWNQN2FaX0ZKdG1GcFBoY2FRdEtrUzNVWkVXSDRHR2d4dnRuc0hvSGJQNDAxMkluTnlaQXVTajdvcjR0WFd6QkhnRDZTVXZENVVyQUF0WUhhblYyY1g2VmV6Y3dLdGVDc2tHVEtfUWV1ZzhsM1VNYk52TnludWc?oc=5",
+    "date": "2026-07-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784488280616-48",
+    "title": "クアンチ省では森林火災が繰り返し発生している。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aRzNXcmFzbmFSRldjOW1OVUdiS251Q0d2S0VNNWZEcVo2alFoVXJESTQzMk9QRDhDSmhCZkZsT1gxa0J4b2dPeDJLM044cmJJamNGWW13d3JYYXdOUDlpVHdKMUo4akQzVjJyZ2RhTTR5QXFH?oc=5",
+    "date": "2026-07-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784488280616-801",
+    "title": "一連の森林火災を受け、クアンチ国境警備隊は消火活動を調整するために部隊を動員した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXY2YTRua21qaUlhaHVVWERocGdUVnNBaXNkWWRSbHNjX0RVYmU5V3lGaHZUN0JUMGY3T2pjdHVCUk53UnVVVHRwcjFJQ3k0Sm51Ulp3V2xZOTVONVJpMjhPX2RkMDM2RVJfZ25McWxpdGl6Q0lMcl93ai1FZ0xzYXVwY1VuaXd1cVV2WTByNnFnWnRTeXc4c000bGYwV1hJUWlIalBYQ2VNamVxOF9ITllzX0gycXZhWHc?oc=5",
+    "date": "2026-07-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784488280616-306",
+    "title": "ダナンで発生した森林火災は、将校と兵士合わせて200人が消火した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CQjI4WTJhWE5GY0JpSlFWQ09FUW1iYnJ5ZjdVMTUwaUVsQlNBc1ZrQ2RKc3N1S0xsS24wT1NmX2h5SVRsT0JpcFM3S21rUF9OaG5MdEZvdy1ZVlgxcXoxdXVBNHRJeDFHR3J0a3ZaMUdJaUF5cWhpdUZ5Z0tqdw?oc=5",
+    "date": "2026-07-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784488280616-200",
+    "title": "W杯決勝前に恵みの雨、カナダ森林火災の煙で悪化したNY大気改善へ - Bloomberg.com",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xN1QtLWR6QTFRRjdJd181ckpDMnNzaGRDSlpxVHp1MUpVOGdkeFJJQ2xMZUZ2Sml3Q1lRME9ET01LWllTSHplZjI0SWR0MENRcEp4QkxZVWV3VXhkaFNmbXZseFMwc05Cc0dmcjFiVV9DSFFRQmxn?oc=5",
+    "date": "2026-07-18",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784488280617-727",
+    "title": "クアンチ省で1日に3件の森林火災が発生した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80dGIyaEVQd29zelpYTGw1cER4MVhpZmRWQXl6QWdTSk1YNVFsNXJHZmVhUDgzSldPemxjNV9pRU9mSE4zY1RtR25iZk5tUnZKcmdaQ1YwM0ZUQkxaSnN3LTk5T3ZZU1hMSjZnWjNSZnZZVjgyN3RCQU93?oc=5",
+    "date": "2026-07-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784488280617-901",
+    "title": "ダナン市における乾季の森林火災対応手順。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdEw5eFJkeHVzYWR4cndYTENYLWpLNjY1cXpKa3ZFRGgtck1lai1UN0l2ZFRlVlRRQTd0X2RlRV9wckhkVC1GMUNyeXlUTGhPY3Jib0VTckdqQk5udU1BVnBUTkltTG1waEZkOHdxbm1zVDY1dkhwZzM4c1h6REtfaGVTeTRKaFR4VjhwS3dvSi10Smp0djFudGE0VWRHMzg?oc=5",
+    "date": "2026-07-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784488280617-675",
+    "title": "クアンチ省では猛暑と森林火災が相次いで発生している。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOTJYLWtQMGRMVDhGZFlLZ0VmU1lSN1pXNUp3aGFvNUcyZnV6NmR6d0c5NE1iX284cjhMQlhXT0xkTXFQQlBVZE9tSlhyMmZjUnRZOHN2SFFoeFNGaGJYcnhVSFVuVjRUYy1wZk1fWlNaU0V6dmdHZmxUZnV4VmNyZ1lYY003aXRvYTVPVEZn?oc=5",
+    "date": "2026-07-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784488280617-198",
+    "title": "森林火災を防ぐために、どのような対策が最も必要だと思いますか？ - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00V2tPMkVIVjJadmd1Q2dwU1VZaU5ZSUNucUg1YUxNV1VRYlZhZWhyVzBELUNyMEdqdUNIQzJldzktNjR4RUlEcFdXT2g?oc=5",
+    "date": "2026-07-17",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784488280617-512",
+    "title": "クアンチ省：高温のため、森林火災が相次いで発生。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdUlzVkE2WmhXbVdHeVIwa0R3VExGR2lfa1pndHZLbEE3Qk5Ec3JBRDA0SWpucGkwVEVlRERSeHREaURfYU44OEp5Z1h4dFJEQmc2X0c1UXRVeklFdXlTR2dQbEFPNFpldVc0V2dwaUw3YVhPQjRQdVlGenlJSmY3R0tKMWd6ZGM3bjctR2NGd1FCTWMtaV9B?oc=5",
+    "date": "2026-07-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784488280617-554",
+    "title": "ノルウェー 大火災で100軒以上焼失 数百人避難 - au Webポータル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15dnFoRjhzYWZMVGdDRDI2M0lCLTY3bkdCZFh5b1RXMTU0UW1YbmRidHQyTXFMenpVV0h5emx6MXR0QU5lNHYwLVF4eXhMd3Y0eGtSLTVBVTA4aVRQY2JxTXU4eHgxd2sxT0w3eWR1OWZ2QkhyVVJBbmpVNA?oc=5",
+    "date": "2026-07-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1784488280617-485",
+    "title": "国境警備隊はハティン省で発生した森林火災を速やかに鎮火した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRE5Idnp2eW9nMjMxYnJ3MTFJand6UHJJLWtGekE1NDBIczJWUHAtUkphMi01aWk2ZHY4Nm1LMnUxV0lHMlA5dGsxS1Z1X1JPOEROSDd1OFhsOF9rRXo4NHU2bTh4TFQydzZURUdOUW5JMk1HN2k2SmpDTThXLUoyTDhkcGs5T3g5UFBaVm5ET3E1SnlqS2c?oc=5",
+    "date": "2026-07-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784488280617-274",
+    "title": "フィリーズ 異例事態試合開始58分前倒しの一戦無事終了 森林火災影響で試合中も空気よどみ試合は黒星（スポニチアネックス） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rSHVSbkthMEcxUEZBNk9JVTY2UXJ1d2hlQ282c1J3NWFEbldSUWNPcjRacG5DRktUQ2p5aHJibDB4Z0h6UFFqNXNYbFFGSnpNUjhITi1wWEFnLVhUZVlYaGRWREZEbV9kcHJLNUlEczU1TXgyQ2pVNGRmTnNQbk0?oc=5",
+    "date": "2026-07-17",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784488280617-551",
+    "title": "ダナンで発生した森林火災の鎮火のため、100人以上が夜通し作業を行った。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQalpLcnJRMGZScUJTZ3FtT1pMVnJpV0Y2NUpSaVZoa09jSHk2eEM3R19qSElldTRZZHQ3NFpWbGVyM0lSLWpoNTU0czI0dWlwUXlDMkx1eXAxMWRkcXBOY0VhVWdRbWtRNk13ZUZxcGdwR3c3WUZMSjUtamRaTzI4Tm02RjEtQQ?oc=5",
+    "date": "2026-07-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784488280617-9",
+    "title": "バク・トラチ村の森林火災を抑制するため、緊急の対策が必要です。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sZHdUVV8zaUhVUmdBNlVxcVJxS1FRNmF6MXV1cEcxWi1DY1drNHdKTHNTUi0yQTkzeDZZWDBuamVqQ3ZNd05yZHM2ZVJfeTBuWmtYaWJFdDRWcTRRNmhMcnpLMUJ5X1JYS3libWdUa05fRFd3OVp2TnE4SmNZVzQ?oc=5",
+    "date": "2026-07-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784488280617-465",
+    "title": "クエフオック村では、数百人が夜通し森林火災の消火活動に参加した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUplbTVPREwzREdmb3hyemNRZUkwN2dWSng4SFYwZ05pNmZUMmcxOGhWNHNrdTZtcWR3RkRScTJMM3VJZjJnVzBuMWIwdGFrYm9raVdKQ1FPVWlVOThWeWNnd25KRlVqeEJ0MElaVEZKZ055dEZhalhfNHMwV1JkM2psYkZfUEZmTUhPRXMtZVlUQy13c1l3ZjZtX0VHRGFXVHc?oc=5",
+    "date": "2026-07-18",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784488280617-791",
+    "title": "15,080ランナーが2026年リアウ・バヤンカラ・ランに参加し、 森林火災対策運動を強化 - VOI.ID",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1IQWRpVEVhWWFNekh4ZV85Z1VYXzRWQldhZGsxWW1YOG9Sa1I2dUdITHB4enlLTGlpeXBlV2ota0s1cFE?oc=5",
+    "date": "2026-07-19",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1784488280617-289",
+    "title": "【速報】雲南市大東町で建物火災 木工所付近、消火活動続く 島根県（18日午後11時現在） - au Webポータル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfSXBMTjVNTGJlWmZCWjNuV2J3NTBmbHNubzRQREJjcHpEcHlmQTR2b1B4NTNTUjZjZlR2eGJ0N0k2U2JrSWlxV2lNWmx5M3NlUHdpX2x1bHpTcGRNWFV5RnhhVloyODU0cTgwd2tYMm1DSGdtSTFQTEc4OA?oc=5",
+    "date": "2026-07-18",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
     "id": "1784401820266-443",
     "title": "カナダの大規模な山火事でアメリカにも煙、トランプ氏は追加関税を主張 - BBC",
     "source": "GOOGLE_NEWS",
