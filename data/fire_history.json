@@ -1,5 +1,625 @@
 [
   {
+    "id": "1785093421429-215",
+    "title": "ヨーロッパ山火事拡大 フランスとスペインで30万人以上が避難",
+    "source": "NHK",
+    "url": "https://news.web.nhk/newsweb/na/na-k10015186461000",
+    "date": "2026-07-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421995-888",
+    "title": "フランスの森林火災、22万人超が避難 拡大続けボルドーに迫る - 朝日新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzYl9neVhQQVFyNGVMeFRPY3ZVUWtscnhwVWlqZ3pKTU9EZkJfSXhNdXNNVXAwWlBYXzJvZTZmYVpFaWhqdjF1RlMtLUs0RkV4YmFMcG5sVC1yajB5RnlfRC1pNkp4QXM?oc=5",
+    "date": "2026-07-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421995-149",
+    "title": "ボルドー近郊で森林火災が拡大 仏軍大型輸送機が消火剤を散布（AP通信） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UMWRvdFlPNE5PTmJUa1FHOHhzeXliTHhmd19FSE1FWkkyWDNhTWM2a3BBMVlMQ3pBa2w1SHZKWHF5cmxUcDRKcHNUWFVWcktZaTR3bHJNZGpzX1JVYzBWOWJzTkdFejVFMFU0QWpGZW95aVN2MHlKSFZna2hZemc?oc=5",
+    "date": "2026-07-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421995-50",
+    "title": "スペイン 首都マドリード近郊の山林火災拡大 国家緊急事態を宣言 - ウェザーニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VazA3bzFVTTVQaENJbXVib2FLM21LWjRIY1YtUEp3OTlMWkNsRThJVmlJMkhoY2pabXVXTDZKcFEwc0lLcXJSUm9naGw3dXNLODEwTg?oc=5",
+    "date": "2026-07-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1785093421995-846",
+    "title": "フランスとスペインで山火事広がる、22万人以上が避難　スペインは緊急事態宣言 - BBC",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DUjlTWXM1QnJtYjlQYWgtclVZaXlGcW5uSDFEUTY2el9XOFBRSl9Fd0Nfbzk1RWVrV3lUOEREa2wtZGNIMkZ4ZTRuLUUxM3d6M1BRMEt6c1UySmhrSi1z0gFkQVVfeXFMTTNuZzY1SXJ1M1BNZkFmREFvUUxmUFJ5NHdxanJpbXU1SkZTVS1vQ1ptWmFkenVJaE1fNG10MmNXRWk2Ml9mb0twR2JBWjJ4czNRTW1lZ3U5WDcwLVVaU2dmYkJ4NA?oc=5",
+    "date": "2026-07-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421995-980",
+    "title": "スペインが非常事態宣言 フランスも森林火災、２０万人超避難 - 時事ドットコム",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLWVXYnZFZDF4cFhNREh3Ri1mZHFBcGNSbGd3M0hNSGcxVk5lZFNsQWdrVDdXT2ZqUWRXb2x6eVdpQ3NOcmFGWUVVdHVoMDdiNWZEb1dXN2daLU9EZ0M3eXpzWFk2bjFCa2dlMFRXTlRGb01jVUJNRHNWNno0LTV4T2h3?oc=5",
+    "date": "2026-07-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421996-728",
+    "title": "スペインが森林火災で国家非常事態宣言、仏はＥＵに消火支援要請 - ロイター",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SLUFEeUpkdTB2VlVuU0swajZPLTl0eEt2TmRsWVlNSElBdThReVlseGdZTk5HV0ZPc2Qydk5KbUxkV1pDV3BSdHFod2R6YnN6d3BGaE94TzEzUW1RYS13S2hPN0lRZ1ZVLVZnUDBTYzdpYmNxVWtKSg?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421996-578",
+    "title": "フランス南西部で大規模な森林火災 4万人以上避難 マクロン大統領がEUに支援要請 - テレ朝NEWS",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pR1NUUnZlenJGbUhZNnVXTWdVTlFMS3haNXY5NWYtTkZqaUdVRVo5QzlrMVl4OUV4a3ZBam5BTHdzQW1kUmlDT2NBa2dEbEVkeHgzbWE0Nk52czVtMXRkM3pYUnB5YThDYVBMcTRlM2x4enZYWTc3TTdn?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421996-20",
+    "title": "フランスとスペインの森林火災は制御不能に、16万人以上が避難 - AFPBB News",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3WUdDRFNhZmVEU082dmE0WjlnZEMxcnc5VzZaenVFNVd1MjBWSHZ5bVVhcEJQcl8zcWlfSWtBZklNT3BFV1FEeVBwR1ZXQWdZNlHSAVRBVV95cUxPZ20tdDc3c2dUZW91T2VxZmNMZmJ5eW9JZmtHVGhQVkNZZTZRdlJtWnFQWEN4U05VQ0NHeXkycUdkMW41ZXVBZ1dpS3oxa244RkdSak4?oc=5",
+    "date": "2026-07-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421996-700",
+    "title": "「ごみを燃やしていたところ森林に燃え広がった」と通報 沖合の三河大島で森林火災 １人けが 愛知・蒲郡市 - TBS NEWS DIG",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mMGlsQTJpaDZLUG5WWUoxRDlzb1NWRDMtU0t6RHc2R2FIWEZvdDB4dFItTWQzWG82dmI3NWtPTGc0bkNfd0xiWTNyZE9EMzg0OFVCM2xUWHZHdw?oc=5",
+    "date": "2026-07-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421996-761",
+    "title": "欧州で大規模火災、14万人超避難 スペインは緊急事態宣言 - 日本経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jWGZUSmdRN1VNUzJYZWFxQ3ZqR0E3R2VRZ090YVpkRnJxWmI0UTlGMXlsZlpyVi1Na3Q3R2ROcUNKb0xGYmh2Ry1NUkNsX3dsNEJTZ1lBY0FWZnNkaXd2WlJMX3JsWHNmanMySQ?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1785093421996-243",
+    "title": "谷筋が煙突になり炎は駆け上がった 大規模山林火災のメカニズム解明 - 朝日新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EWmJENWRDNjdqcnBOa2JjQ1k3SjB2eXB1eDZCVUxjUFJ2a1p4ODI2YjVMQ2JzaUFONkNHQlhqNE1VdEJIX0pwbXpyRUVFNUNxY3F0cnpma3RIR0d6QzRIRmdPdjhjX0U?oc=5",
+    "date": "2026-07-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1785093421996-834",
+    "title": "フランスの森林火災、20万人超に避難命令 拡大続けボルドーに迫る（朝日新聞） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjckIyWXNBZG1KVDlPbGswOTN2VW04b1Q2MmtDWXE1VkdYSzlteDA0a0ZRcHNtbFpQaGhIYmhJX05WdGFhV0wyc3dCUlVFX2doSFhiQk94UFRjNlJnLWFycVp0MmlFNnVDY1A0TmZFS3RUb2J6R01uaUNnUk9TRUE?oc=5",
+    "date": "2026-07-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421996-332",
+    "title": "スペインが非常事態宣言 フランスも森林火災、２０万人超避難 - 時事ドットコム",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jSjFxMVZQSFJZVktYSFJwNkdVbjJpRzVrS3BRU3U1bVpBZDJYamNtbVZrN0hDZno4NnRORDU2bW1Lc0owcVpsV2NxZF85YVBzOUpySlA0cGFCekdMOWxocUNLOA?oc=5",
+    "date": "2026-07-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421996-821",
+    "title": "「ごみを燃やしていたところ森林に燃え広がった」沖合の三河大島で森林火災 １人けが 愛知・蒲郡市 - TBS NEWS DIG",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91Q2lXYS1LYXMzaTlCMHVTYzJxNGUwSmdFY1J2ZXRLSER6bEoyZW1YYThPQ0ZPUmg2Sl9sUUQ0QXVTNmdLSTdzaExpWFdZdFVDY3FOb0FTTS0wRW9DczhV?oc=5",
+    "date": "2026-07-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421996-909",
+    "title": "森林火災で非常事態宣言 スペイン - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VOGwwOXFjR2tsUUxiQ2NnWG1KLTdWX1lhVlIxaFU1dE5DanhPYlplSVQ1MDhNVHVqSzZtQ0R5Qjk0ZXNxMEZKMXBOV183amtL?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421996-4",
+    "title": "フランス大西洋沿岸で森林火災 住民や観光客など約2万人避難（AP通信） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91Vk9GYUR6S0Z3djJrelVnbC1DdS1vTEJWQzlWVTRLZkFrRU9IWHFaYmJ4Wk80Z2N4bUNoQVlvdXoxWGpZQXVpRGFISU4zVXhQZ01xVG5udEVwdmVKS0Q2MTlWam56cDB3NU1tcUlLaWJPMkpkRENrbFQ2azVXVmM?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421996-914",
+    "title": "フランスとスペインの森林火災は制御不能に、16万人以上が避難 (ＡＦＰ＝時事) - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ0Z6aFNhRnl6V3JwbVRtMG9lTG1ZMHhBbVVwU1p1QzFQRFN6N0hKcG9KU3REQnlqUXZTRlBaNkx3YTJaRVpKWDR6U1l0cUJaSVI5dWFoWV9ycm9hV1BEZU1PSDB0UGVkMjUxbmM5Uk84bnVsYU56ZzRLSDFiekpmSFZjWHJ3UFVvVTNGcVRR?oc=5",
+    "date": "2026-07-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421996-392",
+    "title": "森林火災で非常事態宣言 (時事通信) - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZE03QmxSMDN2RTlQRlM5UWJBblBjS3p0QTFUbVRSR1VwLVBRNHhnUGZwTTBxcFgtZ1R3aU5RdHdXLV9DaEVTSWNwSmhwRGE5WlBTbFI5bUJqX1dnOFdQVlYxSHRUaVB0WVB5U3BfdG1ZdHR3cmJJLUV6SjNvci1iTzM4ZHB1Z3liQUhacnFB?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421996-279",
+    "title": "スペインの森林火災 (時事通信) - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdHZiT0tzbG9fNWZ1dS14LUpTemRTa2JhYnZmeFBoNm5weWZrdmFrdURoZS1zVGR1TmZ2enpGODgzc2toU2dRNEU3SGZoQ1lHQU9LSG5iV3MydU80ejhDYUdlZmtic2IzUG5GbHljdEVVa0w4NjdOZmg4bnlzRVk5akdIWlc4aEdUcjVvVnhR?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421996-564",
+    "title": "「ごみを燃やしていたところ森林に燃え広がった」と通報 沖合の三河大島で森林火災 1人けが 愛知・蒲郡市（CBCテレビ） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nQVZkWHprdFRpbzF2bkNJdWNWdTNTWlk4bEZ6OFVjbnRVa3pxTUU0LUVJdi1wMWF5NXJnRU1jN2pEeWxNYnVuZW0xV05mcG1lMm9KWG93UzZxRmppTG9LeF9RZVAxVXVJeEpZX1Bxa0lXd3pxa29maWVkVWM0ckE?oc=5",
+    "date": "2026-07-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421996-493",
+    "title": "スペインが非常事態宣言 フランスも森林火災、２０万人超避難 - 時事ドットコム",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSU40NS10UGdkVkhVX0QwQzlJZ3h6MnRBbTVPeGJLUXU5ZHJJRC1zSF9QdDUweVpiWWJsaXRtaWtMS3VLeGpWS1dVb1JzODdIbmFUZXJRUzA2Ylg3WEROcjVaMUZ4VEduRnc0OFJ5ZWdxS01VbzZsTUtyaHkxMlVHWHRn?oc=5",
+    "date": "2026-07-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421996-198",
+    "title": "スペイン、森林火災で非常事態宣言 首都近郊を焼く - 時事ドットコム",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR2I3eEtJTE1wQUh3UXMxRmVCNTk0OG1sV05xSTd1SFk4QnNXMjdrTTU0VzA2U2c2dWwydmJRZENqZU5vYU5TejNtMEZsSVBhdzhiSHZTSFdNbGlTX0dOeFlSZkhYNTc1eGFZc0h5RC1nT3AtVlNONHEtd3d2NWd6ZnpR?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421996-643",
+    "title": "スペインが森林火災で国家非常事態宣言、仏はＥＵに消火支援要請 (ロイター) - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFVScHRlUjJPY2Ric1FCc0NoRW1zeHlSUVExQ0NFVkl0RkFMLV83SzNvdlJFV1JZUi1GUGhNdnFRRUVQS05lUjZkdXN1QzFuVUJlcFpBbXBEdWFmc3JlV2RJMzR3NVEzeG1VMlRTck4wV0VQVzRfYWo2N2g4WldKZXRMSS13cU5XN0ZsVk13?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421996-64",
+    "title": "スペインが森林火災で国家非常事態宣言、仏はＥＵに消火支援要請 - ニューズウィーク日本版",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03MWVDTmczbnJjT21acXN5ZVZPYjY2cHNaeV9tTE1fbVhfOUk2Um9TSURBdmNOVWRKVEJPTEoyXzhBQVdQV2VJUDRpSHBwaGk4dEw5UVF6XzlEdUlPQkFaaklySlY3TW8?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421996-991",
+    "title": "山火事が猛威振るう南欧、観光客や地元住民数万人が避難 - AFPBB News",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55SGphYm9LbEFmMnhkQnpIQmJ5TGp6cVRTaFc1bUMtSlBMczRUZmJhQ2o0Qkllc2d1Vmd0RUtzVDFpX1h2aUxYRlNpMHRwemNTaUHSAVRBVV95cUxQWko2Y1pWODFUQXBsV052OHB1RWd3Wlp6dEd0QW02TXpJWklraHVHZ2VaNlRrZGJEamVMMjdDeW56cjhSSzJLaG1iQjBaYlZENWhYUDE?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421996-756",
+    "title": "山林火災の岩手・大槌町、住宅延焼防止で緩衝帯を設置へ - 毎日新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5X3dHT21CaGNkLTdyVjgzSGE1eDZmeFhVSWtfT3l4THRCNXhzT0NuaDRGQnk3ZWFIQ2d1WF9oZzVCSmgxa0FnU3pJV1RxYWxEWFJlbHFpTlg1NlVSdnF5eWlSSVFBVGxr?oc=5",
+    "date": "2026-07-22",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1785093421996-183",
+    "title": "欧州各地で猛烈な山火事 伊・仏・西で数千人が避難 - AFPBB News",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pTVVOTzNORG9HOFFVMzBsWWl0My1JRWtFVmFpdThsVlhqV3pJUGZZTDhzOGprd0tpcDFLRXRRQk5iYU0zTUs4OUd2emlBTkRWeWfSAVRBVV95cUxNTVNRTEpwMkZRT2hnV1VvT2dmSTI3WHVObTMtUy1NWUhmRWtvVXBGd2VLMnJKaEJxY0plYkw0dkRUTDRkNFhPZ1FDVS1ERUsxMGZEVVU?oc=5",
+    "date": "2026-07-23",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421996-224",
+    "title": "森林火災で非常事態宣言 - 金沢経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83UWswaE0zT0VkOGpBb3NNbjdpWHA5UmJfbXZsVUZQbnppcWx5SGJtaW00aGFhZkpCeUI4UldMbjdHTTBETHhteFZTak91RmlHX2lrUWZR?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421996-897",
+    "title": "森林火災で非常事態宣言 - 弘前経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaUnZ5RzNJNC00OXZ5NllnVEZPYnZqRkFkZE80S0JSTGtRTm5fazkzN3VjU2Z3ZXZBWUdCVWRCSWd4QVV3aGRINGdFcHhBNUJhRS1BM1Nn?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421996-444",
+    "title": "仏の森林火災被害、7月中旬時点で過去最悪 パリの4倍相当が焼失 - AFPBB News",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JMmNJcy10SEZFRjdEOS1KeGd5dGloMllGM1ZIUWZaSlQ1N0JkWFRzUlhBMjlQcjBkekY2MUV1dUlMSk9EdnYzVTd1RXoybWFSOVHSAVRBVV95cUxOOVRsUXYxcFN1Q2FQVTBsMmhXYnJUbWpwa2NMVlVDcTNIUGNVWFVhallrNWVCVG1BQU1HcG9GVlJPOG9WVTJVbXo1X2pTNWV4aTAyUE8?oc=5",
+    "date": "2026-07-21",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421996-416",
+    "title": "スペインが森林火災で国家非常事態宣言、仏はＥＵに消火支援要請 - ｄメニューニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9haXdWbEdCVk9mVmh3dFlMWlZHanFjNmdBN3JOelhVYU4zR01rempDUGNZSXVuaFlZaVZJSnJqWkt4MUpJU3ROcTIySjdVS013QXZONFV6ZHF5ZEFPdUo2TnQwMGllTWlneDZBRlVSMGFLUjRxM2dQenktRV95d9IBgwFBVV95cUxPMnV6cGp2T3d6N0ItZ2RzczRNNjN6OUlQaWRySVZiY0VWNjRaZFVod1JQZFlqU3Zwb0pJbURIZGV4LVB2TGVPcHdkNGlQZm1VT3gxTVFlSnhhMXh1ZU1tVndjWWkxTUdJMnhKblhPMWoyb281NFFtT3RjWEhPWEFYMnZSRQ?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-329",
+    "title": "森林火災で非常事態宣言 - 佐賀経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hY21BUURjbHR5RzF3U00tUGcyUGpFZUJyRjJVVFBlMHBfc1UtWFdFZUY5UU05ckJUQ01MV1cyMGZLcnZwZnExUVlOWVBDTUQt?oc=5",
+    "date": "2026-07-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-681",
+    "title": "森林火災で非常事態宣言 - 熊谷経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1cm9KcFVLT2t6WjNVa3AtTWJHMVFaVGVUWFZvcVpBNDVuRVhmeG03M3B5aUxSS0hkOHlqbVBoTTlScUVGUGZFdG5qV21xUEg1Ni1BdHF3?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-163",
+    "title": "森林火災で非常事態宣言＝首都近郊で拡大―スペイン - ｄメニューニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mbWM5OGVTX3VOQzRMTzRsYkN5WEE5dFRxazBXcGxHV3h6RGh3SDdBanJ2TWNuRV9rclQ5YnRwVDBpNklsYmI1WkliSGlvaTdEbUdVakk0NUVSYnFmWUhrOEd1eWFqUDlxSW80ZTk5dmJTMU1QYUc5NNIBfkFVX3lxTE11QW10WXBTYlZYZzhVX28yakw4YmhrZV9mbFotQl95dlRCNW1zUElDTnNBRk8tWGZxWXphdll0RWhOQjZwR2phR2lILVNpOUpMdEVVd2ZWQWpLTzhPWTBNZWpLaEFvLVR2UjJBSGlQQzQ4a0JqX2R5eG16SGIydw?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-949",
+    "title": "森林火災で非常事態宣言 - 外房経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOdWREamZkVHN0X0VyclZMaXI3OC0wT2FNMkg3NWR3SXo1cFJyVS1qUlBJaWgzZ3RiYjBVRDBXQVk4dlZqTjk0TnRJeDhxbUZMSm9R?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-785",
+    "title": "画像・写真：スペインの森林火災：時事ドットコム - 時事ドットコム",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13NXEzUkhnOElQcHFHR2FQN1pmM0xWVVU3dm5jYl9tTnpLNnIxaDMxWnlFR0NxYWlsSWFzNmxVMnNhTGRCZDBIVnROMEhZdVlJQ21YYnBhVkR2WnhqbVU4Q21yYjA?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-335",
+    "title": "森林火災で非常事態宣言 - 富士山経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03QnBXUzhhbzRtTUF2X0U3NGRzNkloQXFyUlpESUJGRHJESzlKNHdpZ2FIdndXX0JtTklGRFJubkFva1ZvM3pxTGRsZTRNRHJEUXEw?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-973",
+    "title": "森林火災で非常事態宣言 - 秋田経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BSTFEUmVHdmFYMEdWZEFJclZ1bFd2QlJhUHNTR28xQk81VWdDWUpmQlZ0aFh2cTQxM1FvdjE5elpvd0YxWTR5bVRSaGxmZHp3Q2c?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-990",
+    "title": "仏西で森林火災が拡大し、25万人以上が避難 - Межа. Новини України.",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVQ1RCanNHRTl1bllGX09IdG5pLUd4V3NBRnhPdndtTGo1djNVRFNWanktNmlReEFhRnYteVUyQUNhbFNLUC16dDQ1b2dGaDVSNE9OenZTX3FhNC1FaEdoRUFTLXJHRkgxdVdiX3BXTFhhQQ?oc=5",
+    "date": "2026-07-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-961",
+    "title": "森林火災で非常事態宣言 - 小樽経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjZDhud3BCVExick1USm1qVnVoZVdoZjFlTEh4N29TVlZxUldNN0VyOXFadGEwMFZ3RnZYSlNmVjgtd2tLYXhtdnlldFhuTmhuX1E?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-729",
+    "title": "森林火災で非常事態宣言 - 仙台経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GVEx1T2ExNjk0SUtXLV9rX0VVLS1hUTVvSXlRNTJzekI0eHRENUk4OGZUbnJhSGxYc3RIQzhvU0x6UnM0MkFzRktGN1pzaVBKZ3BF?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-693",
+    "title": "森林火災で非常事態宣言 - 文京経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52aUVQSTBfc3J3ZmZsaDFFNXZKNEpXMkxkbElEcWlWOElGa1BBWElzWUxCYkNpX1YtbzBkVWtDeTRacHhrNUhaZWFrSmdmUEtKOU1r?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-560",
+    "title": "森林火災で非常事態宣言 - 松本経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlN0dac0ljUXl2TkpKaGI2R3JrRHZQNzlmZlVYYm03bHFYajdVUjJuaGlIdmpVb1hkTUR5bXZEbDZKbThubEFlV2VaTk1pSzVLWWJub1NQZw?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-283",
+    "title": "森林火災で非常事態宣言 - 相模原町田経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84Qm5LdzZiTXZLTC0tZ01zOW4tQjV4bG9sc1N6aV9ocGMyUGdGN2ttbU5Td2duanZndXFnRXhhWE03al9vM0JaNmI4eUFJNFpsZ1VTYw?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-697",
+    "title": "森林火災で非常事態宣言 - 逗子葉山経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBQUVVYW9WdFhmV1RQcXFZV3hKYWhnUUcyR1NmTlpYSXVqNHdQUEZPVVlzYXN2STh0TndLV3FHRklnVURtNEIxRFRvM2w1c1RlVFFmYkNqV3VtdGM?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-855",
+    "title": "◎森林火災で非常事態宣言 - 時事通信ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HQXgxbXdsdjA5SG1VSWt4LXZ5cmhFaEJNRVlTSzJNazh2V2hmTmVuUG9vRlFGalFhOWZWWjJtcWlzSElCZkJQVWp4VDIxNERkTUc3dg?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-438",
+    "title": "森林火災で非常事態宣言 - 尼崎経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzYkM4Um1qa3ZJRUJDYWJoTTY3TzJfSUxfN1RXd29fTE54UjFqaDFIN1NLSXRzWjl0b3FZM1JWY1o4RzhzZWlsS3pjZ19SSUR3X1hyWGJISQ?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-683",
+    "title": "森林火災で非常事態宣言 - 北千住経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwMjFIZVhpZ21laUN6ZHV0UEIxQ3VSbU10N0ZCQkxOWV9oNUdmUklvTDhYMG9uMC00VDVqelM1cG5XUTlsZFREOTd6N2JjQ3BxSDlz?oc=5",
+    "date": "2026-07-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-753",
+    "title": "森林火災で非常事態宣言 - 西多摩経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CVDhzdVRLU2p6T2M0aVZaTXRFTVYteWNGbzZvd2l0ZGY0NG5GdzdrTDJOTjlxMG9taGNBa1hIbjM0NUtTalJKQVNHYTkxc0VyOUk2TlhxSQ?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-67",
+    "title": "森林火災で非常事態宣言 - 函館経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NRjdWdlZRcnRXRnVkS2JTNUR5YzE3X2hCNjNCcHJhWklBREVqS1QwT0VYdGQ3TFdkeXE3Qk9vTGtlc0ZIdUZTVUNweXAxa3dhV0NBRVV3?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-558",
+    "title": "森林火災で非常事態宣言 - 品川経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sbi1yWTNVRzJfZ2M2b0VRQmUzVzFvd2ZzLW5nZ2JWSno1UDNlVk8zZzFPZDBrR3FGUHJIdE9WVnlGZ2N5Y2JPSXRsZ1dsVVd4ZjhqUU8wYw?oc=5",
+    "date": "2026-07-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-128",
+    "title": "森林火災で非常事態宣言 - 鹿児島経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tQWlxVkNpZEtNRW9BMWxxdl9CR00zOG5WdkFhNklKZ3k0bk85NENhQy1vbzFWX09BZnc1NGJvUTZpQkhZR05IWENQYU1RdFNmc1RVM09Sdw?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-172",
+    "title": "森林火災で非常事態宣言 - バンクーバー経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzdmlfcXlqRmJmdFdkQ0h4QVdzSXNIUE5xaW1ZUDh2OGJFWUFhUGlNYl8yR3pDMzlrZFcxSU1rbFlOM2pqemg0V2hHV0F5LUNsakk5ZnRYRQ?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-727",
+    "title": "森林火災で非常事態宣言 - 六本木経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yMGY0MzZ6TGxJaWdlcnRwX0xsaFNmYkdFWWtpMTBBcHJQWmJIRm9JS3FjNGdOR3VYdlVrLTJxTXdUeDdzWVRaZ2tzS3dPbXRrTU5ySG13?oc=5",
+    "date": "2026-07-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-73",
+    "title": "森林火災で非常事態宣言 - 下北沢経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zVEptcVRRaENFR0xXWGtBWFBMQ21sZGw4dy04VHh2Qk51UWtFU2VuWVYyZVBxRU01ckVfSERDOEdZU1NzWnFueVpFUzBpZXZrdDEwWndLbw?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-439",
+    "title": "森林をその発生源から保護し、森林火災を防止するために資源を動員する。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY1E5SlBneDc3aGtjZ2JFVHhVNVFWUF9YLWF4cFpxVGdRa0R2aWpaVGxzNEF2Q1FZbmM0ZEJyZENEUDdRcFUxSWd5dElCQUFsdFBVSjlMdWVOV2gtaVQ5VEF1NmQ5VHNnWUhZUTA1YjRuTHNqQzVNdm1nU083dFdGbnlQUzIyTnFKYjNVRlVJSTVWQkdwU3RoMUxiYnQyUQ?oc=5",
+    "date": "2026-07-23",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-768",
+    "title": "スペインで森林火災を防ぐため、「ヤギ部隊」が緑地帯を造成。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS2g4QkpmeWhXZ1BnOFNTVzJLOFg2WjZLVXE5b3BCNFAtRGUyaWZ4Y1ZwVkEzN3BxSm00OVFOTV8zWENtWi1PME1SWVZnMTBxSGhnRS1rQkxtY3BEZk5aem1nOHJXeWpobzluVFJsTHliRkZ4U1lTa3FSc1plQkpGSUd1M3pacm5McVJKbg?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-679",
+    "title": "森林火災で非常事態宣言 - なんば経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jTXhVbU1FR2ZIa0d4eUlGX3Z5S2VDSHVWVjRSLUh6TzVrS0YtakVCTkxtX2NEeG1PYXlybDdGZ054c1VMM25CRmlEN3pYOTJEbUE?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-850",
+    "title": "パリ近郊の森林火災で放火未遂疑い 新たに46歳男を逮捕 車からライターなど見つかる - khb東日本放送",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iT0IydFNybzhLUm5lNWNfdmVybjh4VHh4UHRxUDV5QXc0X1BqTFdSTTh3M05SNmY0WXFqYm83d3dKT0ZDQWlKS0pxaGNoMU0?oc=5",
+    "date": "2026-07-15",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421997-74",
+    "title": "フランスのギロンデで森林火災により1万人以上が避難 - VOI.ID",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9LZDBUbjV6THlkTWdfSE85VjNMR0hqVGpXR3FHSXNyaGJnVW5CRkFYckp6Z3NRaURtY01ZVWxHbXhhX1XSAUJBVV95cUxQbDEtZG5IM2J2ZFZXNEtweVlueEUyMmNUa201bmk2LTJneWxLSzhxR1NvT0NjWkE5UzRQVmNMLWVTOFE?oc=5",
+    "date": "2026-07-23",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785093421998-975",
+    "title": "森林火災で非常事態宣言＝首都近郊で拡大―スペイン - Excite エキサイト",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OZjJCbE9EXzQtc2h5dkJCbkZfUGxZLVhBOE05Wm1wTUlxYmQ2a0txVHdSZmxlcnc0d092NWNLbkV3d0N0T1A5WGg4UzVUX1hQQmNZbnY0YlZvQjVJSmV3?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
     "id": "1784748352910-172",
     "title": "山林火災の岩手・大槌町、住宅延焼防止で緩衝帯を設置へ（毎日新聞） - Yahoo!ニュース",
     "source": "GOOGLE_NEWS",
