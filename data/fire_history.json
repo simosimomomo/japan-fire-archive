@@ -1,5 +1,475 @@
 [
   {
+    "id": "1785181225068-681",
+    "title": "欧州山火事 仏ボルドー市街地から約15キロの所まで火が迫る",
+    "source": "NHK",
+    "url": "https://news.web.nhk/newsweb/na/na-k10015187361000",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225608-816",
+    "title": "仏ボルドー近郊に山火事広がる、数万人が避難　スペインでもバレンシア州へ拡大 - BBC",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUNkNIMTZCc0lOeVNxc2RCcUZkZGZ1bjdhSUpwa0FRblVFbWJLb1l2d1Q0enZMdkpJUG1SdXhMZmRBbTZZWVh5TjVELTJVUVZnMUFMenZxNXpDWGtiZjJR0gFkQVVfeXFMTi1qekcyMGhDMGI2S0hWbDExbkN5eC1aS21GNXlIaTVVR0VxV09EUkRfMlZGVVdmZEhVejFBeWxSbkVGZVNPYjJpcjBZYnNJdlJBYnBmM0I3T0xlcmszeDlHaTlXYQ?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225608-365",
+    "title": "世界的ワイン産地『ボルドー』に迫る火の手…ヨーロッパの森林火災が拡大 - テレ朝NEWS",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TdzctSmF4d2M4blVsSVNoMGc4WkdHVGU3NGFhbV9mZ0UzaTY4Tk5BRlpDMGY5TmN3N3ZEd1gtdzJIWHJ0WnRodkZtOV90Ymg1V1dSTjZzbEpTNkd6Z0hqUVpKU1diN2VtVUx3dHk4dkxsSkN3Mjd4MzhR?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225608-676",
+    "title": "欧米を襲う猛暑や森林火災、40年前から警告が続く地球温暖化の影響が現実のものに - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sSUtDOVp6Qk1Cem0wR3Y1bXVmUEFYUUJHTmVpQVRucXJNTmJHQ2tkdGJSU1Q4RGc4WHlUYVlCS2V5LUFJTVFsVXpPX0NCNWtWUmV2M01WOTAzcjVKSXZ0UmVZVFZlQk9RME1YdTk0S0FrZG1mdk11d1BqVWVMRGM?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225608-368",
+    "title": "フランス・スペイン山火事で32万人以上が避難 更なる熱波で火災拡大の懸念 - AFPBB News",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ncnZLb2tHZFRmeW96a3o5bVNoaU9sSEVrUkMzNmE2UWstRHdLUnFnMUFOUzJXYW9sVjJ6TURFVTktaE1FNmladTl5Z2pKdDRlWUHSAVRBVV95cUxNS0ZOamRLMlozTE1ORGZaM3I4ZjlhZUs4Rlc5YkJvYVJGaVlUYnBUUzZJLUR4eXhoOW1XODVsb0s3NUlhYmhlcjJRR2JvdU9penNreVk?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225608-502",
+    "title": "森林火災で３０万人避難 スペインとフランス：時事ドットコム - 時事ドットコム",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80QTh5LUo1cHJwbXJHNDlaX1ZscFdPN3RnZzFVT3VuUkEtWmFKQmZLVDZIaXV1NEJsa1ZmTENhcE5sR0hBRGMteHFySjFGemY1M3dQOUZmNFpmQ29ELWpwc2xRRQ?oc=5",
+    "date": "2026-07-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225608-298",
+    "title": "森林火災で３０万人避難 - 飯田経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QZlJjN2hfYjMtbzJ2RDZVUDZjbW41TFdkYjI2eThmT19oNlZwbFFHWlhFQlN4bEl6NjczekZHTUVlMDVUVDBFS3M0alJXM1V6?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225608-834",
+    "title": "スペイン民間警備隊が動物救出 森林火災から救出､水分を補給（AP通信） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sTWZ5ZkM4WGVjRm5SRVhSeU4xUFc2NGtRaG5fQUdDWGtDRzdqMnFkSHkxZGZzeG5LQ3ljSWJFY1F2d3AxeUQzRk1WR0FsbTNfa05KUERqaE5EQ3N3UmpZZVhHZndxdldXUG1aNnFKUVdJRGh5WGFwVzlnYm9mLXM?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225609-87",
+    "title": "◎森林火災で３０万人避難 - 時事通信ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13V1ZTekpzWFVsbHdLd1JVT01jZ3VEa2FZd1Npd25CWVV3ZHFCdklmcFNvWWFISjZWZi1ZcDdtUFZoa2praERudnl5LW13UmJVM1pOUw?oc=5",
+    "date": "2026-07-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225609-407",
+    "title": "森林火災で３０万人避難 - 盛岡経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4TDRIMFdFMi1Sb2VKRXJoZU5CT1ZHbVpuSFJ6N09BaDItczRNdnhNM0dKQm1MUnA1N0t0VmsyRFVqa3QzaDRheWN0azFwNklaLW5TRA?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225609-370",
+    "title": "スペイン国王夫妻被災者を慰問 マドリード森林火災の避難所訪問（AP通信） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByNW83bkZwWlhGQWlKa2dHMjJGVnF2NlRvcFlBWVB2Z29ud1kwS2FMTDc4SHlad1VYTi0wSW5zNE1pdTlnNlBtNXpKZm9KR3YzNktJNkN0U2VYTmlhbTFBNjJTYk1DWDhHQmh4eExxenduTTZRMjJEbVQwdWNEYmM?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225609-992",
+    "title": "森林火災で３０万人避難 - ひなた宮崎経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pSnptLVFUM0xZSGVBYjY0RXpYNTJXYk5iN2c0cXJ5QUlOS2hCTG95MGZTczBhNEJGY0lBWkd5STlBdUxkWlA0ZlRmaFplSnUyQTNYR0ZB?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225609-755",
+    "title": "オレゴン州の森林火災､町に接近 今夏米で4人目の消防士が死亡（AP通信） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPdVJTcjBBOERUeHQ4Q2FaY1dqc09XdlJkNEVYdlBWS1J3UDBFR1B1Z1pac1NXZ3FjT3hGbGNWZWZkRGRYT0QxTVcybEhSdTA5VmxhU0h3NkViYlVZZVJEXzhlLVdMeUpLa3VpOXl4U1ItbUNKNlFQSnJLMG5LcUE?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225609-891",
+    "title": "森林火災で３０万人避難 (時事通信) - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdHZuNURBQmVab2hqazI5UVdUWnJ5RER5SVRMclRGX2RHZk9GWmZTbE80MlI2cjFyQ29JdkJvZ3c3Y2xQb081Rnl4UXhUMGpUU0NHdE1VRXltMExOMGdnZ2sxM0JwZnBtakkxZWRRVkIyamhfU3otd3hkVHdJeXNUdllCb0dKaTd3TGxMSnh3?oc=5",
+    "date": "2026-07-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225609-718",
+    "title": "森林火災で３０万人避難 - 熊谷経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nbVByQ0VWSnFIQWpfczNKNGlLUVVFLUNQRmo5SGY4bWJkcTF5WUtVak9IOGtacFotaDV3M28xYnphSHNxR3NaWWwyTzVWS2pqOWJPMWhn?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225609-991",
+    "title": "フランス森林火災、相次ぎ２２万人避難 猛暑影響か、スペインでも - 朝日新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qQ0Y3c0NQZzhHX253SnZjX0YyenA0cmpaVTJKSGw5SVJsZFB2dWNHdkdUbHpwNEhKX0I1amxuemtDRXQ4ZzhXVHQxVm5HUDhvRFRybWVTRHM3UGxT?oc=5",
+    "date": "2026-07-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225609-254",
+    "title": "森林火災で３０万人避難 - 佐賀経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCbTRlaDdhd24zdFRuSHVaLVJoYjRXT25WMDZubjdFQ3NEMDBlbmE1T3ZNLXdON0xlTzBXWXhEekVCRVdoU0c3aHJ6eXBMeWFZ?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225609-167",
+    "title": "森林火災で３０万人避難 - 外房経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBscldIY3ppdUR1Q044aHBvWVdDTGJVNmtiZ1d4MkxFV1NxeVhDQ0lkM3hLVDhOakNVMGVYdzBHbUx1YkxxVmJJaVF5LUYzNDUzWjFn?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225609-675",
+    "title": "森林火災で３０万人避難 - 水戸経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrVjJmYmREOTczeko3czZNTWxjTVkzUXZKNnQzTHlRXzlkX0dKb1hWenpnMkZlVk04bEV6WWE1MzNfUmtlNEVUSDYzWVBSNkNY?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225609-668",
+    "title": "森林火災で３０万人避難 - 伊豆下田経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfSlVhS2szVTg4dEJCRWYyUEZ1RDNSTkZlNVpwWXpJTVlfX0JteHpvcGtDYzdMOU5za1F5TVl1OWRrckZaQXc2MkhPalp0ci1XWTFrUA?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225609-185",
+    "title": "森林火災で30万人避難 スペインとフランス (時事通信) - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdUt4c2tvYjFqMnZtY09tZW5NN2VIQk5feEtqXzE1WWhXRlJIaHU3WG42SWVtYzR2WXg5Y1VrSGJSYjZBaWl5SnFUUEN5SUlweHhOOHpJV0g5amhOSFhfdDQwaXY0MXFCOVJlcHNBMDg3VWF6bURvY25mMHU3QVl1bjFCakNmcjZLdDhMTHB3?oc=5",
+    "date": "2026-07-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225609-40",
+    "title": "森林火災で３０万人避難 - 春日部経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05dDZqaXphdFM2NmJGOTRaSm1zMnAxM0s2SUZFb0x2WVEtTDR4b0ExcWpZUEZtQTlYckljaVpObmZfUDE3a0VhRjJzSWtEWUc4bWd3OXFR?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225609-887",
+    "title": "ヨーロッパ各地で山火事 フランス・ボルドーに火が迫る「火災は制御不能」 スペインでも一部の州で国家非常事態宣言 - FNNプライムオンライン",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCc050a2lxQ054cVpaYVZGTUh5OEh5YXRUUGNGdzkyQmthZi1oWVpIa3pyVG1GVmtESDduRXpHWGhnMUxWa1kyQ3Y2VERHQQ?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225609-558",
+    "title": "スペイン｜森林火災に伴う国家非常事態宣言（マドリード州及びカスティージャ・イ・レオン州アビラ県） - 日本橋夢屋",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JSENoY0djcWJzUW9QbGpETkFPV3NxeGRkYlcyX2ZFYXcyU1JTbFlUOXUzUThkNE02Q3gtbnpmTXFQOE0wV3FUZU11MGpfSjVHNHRTN0dyTmgwVlE?oc=5",
+    "date": "2026-07-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225609-957",
+    "title": "ヨーロッパの森林火災：終息の見通しが立たない危機。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wZ212dlRfVE9lVHJLMmdiNU1VMUJ0b01Scmd4OVd3dEdzZTRmRFc4a2hNSHM3TDFES0pCaGZyMGF5VGlydkVRd2ZtRHlBRWwtRDl6TXVCSm1kOV9DbGk4c2Zic01yQ2JkOWQzVVRCM0daZ1NkWmJJ?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225609-294",
+    "title": "フランスとスペインの山火事で30万人以上が避難 仏軍、兵士1500人を派遣 - AFPBB News",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1faV9DVzNjdkxTVENibU5yd0kwMk5namtDZ19LT2RRZE5rNEx1VDQ4d3RBaHNmRVQ5NENnUXRvZWhPdW4wazZEYXVDOVVFSmZxQlHSAVRBVV95cUxQNGlFZHNUR1Ixb3dINkxzdTNYVGZRYXZiMnRscVAzZVdOaVI5aFczVFE3V0VoWXNUNXR1YU9Gd2MtaFRlZUd5bHRRRVVqSWNoVXpVemU?oc=5",
+    "date": "2026-07-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225609-152",
+    "title": "森林火災で３０万人避難 - 仙台経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpdnpEeklGWml3emFuXzEwNzN5TF83YWtRTHRyMDVHckpTR293RW9uQTRlREVrLUVSYzlFVTBkMHZyWUpxejFVOXdzTExRVDByX2Vn?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225609-975",
+    "title": "森林火災で３０万人避難 - 相模原町田経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzbnBHM3NWNjRfTDRkTFJieW9HYnFLNnVfU2pjQzI4Y2YyQXk1WTd5VGU3RGFzQ2tGYzJ5Z0ZEWDNSWWpfZkQxU1VGTHJDWFlpTzROaQ?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225610-154",
+    "title": "鎌田浩毅の役に立つ地学：エルニーニョ現象発生 干ばつ、森林火災や海運にリスク／259 - 週刊エコノミスト Online",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XdlZ2S1owa1dPUVp0cjZ1TmRhaWZZcjlmdmRBY3dpR2ZtLVltSnhYLTRtUHYtN1pId2xqbkhIY2NEQklUSkFDY2lKNDhTbnVDdjkyd0xwOHBORFM3VjUxVjFLUzlQaUdLTld5ZjJtdjNFUEN1Q3BBLXBMT01vT2c?oc=5",
+    "date": "2026-07-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225610-588",
+    "title": "森林火災で３０万人避難 - 松本経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kWGNVVFVNR3FMM3VweGY5T3RpOEtmMDBzMjFUVXNnc2xDc0V0TnNZVEpMOFg0d0YzX3BDZktidUxQTmR0UkxXY3kxVVQ1MEdxbnF6WDZENA?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225610-817",
+    "title": "森林火災で３０万人避難 - 長浜経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jRkNTRjJucDVvNGJmZjhpa2RiTmdqSmJUcTN4T05rbDlyeHoxUnpZRHJMZUc1WDZ3ZEJxVWxDSVE0MTJkZnEydXh0SVphQlZ5MGc5Z0lB?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225610-410",
+    "title": "スペインが森林火災で国家非常事態宣言、仏はＥＵに消火支援要請（ロイター） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVd3hfeVYtSmgzX0tpeE04aWxBakw5TVQ5emVkVXpnak15bjNDMGVUSmZjeVlWVUN2djdoa2gzSXE1dkZYZzZ2eXlnNHBMcDY0OF81RzFJb2E5OWotdFVoaUVGd0p0ZmZmQjE5QTNYQXJZdG93LWpXOUgxbTdBa0U?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225610-148",
+    "title": "森林火災で３０万人避難 - 大分経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10N1E4aWlLcDhYUDBnUUNhNmUybGN4bzRYb0FmdUdfQzZ2SEZIbldvNklKRnNTeERXa0lXeFBhMVJZc0xpQVp1ZVF3djJXSFUt?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225610-855",
+    "title": "森林火災で３０万人避難 - 鹿児島経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoV1E1WXRyeEp4QjR0MV9rRDd1NGFUeFQzbUFYM0JpSWtXQ21uVlozTk03aUgyeExnLTlDTGhvRkR5M1VaNkt3Z2dfa05YM0V2MmxOUjNHUQ?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225610-700",
+    "title": "森林火災で３０万人避難 - 逗子葉山経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KbzNLZ2h0T0Y1WmJhX01oVk5ZSnJOWjNhWEw4LWF5c0VIQjFkS2RlVDFZWnBvalFYSzMtX0JDY1lNaV9zdEQ2aWxFUEdkcEJXWndFMmtRMHUteHc?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225610-862",
+    "title": "仏ボルドーに山火事迫る、スペインと計数十万人避難 - ロイター",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFN1dhTjNuZ2tLbTI1cEowUjVZSzhYZzF0cWlfal9EYnZ2Q3ZjLUQwLU9TLU83bE81VVh3cFM5MExibkYyMXhKQmRhYkk0RFhXY0xaakpzWVRsaDJSd1VzUThseHdYWXVnMFpiZWxHWXpjekRWN0x6Ng?oc=5",
+    "date": "2026-07-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225610-304",
+    "title": "森林火災で３０万人避難 - 函館経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkX2kxazBsaTdDQW52d0lCRERxbUpqM3kxUm5QaXdlTkQyal9Sd1hGOWt2YjdaYVl3dVE2b2k1SnRHUEtvcEpVVHowT2pXVFhfQTA3VDdn?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225610-682",
+    "title": "森林火災で３０万人避難 - 川崎経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUYnhhRll1dkQ5cnNpX3JYRFRGSXlNVnAyUURrMENiQ2Q0dUZ3bkFURzJZYTVud2NXN18zQjJBUFdPRHpyQkhVbmtheFVQNmcyZE00Z1ln?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225610-3",
+    "title": "フランスの森林火災、22万人超が避難 拡大続けボルドーに迫る (朝日新聞) - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaklZSVNLaXE5cWg0UkVZMkc1Nl9pR1plbzdNUGpXRm9wbGd5RXFRRDIzNU1UbGZaeXFsQjRqdVBrR2lLeG9qSjFHQWdMdVJvN0hHUHJxNWh4ZF81aHptekpxWjlIZ1k5elVObThtejNCdkhrRVZRQnZRbmdSbTEzQ2dxWEdsRVBpbWNYT2J3?oc=5",
+    "date": "2026-07-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225610-244",
+    "title": "フランスとスペインで山火事広がる、22万人以上が避難 スペインは緊急事態宣言（BBC News） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtYk1XQ1gwUGZGbk91bHd6R0l2UUVTWndOQjh3SG9jUUd0OG1KbVpwdUFQZEF5NjVWam1oNWVxOWZ5Zk1TZlV4VG4zbzd0eE5OQklRZVdBVEZZNnBEVWdJVHByMDlRcXBTOXRzeTkzWjczVk9nSkJEYkhNNTZ4dG8?oc=5",
+    "date": "2026-07-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225610-927",
+    "title": "大分 佐賀関の早吸日女神社 大規模火災後初めての夏祭り - NHKニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyTTJiTm9SdnJLRm9kN0ZEel9tWW10VzlVYjNHb21zTVNyTExXNVlmbGd5djZGZkswUV92aGViWlBGMnNzUk1raWs5UGx1ejFSTUhQdWdMMFc?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1785181225610-318",
+    "title": "「ごみを燃やしていたところ森林に燃え広がった」と通報 沖合の三河大島で森林火災 １人けが 愛知・蒲郡市 - TBS NEWS DIG",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yOEpyOGtidkc1RkMyaEgwUkZYNnR5eGR6emlaSVlRbkVQSXpTUjloZlFrOHI3aG9Sb1htazE0SUxhMW9RQ1d2bWUtQUtHODlzRTF3OWlSNzYtZ1hRN3dZSm1vSlQ1OTg?oc=5",
+    "date": "2026-07-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225610-203",
+    "title": "【タカオカ解説】他人事でないワケ！世界のトップニュース「山火事でフランス・スペインでは30万人が避難」 - au Webポータル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aUTFnYnNWRWxkSEgwdU13ZzVMa0hlY3h0X3d1QllOTnU3amFTTTc4b21nX0dNd3k1NWtfQVRXOHB1VHBKQThQZzlQTWd4alFGOW5JZEl5MGZiQjkwQTUxdjN3ZUc3UHVoUV8yajY5UU9ieDByaXp3ckJXUQ?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225610-505",
+    "title": "A400M空中消火システム、仏・森林火災で初投入 約20,000リットルを投下 - FlyTeam",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42SGJvZ1RjTENUOERETzd3UWRrbk52bDNRd2tvT3ZrRlhNWEwtZEVtYm94aWQxT3VUblI5c2V2czRnNlZmajcwdUdINkJJZzQ?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225610-503",
+    "title": "ヨーロッパ各地で山火事 フランス・ボルドーに火が迫る「火災は制御不能」 スペインでも一部の州で国家非常事態宣言 - au Webポータル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjMWx2YmUtTG9NS2NwVTZuNENwVWxRZnhYQ0c2YXNoV3h1RVRvb01OUndPeUdOQjFIcTQ0aS1xcXNTRGpIbjBCd0RWbERIb1VkLWYyUFJBMGRPZnRiVnR3UFBWNmlxNE00RU1PeDNPT0JQaGJDaTZaUFBQZw?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225610-625",
+    "title": "インドネシアのバントル・イモグリ森林火災、8ヘクタールの土地を焼き尽くす - VOI.ID",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFByMWxaRlpad2dUcmtpdXRSVk0wSGJ6VHNfa2VIaGR4eHhhdHlJcWxLeFdJYmdEaVE5MGNQM2tSNVFoclHSAUJBVV95cUxOOTZ1U2NKUzhOd2VqYVZPdklnby00NXZZeWUtOHJRSldQWjN6aWxVclRFUWxleS1iN2EyU0N2eE5mN1E?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785181225610-120",
+    "title": "スペインの森林火災は制御され始め、121,000人の住民がまだ影響を受けている - VOI.ID",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8tOVN4QlJwN01FSzVaZXFyVXY3S2lvLVJITUEyOWpjLUxfSkVES0RiV1hlcTZjQldQR1pSN0hUaEpzOHfSAUJBVV95cUxNMlktMkpNeERaaGlEZkNyZ0F0WTN1cjJYX3pMT3U4NzhEeEV5di0waTdXREcwUVdWUDZ0RmsydWQ5dHc?oc=5",
+    "date": "2026-07-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
     "id": "1785093421429-215",
     "title": "ヨーロッパ山火事拡大 フランスとスペインで30万人以上が避難",
     "source": "NHK",
