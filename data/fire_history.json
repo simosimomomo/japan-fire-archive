@@ -1,5 +1,65 @@
 [
   {
+    "id": "1785611659310-755",
+    "title": "香川 観音寺 海水浴に訪れたベトナム国籍の20代男性が死亡",
+    "source": "NHK",
+    "url": "https://news.web.nhk/newsweb/na/na-k10015193931000",
+    "date": "2026-08-01",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1785611659781-943",
+    "title": "ギリシャ首都北西で火災、リゾート地に迫る 強風で消火活動は難航 - AFPBB News",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MSWYtMjFEbENUNUVsSXFaMzlNZUZIMlF0SFd3SUVILWR2Um5zWEZ6M0ZtamNsTXFnQllWT1BvNnJRaVVMdFZ6eWdVcHotQnhPNlHSAVRBVV95cUxOVHNrNXRSaXVvRFFPalozQXBuN05MSjFPNjYtQlpkS0RkcDZuWWJ2OEVYWDYzSlZpMjZKX1NVazhCdlo4M3BsQmI3R2VERWVuNlRxRHE?oc=5",
+    "date": "2026-08-01",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1785611659781-898",
+    "title": "山火事マップのスポットライト: 南ヨーロッパの山火事 - IQAir",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc2tCUks2WkhiZFJpc0hsZDFaUVBvS29Ea1BYdXRlLXMxRUhKeWJrLU5PM0F3YTN6TDJNcS1rRUNOaVVuTjNwRkxSWDkyYWlNNjdMNE9fVi03d19IcG9rSXptQnl2NVY2LUhGaUJPZy03b0ZpOVBIQU16STFDMDZKS0hSWTIxako0ZGc?oc=5",
+    "date": "2026-07-31",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785611659781-463",
+    "title": "人為的な気候変動でリスク上昇 スペインとフランスの山火事（AP通信） - news.yahoo.co.jp",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FWmRxM25VX3NUaS13TlFtaVR1R2ZLWDhfYVliTUtna2oySXJZUW5zVy1RV3plQzhzNVQ0c01fTUxwTzhJMldzUFN0U2lPMmdaaHBmS09hR2pmcklkVDB4RmptLWtwTlRwa2VZMHBoNVVuaEIyN1R2azQtbEdfd00?oc=5",
+    "date": "2026-07-31",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785611659783-751",
+    "title": "大槌山林火災、被害の大半は「地表火」 樹冠火は一部 - 岩手日報",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jVWcwR2NBYkRfblIzXy1pVFZzTTdnQVBoQXpqWEdhSjZyTW9uSkRGVmxQSTFYQW9KMzN3REFHbWNGNFozZzJYWTh5aS0zMDlmemoxV1JENXlRNjFscUI4TA?oc=5",
+    "date": "2026-07-18",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1785611659783-776",
+    "title": "山火事が猛威振るう南欧、観光客や地元住民数万人が避難 写真9枚 国際ニュース - AFPBB News",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55SGphYm9LbEFmMnhkQnpIQmJ5TGp6cVRTaFc1bUMtSlBMczRUZmJhQ2o0Qkllc2d1Vmd0RUtzVDFpX1h2aUxYRlNpMHRwemNTaUE?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
     "id": "1785526781096-36",
     "title": "白黒の松林「世界の終わりのよう」 フランス山火事、消防士の喪失 - 朝日新聞",
     "source": "GOOGLE_NEWS",
