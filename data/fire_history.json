@@ -1,5 +1,85 @@
 [
   {
+    "id": "1785698169020-633",
+    "title": "ギリシャ南部で森林火災が発生 強風にあおられ猛威を振るう炎（AP通信） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11NFgzRW8wOGJBbl9PZnVBRjVyYjAtY0xyUDlOTHdSSzZtWDJ0WUNsdGNzLXZjUm8yMkhmX0ZjMHg0eVRMbURRcVRpd2NiVE9fcDU3OVZRTFRiT2ctc2NxZGt0ajhDMVJWOUVWVUFNSVlKU3B5aldyNUZYS0M1T2M?oc=5",
+    "date": "2026-08-02",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785698169020-563",
+    "title": "山火事マップのスポットライト: カリフォルニア州ウッドサイド火災 - IQAir",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV3lISTN2ZkI2ZVkydjJ3RU56czE4MGcxTktoVUprQUtmR0h2MnpMS0s1YzRXNFpJU1F1VzV0d0dNcTcxOTR3TFlzV2hQUERJeUtqV09DMHJVbThBOW5FQlNRa2tsMnBCUUxYeXlrV0lPQmtGN0NHLVV6VGFxbUp3MkJybXVyVnFj?oc=5",
+    "date": "2026-08-01",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785698169020-304",
+    "title": "ギリシャ南部で森林火災が発生 強風にあおられ猛威を振るう炎 (AP通信) - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY0kteGJFMUx3QXVETXduYzRZUUk5czNDb1F5TmtyNE5MdDZJZ0cwbXpLYWZkaWhTdGZwX3dlUlVpVkM4bFBWUDQ1dUp0cW8tdTBFZXVqR0oxdmc1YTc5a3Yzc2kxbmo2MVk2WFhaQ21qY2VJd0llcTFRWVQtYmF1LUZzRE91bEpMR1g0YjFB?oc=5",
+    "date": "2026-08-02",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785698169021-48",
+    "title": "30万人が避難、モナコのアルベール王子がヨーロッパの森林火災を指摘 - VOI.ID",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1oWDc2Vm1CUkNWc1RkUUl5VERXbUVqQUhrWFZaem5jS0NQaW8zTjNjYllmcndnODVkdmRYWDIyRWdqVXJFcEctaWNR0gFCQVVfeXFMTWx3U25PTktybUZjZGF3ZUJjdzF2eTl6cEFKdzV6a0dCU3FTXzZGV0hvaGRXdDJaaDZ3MnlqWDdSeUtR?oc=5",
+    "date": "2026-08-02",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785698169022-799",
+    "title": "イギリスの森林火災という「悪夢」の最中、真夜中にドアをノックする音が聞こえた。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQemgydVBIeG1ReVVPZkw1dHdJQ0FWVnloM25VQVdmUDRPQ0NnYWFFVGMtUGVZZHBnbjd5bThXa0JUYU8tMVRqMktuYUlrNWVkSzViTHMwWlVnQUhkMnRIWDh2UktEcWR5d3l3M1podFdBblVELWRuUzlhNWlrbU9yWjd1cl9xMDUxczlGYw?oc=5",
+    "date": "2026-07-30",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785698169022-923",
+    "title": "森林火災で３０万人避難 - 金沢経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HbHJiSjZiaEl2WnFzVkFiSENQakl1bVBWRXdwdDFIT184aGc1OVJLNV9JZ2cyZDU5Z2lzb2M4UkNGemVORHExMi1VbmVWelB4UzBmM1V3?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785698169022-556",
+    "title": "岩手：民有林再生、４区域に分類 大槌山林火災 町対策協議会で骨子案：地域ニュース - 読売新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ITTZINTIwN1pfS3lUUDg2b1NROGtTcXJHQ0QxVzExY09yMEp5cng1R3VuUVQ4ejVieUVoSnNEVDdGb3FEQVk4TmxtWlI0NTk5anNZd0dRS0NaM3pvVWZTbFZpN3pOZzZLUjVJX3l3emg?oc=5",
+    "date": "2026-07-23",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1785698169022-931",
+    "title": "スペイン森林火災、英国人女性死亡で犠牲者13人に 南東部アルメリア（ロイター） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RVU5qeTdwRlZhVkxUTUI0bjRqQXF3MXE1MkpMcDlxdVA2S3NxVmhRNk1IM09Oci1ScHBhRUE4dzZYRHdpMXhhS1VQT3BCQzRaSFNnUEJwNUxTMVoyaG9OeVRQOUlaNlNnSVlqVHc2eGxRVzlxdmNJMVBCRk9Ublk?oc=5",
+    "date": "2026-07-13",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
     "id": "1785611659310-755",
     "title": "香川 観音寺 海水浴に訪れたベトナム国籍の20代男性が死亡",
     "source": "NHK",
