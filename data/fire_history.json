@@ -1,5 +1,75 @@
 [
   {
+    "id": "1785786181015-187",
+    "title": "豊臣秀吉の妻ゆかりの京都 高台寺の敷地内で火事 ほぼ消し止め",
+    "source": "NHK",
+    "url": "https://news.web.nhk/newsweb/na/na-k10015195201000",
+    "date": "2026-08-03",
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "type": "temple"
+  },
+  {
+    "id": "1785786181612-352",
+    "title": "ウクライナの消防士チーム、フランスに到着 大規模森林火災の消火を支援へ - ukrinform.jp",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYUJLZjZIRktPNWswejBRYWtGSFFCZXAwRVRZNlRsWmE5LXgxMi02UGNfY3I4WWZxOUlDclM0NVJYbk51OTNmUWJVZVBPZzdqalJYX0tILWpTalVUTVJLNzJXMGxvZW1lS3VGTHhoSXhHczdKZVg2ejdOSzc5RzdGRV9ReDI1cFBRSUJtZWpVbnFyV0daWWh4SlI2Zk8tOXVHdFJIY29oZFNlN0JQLTRFSVkxVzl2Ry1hYkVlc2k1ZHczU2h5WmxkUWJpSlBjQ2tHWXpJTFpYankzWk00cVUwMVln?oc=5",
+    "date": "2026-08-03",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785786181612-62",
+    "title": "オランダでも大規模な森林火災 - portfolio.nl",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMYWVmX3I3cVdSbWkzSWxPUXJ0b0ZUeU5Hdmc5ZE9mYktJLTNmcEhEOVoyOGg2cVZzUjViV2hDSC1qSnRRVXZEcWVWcmFONlNU?oc=5",
+    "date": "2026-08-03",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785786181612-978",
+    "title": "フランスで火災積乱雲が発生か、欧州の森林火災が新たな段階に入る - Межа. Новини України.",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50MTYwdDBqc0pVLXcwNWlQUzRtZlpSbVB0aTJGdU9CZFFxS0VmdmRCMFVxTHhJMGJHZ2FCQ1h5dmU0SWJSc3pFNVM1czA0Qy05NEc1cDBCbUlRbEQyWkdWMkZKRktpR19zSXc?oc=5",
+    "date": "2026-08-03",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785786181612-143",
+    "title": "欧州で相次ぐ山火事、焼失面積は例年の3倍に - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UWDF2al80NTlHSlFKNzlVTk51MjdtNVIzOVlPOVRBVEJ0R0s1dlhHanlGcE5veHpxUU9zbGFhbDNuSWw3Rmdfb0IyX2VUTnpIYmVhbnRpRnMxUTNZX3JSOHpVTndRSDIzakZ1V0xpaUp6amlMUF90RVhrMThleHc?oc=5",
+    "date": "2026-07-31",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785786181612-505",
+    "title": "ギリシャ：森林火災の消火活動中にヘリコプター2機が衝突。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONFNtSFQwR2prODliSERnWDVzZTlDYUkzbFY3RS0yd3lDV2FieXh6YWotT3phdDdBQlY4YjVudGNXQzZCU05qajhhMlNzaHJBdVdMOXlPWEZSbzltb1B1aWQwQm15QzFMbzdCeVh1RWJfb19aWDlsc1ZMWWlscGdQNDNHV2pYbnBjdEVZ?oc=5",
+    "date": "2026-08-03",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1785786181613-230",
+    "title": "森林火災で３０万人避難 - 姫路経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53alVaYmE3ZWE0bHAtX08zNHlhSXpmQlU0OU80NXkyay1vUTE2UmhqS212c1RaYWRqdlpsMEdWTE1IbUNrMkgyeUxqT3ZMVFhkckFz?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
     "id": "1785698169020-633",
     "title": "ギリシャ南部で森林火災が発生 強風にあおられ猛威を振るう炎（AP通信） - Yahoo!ニュース",
     "source": "GOOGLE_NEWS",
