@@ -1,5 +1,75 @@
 [
   {
+    "id": "1786061143092-307",
+    "title": "ワシントン州で燃え続く山火事 雲を突き抜ける森林火災の濃い煙（AP通信） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsV0JzaXBhYlJ2OTRiR3N4Ymo5aGF2a200amhwSmxuekxxRWZrMW1INWJiZ3psUTJHWVFGZF9QSFcxV3ZZcTUtbnp2TXFYX3l2bHFJemJPcmxBTzZSU3pwWEc2ZllieGVRUmp5eV9NUUV5bkd3Wl9rMU95Snl1TzQ?oc=5",
+    "date": "2026-08-06",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1786061143092-505",
+    "title": "熊本・宇城市で林野火災 自衛隊に災害派遣要請 - au Webポータル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wVGNha3BJUE9RcEJnRHhVNFh2RVViWUl1dC16OXg0eFQ4SldFVmZXblh5cWY0MlNaN2ROWGlCemlsQTlaU1BKWkY3MlNkOExzU1JOd3RkNTE1ckhxM2hLTWJQaDduOG13YWY5TWx3?oc=5",
+    "date": "2026-08-06",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1786061143092-65",
+    "title": "ワシントン州で燃え続く山火事 雲を突き抜ける森林火災の濃い煙 (AP通信) - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWU02TFdwSjhmZjFMRXRfOE5jQWxzblZwdXBFaHl1YmxmdmRtMzEtU3VlUTZfNE1lS1ktZjFHcVF6aUstakVPZHM1QzJwT2hsVUhOLWc0ZEJoWlJCVHozSEl0SFBZQXMyWlQ4Ym9CclNJUlppRDBHVUpGSVZyYm9fd3RYck10OVM4dk82bEZn?oc=5",
+    "date": "2026-08-06",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1786061143092-508",
+    "title": "米北西部で大規模な山火事、放火容疑者を逮捕 - jiji.com",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qUzNMTnIyS2xHamVGX0ROdFJPbi1kZkxvNXVyS2JMQVR2ZzhaTndIa1RsZzM1T3BpR200Zzg3T0NFQVVTVlE2UExnRHRRUkN4R09FZE5DWnpwWmo0Sk1UY19paDNRQQ?oc=5",
+    "date": "2026-08-04",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1786061143092-752",
+    "title": "「対岸の火事」─フランス森林火災をとらえた写真は「時代の象徴」 - jiji.com",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qOTNmZTRiS1hFX3JTaFZsVHRyUlkybWs5SEJSc3dmSE5abHlMc2M0c0FIU3k1UkJ4U2NUVU9SWVVDUklZekFVdmw3bXN4UmpaY0dYMGhUWVhod001ai1QU0hVUkRfQQ?oc=5",
+    "date": "2026-07-31",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1786061143093-598",
+    "title": "京都市東山区の高台寺塔頭付近で火災「すごい火柱と黒煙」 2階建て建物全焼、観光客らで周囲は一時騒然 - 京都新聞デジタル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ES3MweWNldEowNE9kaXo4Wll0Tlh4MEJnVXg1dm45blpGWTdMajdWZTVFbFA0UW9QajJNVktBLTBMVDBOdzNoZnBkN3pmd0ludXhYNWJGeGg?oc=5",
+    "date": "2026-08-03",
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "type": "temple"
+  },
+  {
+    "id": "1786061143094-484",
+    "title": "森林火災で非常事態宣言 - 盛岡経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wdnBHdWpZLTdBRm1iTDRGRkRPQ2pxUnktcldyTHJsb3h2czBMSGhPT1RxUkp4eTEwUS1zS0RTbG5pOU5aUGZwdWdZNTBadE9VYXFmcQ?oc=5",
+    "date": "2026-07-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
     "id": "1785958833884-828",
     "title": "欧州で広がる森林火災や熱波等の気候災害の損害額、すでに30億ユーロ超（約5460億円）に達する。東京都の総面積の2.3倍を焼き尽くす（各紙） - rief-jp.org",
     "source": "GOOGLE_NEWS",
