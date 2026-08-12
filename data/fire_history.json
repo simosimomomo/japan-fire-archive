@@ -1,5 +1,195 @@
 [
   {
+    "id": "1786561530475-581",
+    "title": "山火事で動物のすみかが「灰の砂漠」に、逃げられない動物とは - ナショナルジオグラフィック日本版",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VQmhnX2M4N0dtVW9hV1NsV2hDeDhYOVR0Sk5iSTN4UU5TTzdJWUZrMGZ1ay1OdDd0Mi1YZnJKUUhWQWl2c05UQndLWlNSRTZqQlFGWThjNXUzei1uU05MaDRpWQ?oc=5",
+    "date": "2026-08-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1786561530475-366",
+    "title": "ヨーロッパの森林火災「熱波で時期早まる」 スイス再保険報告書 - 日本経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYLXM4Z01aQ2tsUVBZQU5rTkxtTGdNZXJjU1gxNnBrQjNHTFFHUDRmU0ZvQ0wwQmhzZXE5eWdGaGZScUFGcEdRb2NFZlRHd1ZkRGlvVEs1SkxDcmJvVXpXSXZRSlNPSlNzdVFPRQ?oc=5",
+    "date": "2026-08-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1786561530475-313",
+    "title": "ギリシャ、熱波や森林火災で財政リスク増大＝首相顧問 - ロイター",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONHBGczFNcVp6cU5raE5meWxneU9ETkk3azVGZGExXzVkQ1Ezb3Y2U3gtLWxkeFE3TWlqUUlMYnlud292aXE4QXljVUl4cE5uRlJyZTNVZkh2WHJEOHcxdWctS05SWFlvSk9oQzFwRTA1NWRnejVjQS1ZVVNuZHg3Mg?oc=5",
+    "date": "2026-08-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1786561530476-394",
+    "title": "【鎮火】香川・多度津町の山林火災は12日午前7時半に鎮火 消失面積は900平方メートル けが人や建物への被害はなし - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MN1U1Q0sybXRvbHlzR2FlSEJjWlFZb2pTejF5OHV3a3ZnSUxYcC0tcW1aLTUxLVlkLU16dDNieEhiSHFsdjNLdHB4UHU2YUtCMzFKeDlVLUZkOV9QLThkdWlQanBacmNZZ0g3MGlsekVES2lEQ1l5eXNpRkxxRTg?oc=5",
+    "date": "2026-08-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1786561530476-793",
+    "title": "ギリシャ、熱波や森林火災で財政リスク増大＝首相顧問 - ニューズウィーク日本版",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tUDJVUWhjMWRFX0dLMUxlQWJuZ0kxUVdib3dGYTdJMV90V0d5Zmk3Vy1sMGlzUVJERlRsc2o1YXNGcnJlbWlJektMenNjZjljbWJOLUJ0Y3JXQQ?oc=5",
+    "date": "2026-08-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1786561530476-334",
+    "title": "インドネシアで森林火災が拡大 マレーシアに煙害も - 毎日新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95QV9HQzNIZUVaRF9WQUZtS21OaERnUkN0TXBxWjlGd1hPblhwZDlSWlh1WC1NZHlleHJhTGlEUm92cDIzS3RZeVZweGQ1YlgzT21nWE4ydVpteFEwQjZoTVdYUmRHRE1V?oc=5",
+    "date": "2026-08-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1786561530476-157",
+    "title": "カナダ｜ブリティッシュコロンビア州での森林火災発生に伴う非常事態宣言 - 日本橋夢屋",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SSmQ2c1RBR0RlYmRWYXFFYUJTUEU4c0NYc0JOU251TFp5dHh6RmtyVzlhS0xFUUtUb0FiOUpIcGJaZUxUTnRoVGVQVGNvRThfMlo2VVBGUkRLelU?oc=5",
+    "date": "2026-08-11",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1786561530476-217",
+    "title": "フランス北部の森林火災でキャンプ場から約1200人を避難させる - Межа. Новини України.",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4clZxcUp5MmdydlFZZG5MalV5eHNmeW4zM2phRGljQnRIR1dZQWVyeE1scXpHT05TQUJheHEwQ0dFeUlVbkVhM19NTmw0STU1a1loTWRuZDB3dDlhdlpHTElUcThwUXM?oc=5",
+    "date": "2026-08-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1786561530476-604",
+    "title": "山火事を拡散する「火災積乱雲」の怖さ オーストリアから - 世界日報DIGITAL",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwVWV4bmtBR1ZVVVBVSWhMNUVjUU9MUGRnRzRpdmdZZHU5YVZvMUlORkpuS285X2h5LXV1YzFkQzVVYlB1SU9iS002R1lZM01YLWpaYzNWNkpFbmJhVGtLeXlUbGVEWHRPOW9N?oc=5",
+    "date": "2026-08-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1786561530476-154",
+    "title": "【鎮火】香川・多度津町の山林火災は12日午前7時半に「鎮火」 - Infoseek",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16cmNYemE5OVJaeGdieWNTN2FZLVYtMG1hZVdCUV9GUmpoc0RzRURRVVpoMGdVWXVmT2kxXzh1NW11VUJWRHlFV1VPSkU0S2tuTEhvU0RsV1VVY1Rhb3fSAWNBVV95cUxNTUxaVFlseWFuM2pweWFPa1pCSkh4S01fVmxqRmxqZDgzdUVOWHI5Y055eU80SXdZZ25ITWNKVlZfN1NoamZVVWpYVi1pZVVlQUdQVmowOUtrT3BGa25Xa2ZuUkU?oc=5",
+    "date": "2026-08-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1786561530476-833",
+    "title": "インドネシアは森林火災による煙のため、学校を休校にした。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBneUswTDI4MHpzQ1JOVjhadW1RU0RxUDJkamVQY0JaSl9keFZKSHU5X2JocDdWSWFKbVd1eWF5RnRwbFRSNFZBYU1lY1NwOXlueFhOZ3Z0VHliMVVRVmhUQVh3QlZ2N1FZU3dvd3RyYVF0RUpld3dOUklTczhkUQ?oc=5",
+    "date": "2026-08-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1786561530476-223",
+    "title": "インドネシアの森林火災拡大、煙害マレーシアにも 人工降雨難航（毎日新聞） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IV2RZVk9XOURVMFFrR2o1VlBBNUFyU3U5VkxGWEdMa3dIanpsTW90QXY3N3hmeGI1QXFrUG52SWpVdWpSX2RBb21HMkR3aDhQTVg1Xy03ckVOT3VWdUtoLW9qTk9SckpKRDRwTDBEVVF0b1JEQWViMGJfOEIzeHc?oc=5",
+    "date": "2026-08-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1786561530476-117",
+    "title": "ギリシャ、熱波や森林火災で財政リスク増大＝首相顧問（ロイター） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DeENpLW1VMmZwR21EV1I1RFdtZ1pnR1A3V0ZNQjNwZGNJMy0xcnA4cmdMTVotZnJKclVEekx4eVpVWTA4UzhwTUdWMjYyZU9LUGZhRXA0Q1daTW5QOUp3enVGNmVQd180Rm0yenlMbERxa3djUnNHY3RsYTAtN1E?oc=5",
+    "date": "2026-08-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1786561530476-816",
+    "title": "動画にはヘリコプター同士が衝突し、炎上しながら墜落していく様子が…森林火災の消火活動にあたっていたヘリが衝突し墜落、その様子を捉えた動画にネット民震撼（ニューズウィーク日本版） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VaVI4ZlNkWGc1Y0xZRDlUOXo3WWxlODZyYU1Yb3pSQnV6ZS1QVjB6LWVfbHdTdjdLY0hHSXVnQk1DckR0V0xXYW1OejlfQ1FsTXVOZDNpTmpJMUphdmx0SDFnYk5JUElaa0R4ZllZZTlOZmpieDFXc2dkLUZaR0U?oc=5",
+    "date": "2026-08-10",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1786561530477-139",
+    "title": "「愛犬の腰から血が出ている」イノシシ被害か...山林火災の後、目撃情報が増加　防犯カメラがとらえた「体長80センチほどの親　幼い個体が4匹」 - ｄメニューニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrNnR5QjlxdXJlVENlOTlJMzhoVFFuczhZZlVGVm1fb29KbXBlWk5Rd2I0NExRVDdobjNHS2w0RVFhYUowZEFhVHJaQWlRQkliQjBqdjNlUUp3SjRYazZUMXc5em1CR0ZNcmtwNUZJZ9IBdEFVX3lxTE1MUW0wVklEMnN1bDh5Vmp2bWFtVFV0TWNUUGNta2tyTzVNR1pmZ1FKeUYzazd3QlFCR0tTa0MtMkhEbU9rdXJSYzBCXzZGQVZ6aGlaVjRQUlF3cWNONXpfb0QwWFBJQ3JRRkdSZjIwQWJ6dHNi?oc=5",
+    "date": "2026-08-11",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1786561530477-421",
+    "title": "ヨーロッパ各地で山火事 フランス・ボルドーに火が迫る「火災は制御不能」 スペインでも一部の州で国家非常事態宣言 - ｄメニューニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80SDdhM3Q0NUFTYm1DRzB1UUVVV3J5eEJiY3BPV09yb2lTZXYzUkZPT3NZdkRFeTVPakJ5aU01QTlSU1lsam1SQWhKSlRRTVdmRjZBNkYwTzU0M1RISkNFNlN4Y29ma0NPbDhGMjln?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1786561530477-449",
+    "title": "ボルドー近郊で森林火災が拡大 仏軍大型輸送機が消火剤を散布 (AP通信) - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0RwaE1TZGRHNHMwTFAzQ3NVLTJOUzc5ajR0RVZ1QWFXNUJHYmNYZmZncE5TZXBkWkFzWC1ZcVZUMWdfaGQyS1NMYmdydGZHTEFkQy1xd0hiLWhWNlE5bkpQbGVwUUIzY09EZWc5NjNadzdQMDIwblZDYzVYQnU4QjRPTnJRcWc4eTNqS2xn?oc=5",
+    "date": "2026-07-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1786561530477-405",
+    "title": "政府は6つの州で森林火災に注意し、火災面積は10万ヘクタールに達する - VOI.ID",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBJYnlPYXdRWTVGUk93WGMxX21EN2s2ZFRSMjJ1QXZBb1ZLV25iamVyU05JREo0NFhyWjAzdzlYVF9Ub3fSAUJBVV95cUxQUFg5Szk4aHY0eUcwVGNRZ2VGSDNKTFVQZUp2RFlZLWVuTGQzZkhwQV94SUl0eHNZOHpMRjVCNHpxM0E?oc=5",
+    "date": "2026-08-11",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1786561530477-64",
+    "title": "ブロモ山の火災は899ヘクタールに達し、合同チームはまだ火を消すために戦っています - VOI.ID",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VYnRJQ05PN2xaUVR5NmN3eHhmMWNjcUJhOFE4ZTdYc0tMWGVPczM1NWtBSDhNSHA5eXhnUWV4dmhoRnPSAUJBVV95cUxPT0VmWjRhTU41RTA0VUNaRF84cTFZRmVKMXd1SFRFWE9JUXNHZTNyNkVLa2d5YWlPSkV4eU5vOUszOEE?oc=5",
+    "date": "2026-08-11",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
     "id": "1786388524082-858",
     "title": "カナダ西部の山火事、制御不能な状況に　当局は「最悪の事態への備え」を住民に呼びかけ - BBC",
     "source": "GOOGLE_NEWS",
