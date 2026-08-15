@@ -1,5 +1,85 @@
 [
   {
+    "id": "1786818882660-371",
+    "title": "小泉防衛相ら4閣僚が靖国神社参拝 高市首相は見送り",
+    "source": "NHK",
+    "url": "https://news.web.nhk/newsweb/na/nd-20260815de44238",
+    "date": "2026-08-15",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1786818882660-464",
+    "title": "靖国神社参拝めぐり中国“強く抗議”韓国“嘆き禁じ得ない”",
+    "source": "NHK",
+    "url": "https://news.web.nhk/newsweb/na/nd-20260815de44311",
+    "date": "2026-08-15",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1786818883203-929",
+    "title": "ウクライナ救助隊がフランスの森林火災対応を完了、70人と特殊車両15台が帰国 - Межа. Новини України.",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zUnhnQ1dJTjdHVC1EcGY4YTc2eWNDZkdSazFhbGxvdktod3JYb2RfN2dZTmp1SU0wY0V5Mjd2QmxyN1N5OV9Vd1FNbm13UDdHaURzRUN6UjREbWRZUDY3cWxpaFdiVGpOZnZ5djZDQQ?oc=5",
+    "date": "2026-08-15",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1786818883203-244",
+    "title": "【鎮火】香川・多度津町の山林火災は12日午前7時半に鎮火 消失面積は900平方メートル けが人や建物への被害はなし - KSBニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QaVJHVlFQSWt2R3B4NTIzVWsyM2ljY2xBb1BuQTJWOXY3c2VKdFdDWWRlSTVoUDNuaVJjbUI0U0h3UmFQc2RiNGJDVTl2cm8x?oc=5",
+    "date": "2026-08-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1786818883204-829",
+    "title": "ニンビン省は、落雷によって発生したマムソイ山の森林火災を消火した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSW9UQ0NlaVdDOGx4QTVhZ1VYcnBGSk1vX3h3VXRhY2VtZjIwQVhuZmtpVkNQeXl1RUdJM0JtalJ2bmJuQWRkckE0TFhjQnZVSWYxLVZNeTRXa1BvUlNpWjFtbW0zSkh4VFFOVTBpY1ZGWTVmUmZXODBSTnJnLTQybkpRUDF2S1FJN0E?oc=5",
+    "date": "2026-08-15",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1786818883204-45",
+    "title": "スペインが非常事態宣言 フランスも森林火災、２０万人超避難 - 時事ドットコム",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUm1LaHRIRm1ydldoNHdTMjdsWEk2c1JIb2NJMjdSN01ZU2VHLU80cXVMMktvLTlhejBXcmIycEJ1NXR6NE1DeHp3c21ZSGlwTkJVY01TTy1VUy1TNkctLXBhOWF0UWliLW5XRnd0RVlrZjgtTGxMbVA0a3RtZTM3QmVR?oc=5",
+    "date": "2026-07-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1786818883204-34",
+    "title": "森林火災で３０万人避難＝スペインとフランス - 時事通信ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMcmgtVUQ1VzVNd1dZYjA4a2x3R2Q3N1d6Y21sSXVJNWhWZjBjR2xGZi1nS3dsZ3JKTDBKWmNvWktCMjRsRzM1WGFsTF95eW92UUZhQQ?oc=5",
+    "date": "2026-07-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1786818883204-951",
+    "title": "ベトナム北部と中部では高温が続き、700か所以上が森林火災の危険にさらされている。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTHFiTkMwcS05NHFvYjBSZC1HdHhDU3VhUDZsdW9xMzBpbzNJV191SXJvRFJWcjZFS2RlSEw4azR1ejAwb3Y5YWdLWGNGQ3dvdW1rV2pVVWJWWU9iRUMteUlzTUV4V3ZRODRDWk1JT19QNktSOUxrWTdPazV5WElpLTllQkJjUzB4a2o5ekdn?oc=5",
+    "date": "2026-08-13",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
     "id": "1786733929494-253",
     "title": "仏南西部で再び森林火災、独西部でも1800人避難の火災発生（ＡＦＰ＝時事） - Yahoo!ニュース",
     "source": "GOOGLE_NEWS",
