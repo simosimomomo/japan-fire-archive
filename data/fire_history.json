@@ -1,5 +1,45 @@
 [
   {
+    "id": "1787251443793-147",
+    "title": "笛吹で民家火災 - sannichi.co.jp",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KdndXMU1sczRVZlFZM2pBeHRoRDdqYVBxdVhQd3R3TkFZZTJyU0Y0QkZuV25BbGF4TE14djhnWE5GOHlXVEVpRHVaZWJoal9jLUFGWmViLTZQclJjcVZBTmFZWmc?oc=5",
+    "date": "2026-08-20",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1787251443793-426",
+    "title": "仏南西部で再び森林火災、独西部でも1800人避難の火災発生 - AFPBB News",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnOGxuRkYxWUhMZ0NiQ3VZcjQ2dlpnWXc1Rm5IVTFpenFUWEZOMFFoMGRrb3owSlRjeDlWTlVOTk9QMklzdU9JdnYwamV3SHh2bGfSAVRBVV95cUxQV2RsYXVuemt4RWNBd2FQT05OZUZqbFJ1VHNpZFQwaDJTT29XdWpmbU5xVGtaZlphS0ZyN1BKZVNuMFk3dmpaTHVLcUUzcFVqSW0tdzA?oc=5",
+    "date": "2026-08-14",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1787251443793-165",
+    "title": "インドネシアは森林火災対策として、人工降雨の取り組みを強化している。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR2hjSkQ0eE1qQmJYTVpCX0NJMlFpUUp0bHllajQ1SzlKVlJMZlIwS1ZxTk1LdGJwRWtleWlZcFE0S253dFFNbXJ2WHd2WThEbHcxY3FoYmdSeGdlUnZZRGdtUWt1RDdrVV9wTnJ5QXRCNlpBV2RIVDBEcWx1MU15c1ZxT3VYYzF0?oc=5",
+    "date": "2026-08-20",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1787251443794-694",
+    "title": "【更新】海陽町で山林火災 - 徳島新聞デジタル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WSWduRDVIV05HN1lJNVRmLWF2dWxOcTRBNmRZMDNxckVzbWFVd25OZHZsWWhpMFlPb3NYb0dJbDZtbmtiZnVueXZIRGl4N084MFpzOGlB?oc=5",
+    "date": "2026-08-06",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
     "id": "1787164779896-807",
     "title": "1558. 世界で拡大する森林火災：最新データが示す気候変動との関係 - jircas.go.jp",
     "source": "GOOGLE_NEWS",
