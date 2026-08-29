@@ -1,5 +1,105 @@
 [
   {
+    "id": "1788036103135-41",
+    "title": "福井県内の緊急安全確保 避難指示まとめ（午前5時現在）",
+    "source": "NHK",
+    "url": "https://news.web.nhk/newsweb/na/nd-20260830de47207",
+    "date": "2026-08-29",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1788036103646-920",
+    "title": "ダクラクは新たな森林火災の発生リスクを防ぐ。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMzRucXF4WVpkZVVTcDFlZEdURTV2WnJBQk5idlcwaEQ5clV1QTFibWNqVjE0cW9sVHZCYXQyYzhVMVBBNnFWSlF3OUJLVlpIT3E0N2lBZk5fY05jeGxUTmdvNUtqbXpfWXpfTklRdENnN2lWdU1Wd3pOQUJHVl82NHVTQXQ?oc=5",
+    "date": "2026-08-29",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1788036103646-908",
+    "title": "山林火災の消火支援でインドネシアに自衛隊派遣へ - テレ朝NEWS",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51UjdGVlFQNHhSNlY1MEkyMVllZ1loQzFwN3V4OTV3NWlZSnVhOWFtODRlTEFJajNkV3o3RTVqYXJHOUZkbVRURVhEYVY3Qld4NWhJSzJhS3M5OWNlcUFUZUx1NlpCbUlzbEJnUlpJOGhaT0E?oc=5",
+    "date": "2026-08-28",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1788036103646-803",
+    "title": "ダクラク省は、高温のため極めて危険な森林火災のリスクがあると警告している。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcjU1RndocVQ2Umo2WEpxSTUza2pKQUFRRkhLN3pqeThjYndWc2l5Rm5KbC1kZFJTS3ZtamNnRGRZRS1YYTEyT2owd09jODJJUzRGcnRBQW02RHBGcjJmZDZxQjNETzY5aU5ER0tDVk5ueEtkbFFNMmpQOU9SbGE4azhqenlzWVBmbG5odTdKTEtfc0ZB?oc=5",
+    "date": "2026-08-29",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1788036103646-814",
+    "title": "風向きの変化で山火事が急拡大 ネバダ州リノ9万人に避難指示（AP通信） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJdWNWU0hNY1dTa21kcDUxdTgtU1NyWngzWEN5Q1Vxdl9qTU82bWRhaXpSbDZyVWZBOUJOcTZnbTRScVZlSTBlMnNFcW1RamVtdnhub0pFdlVuSDQ5TlkyWVBtLWZrVDU4Q3R6UWFPMEdfdUhGNkdCU3pjRy1FNUU?oc=5",
+    "date": "2026-08-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1788036103647-123",
+    "title": "再来年夏までに200ヘクタール造林見通し　大船渡山林火災で対策協 - ｄメニューニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaEExdGpwMC10akt0NHpzejdCaUVPbTh4a3NETFl5aWJHR25nWjZJbVhYMTNKZjh3NEpNNzZFTmFYdVNpQ0FiSGxYVENrdklrSC12MGhWZkduWGVfbHM4MEdLT292QzlQNWlKTGdCV3pTbGpCWTRjTElneTVSRHNEWWFUNzRKeUE1aTlUTlhQVVM4VWFCdjN3U9IBngFBVV95cUxNNXdLTVpmT0pPeURIUC02bHJ5QTN1RzVBVTlsRUgwM25aT0hFd0xEbDFnczI5Zk0zMUdSSUdqaFhiVFh1eWVMaE9mSEFSdEFGS05VVHhmWmdpODdGVHQ4OTJ5amJoNDcxeGlkMkdFYWFsbE40QWxnRkc1aFlTeWxaVXVRaWhZNjlPMkpzLW8yRlRlNUUxT19ERXJSY2pLZw?oc=5",
+    "date": "2026-08-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1788036103647-341",
+    "title": "インドネシアの森林火災拡大、煙害マレーシアにも 人工降雨難航 - 毎日新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lMHFjUHN0ckZROEd2dWJ3YmR6UC1pN28yY0tPSWJGUHdKcG1FeDRGT3NFclBoZGQ5Y01EUWRvS21pSXlNaGs5SVJST0U0bjl6bW04UzA3a01UWHRGejNtWU53VW85S0do?oc=5",
+    "date": "2026-08-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1788036103647-647",
+    "title": "ザライ省で猛暑のピーク時に森林火災が相次ぐ - Laodong.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0ZtWFBMTjk5c3JUUzZnaF9QTFhoM1J5SnN1TFhRZzJ0dzFEMWxDVktQRFp5bEE5eEphc3BtTVpxSG92M1FTWEE3dXJ3TDJzbERvWTZMOTl4VU5HU01UYmh2Z3lPc0xkQzVjNVZtSGNJbjV1YUFVLXJndW1YWFZxRjVYNTFqMDBHSHd4dWE0QjFIM2djdFFEbQ?oc=5",
+    "date": "2026-08-29",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1788036103647-714",
+    "title": "インドネシアが山火事対応強化 東京都の約半分の面積が焼失（AP通信） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvMUcwTXRSZjJKSENIYzV5Nm0ySnNRdzNUTXhpbHpzS21uQXAyNURzNzR6dHVJSGxzQjNha3hPOTA0aEVHSTNZMTZXLWg5ellUd0JtTDJRVUZhYUhVOU9tTDUxUzZmLTBRLVpibXhYNjRkS1lCdU1QbnRnLTBMY0U?oc=5",
+    "date": "2026-08-11",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "type": "forest"
+  },
+  {
+    "id": "1788036103647-499",
+    "title": "ドゥクトー総合病院建設現場で火災 - Laodong.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSk56Z2J0WDJZWWJJZXR0bGtSLXJvempsVXBhTkpDdlZweVREYWRUMGxqcUdMOVdLa1dIQWhRM1lfWUxzMndodm1mTEp0RUlRcU5GZndtN3RRS2lGaDlkaWhBek84RWhPaVBLaWcwUmpySnhUbzA5blh5aHkyLXBxaFlhYXctSVZJY3pydXg3MGRWSFZtR1o5bE5xYklnQlpCcDN0YQ?oc=5",
+    "date": "2026-08-29",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
     "id": "1787967229880-23",
     "title": "自衛隊、インドネシアの森林火災受け消火用ヘリ派遣へ - 日本経済新聞",
     "source": "GOOGLE_NEWS",
