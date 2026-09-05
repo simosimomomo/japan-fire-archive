@@ -1,5 +1,155 @@
 [
   {
+    "id": "1788638835717-101",
+    "title": "マレーシア 煙害で「非常事態」 隣国インドネシアの森林火災影響 - mainichi.jp",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11QVV6Q0tEVGplaVBWWnQtdlVwQXFoblk2TG9OVnBwQnFaMU9nNW1SWmpYc3BwWVZRdk1GeloyLS1RVTd6aEN4N0V3cDMxMWdDQmYxeUw4RnNFc29vUDVmYlhPMlVKZjVT?oc=5",
+    "date": "2026-09-05",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1788638835717-746",
+    "title": "インドネシアの森林火災の「煙害」 マレーシアで非常事態宣言 (毎日新聞) - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNi1xakxiRHlfbVE3V05aVjEzaC11b3dsRjVITkZ1Z1FrRm1DRWZSV3RnU2xXbWRWUWktdUc0VHZRNVN0NzZmLVduUXRZTjRpME43SWpuT0lMRXNXaXM3TXNrUFFNVG0yVDBhWEFuYndUck9RVW9zcXBYbGc0TkI5c3E2NWJWN25TazlleVh3?oc=5",
+    "date": "2026-09-05",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1788638835717-282",
+    "title": "ロシア山火事の煙が北海道の空を霞ませる - x.com",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcmh5VEI4SXlra0FEMk9KOXN0LU0yVmpUVEhwLUp5VzJ1Tk9mZ2xEUlNPRzF0MmdtOWttbThtYkdFNEpHTWNLQXpVMjZMY3BkNnFyNFZacw?oc=5",
+    "date": "2026-09-05",
+    "lat": 43.0642,
+    "lng": 141.3469,
+    "type": "forest"
+  },
+  {
+    "id": "1788638835717-551",
+    "title": "インドネシアの森林火災による煙が東南アジア全域に広がっている。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVVZrcUU4cU9yWjV5RUxMUGRFZ1hKM1FGZmRvT1ZHT3lYZXBvZmc2bDhPeTBvbjFVUFhxcFFEbVZYaklpcXNYaWFRU0xsRGJGSnpSTmwyalJ1LXVWMDFXSXpaaHFHY19kTEp2djY5eGJicW5oWnYyWFpLaEpPTVdmUGR6SXo2UzVKY0dF?oc=5",
+    "date": "2026-09-05",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1788638835717-416",
+    "title": "インドネシアの森林火災の「煙害」 マレーシアで非常事態宣言 - mainichi.jp",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NSHJxQVpkY0FnN01HSy1WUFlWTEpzZTdTaVcyWkJJV0lzOEpJb0NqbnZ3V1ZfYWMtME9iNjVBV3Q2MkFDeVhqSkVlQ3QwV2JYdGsyWmxLLU5xZHlRbUhxMXk0UGNkajBN?oc=5",
+    "date": "2026-09-05",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1788638835717-837",
+    "title": "インドネシアは森林火災を消火するため、8トンの塩を散布した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zWkJLRGlMYUttdUVIdVdvVU5lajZRSmZlS2x0bjdHTllhdFJ0N3lBQkwxaEJqUWxlLTUxVDUwUERwZi1IM24zQm9zeTJHeG9kbDI0TzdyRGMtMmVNUVMtZ1l5X0dQNl84MXd3OFNhcko4cXdJVGc?oc=5",
+    "date": "2026-09-05",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1788638835718-826",
+    "title": "インドネシアは、スマトラ島で雨を降らせ、森林火災を鎮火するために、8トンの塩を散布した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT1NoQkhrVUdoNnd3T1N6LTVKbGhEXzN3YWlWb28tTnJfSHF6TUUwN05Rd2JaOTE4RzJSOG1fbmh3cDZBNzZIZTlyVnJiR1N3d2hFY1FsVktDT3JIR0Fvd1VDX0NvZzY0WlVzQms3ZkVIY19Pb2M1VDR0QzhfTjU4RENnMl9OWjFDSWdYYW1EWQ?oc=5",
+    "date": "2026-09-05",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1788638835718-809",
+    "title": "フエの森林火災対策に集中的な取り組みが行われている。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWWC1JRkJqUXFRUkI1SzlBTzgteW5hMy1McUNGbThERDFZSnMtc2RKYjdzNkljNEd3ZktZUXkxTDJocE5EWk1RczNMS25yemFDcmtxY3lMajdSTlk3eTZfaVliMUFVUmhi?oc=5",
+    "date": "2026-09-05",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1788638835718-803",
+    "title": "インドネシアは森林火災の消火に8トンの塩を使用している。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PdGh2aEtqSXk4TVkxWm9lMG8zZHVJTUNNVVFIaUpGMVRDV2stcmloQ0J3WUNaSFBRX0N3TlZ5Y0dqeXpzSFZlaWxad2ZUQ3J5dWQzN19MbGRvVUxHRXRkRTRzM2d1LTdTQVVjMUg4VF9ZQ3p0Q3c?oc=5",
+    "date": "2026-09-05",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1788638835718-134",
+    "title": "インドネシアは森林火災対策として8トンの塩を散布した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84bENMdWF4NDBiR1J5RkJmeXJOSE9vVGxiRW1fY3ZORGY0bWNrX2VLdDkzdlc0REZmSHpmQ2Y1SnZfS0V6TG5uMW4tS19jRTV2S1dIa2FXZjh6Nl92RWNhVmZfWFVIZ00waWppZm5IdU1qVHRQZmZ2Rw?oc=5",
+    "date": "2026-09-04",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1788638835718-648",
+    "title": "「昭和20年台の建物ばかり」伊勢神宮近くの商店街火災 発生から24時間…まだ鎮火せず 58棟燃え人的被害情報なし - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VaDJEb09EQ3FXeFZ5NXoyaTF2N1NEWjJjTFRDajdPT2FiQ2JSelNkeGduVFRtNXIwWDJZQ0xIRVhWTU9WOXN6OEFnYTR0UHZrRDFYRDBxVktqRW15Q2JGTlBxWU4tb2FYNllHU25zMEt6aUJ1SF93RE9DTmZqZmc?oc=5",
+    "date": "2026-09-01",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1788638835718-519",
+    "title": "バクニン省は森林火災に関して、高リスクかつ危険なレベルの警報を発令した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQzNRRm9TVVE3RWRBWDd0cXNnY2N5SzBUaU53N3Z2Z2twLUNmRnpRdV9DV1B0Vi1ONWxRSUZKMldCTTNXemlITDA5ZUFfY19JdExJWlB2c0lRLVlhMUxQQmlBLWVqMktHZWliak9PU0ZfU3FpVzB5YkViQVZaLXNJMTFQalhzclZEd2dN?oc=5",
+    "date": "2026-09-04",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1788638835718-140",
+    "title": "宍粟で山林火災、2ヘクタール焼失か 鎮火のめどたたず けが人の情報なし（神戸新聞NEXT） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52dXNqd0IwZjBuTVgzMlFvbHF0MTh0WWd6TzBsNEMtY21NUk8xZkx0dWhzaTBSU3o4OEFoQ1dNaU0wdVo5UVZEc09IeGJMdEE3akxTRFg3LTVocGpQM0NIMnFQYmotQ2FjR0F5eHlCMS1VV2pyTHFnN1NsVXJ0aEU?oc=5",
+    "date": "2026-08-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1788638835718-756",
+    "title": "泥炭火災がインドネシア全土を濃い煙で覆い、2015年の災害の再発リスクが高まっている。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbkJiMnZWTnRaZ3QzYV80RGVSQ3gwM0U0Ykp3VzZVSVEyZEdjZFFfRWhnWW1wWjlEbERFYTlERjZLTjVEOTNGSlhjNzMzWG9zU3NFR29GdDc3akd6c0RhaVlzREZZbGJfVEZRV2oxMnQ4ajNDc1U4Ny1tYkZ1UVFYVHczYzlJUVA1YWM1TUVCSTV4T1A4SW8xM0F2d1QxTVVhOUE?oc=5",
+    "date": "2026-09-04",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1788638835718-768",
+    "title": "インドネシアの森林火災の煙がマレーシアを包み込み、クアラルンプールがASEANに規制を強化するよう求める - VOI.ID",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBFOGE5SEMtSW96X1YtVEFBdmt5LVlDZ09IbDNDZHI5N2Y4NVowWTl5ekUtVkRqc3VJWDJYY1h5cW83TlHSAUJBVV95cUxPRE5ZYjc5SGw2UVdtbW45SU5kQ1JNUGhoaHA2N2RTMjIwaFVHbW53eU40NkFFNnV0X3h5QjQ1eUhGZUE?oc=5",
+    "date": "2026-09-04",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
     "id": "1788468290914-452",
     "title": "日本製紙八代工場 解体中の煙突火事 きょう現場検証",
     "source": "NHK",
