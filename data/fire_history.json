@@ -1,5 +1,155 @@
 [
   {
+    "id": "1788986583442-63",
+    "title": "インドネシア、東京の面積が焼失 森林火災、隣国も被害（共同通信） - news.yahoo.co.jp",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXdVF5Z2cxQXQ5TzZpUUtzeUJnSzE1VG1samRZVzZ0N1JzYnJWV2NzMVJuTzNGVTAxRlV6OG5IVUhPUUsxRmV2aldoYnVqcXR1SmRpM0ctTDlXY3FWcjJDS0F6VUZoNkNvRzR2cktscTdSUUtrSXg2TFc1RGRkV0E?oc=5",
+    "date": "2026-09-06",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "type": "forest"
+  },
+  {
+    "id": "1788986583442-790",
+    "title": "インドネシアの森林火災が拡大、2026年は最悪級か 毒性スモッグで生活に影響 - Межа. Новини України.",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BQnBfU1I0dzlpbHB6S0xTdFgwZFdpVG50cGZTcl9aRzRFY0NCckxYWkxJcmlMSERIUF9kNy1RSlR5WTFvdGVQcHFlb2tZbGNpM1dSdnpfYWpYSFl6VDgyaXhqMEtvQm9kemk5WV9VYw?oc=5",
+    "date": "2026-09-09",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1788986583442-396",
+    "title": "インドネシアの森林火災による排出量は2000万トン近くに達し、世界最高となった。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1p3NDJ6Z1JGWkFOYlFNWFJucFYtcXNhc19sOWZZV2tMaEFuN01IZmFCeTR4ZkRIWFFZclQtWGVZQXVjZUZ4SG5XWGJ1Rk1wbU5GbWtwYW1oRkJmZXVDMGk2dUZSdlRQM2UzQ3pxbGtlNFg1Wlp4SlBmZWJYTVItWEVLS3JxY2s4UlRwcHhwOWVCak1JLVFTbw?oc=5",
+    "date": "2026-09-09",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1788986583442-678",
+    "title": "８社で法的措置、森林火災関与で＝警察 - nna.jp",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE83bzhqU2F3ZnlZTzFod2RYNlZVQjBGWVd0Nk9rV2JyX1hScHQ2U2x3ZlVZNXpYdFhEbk1SLU94aERpTUI5cWc?oc=5",
+    "date": "2026-09-08",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1788986583442-684",
+    "title": "山火事マップ特集: ワシントン州のThree Queens火災とKing火災 - IQAir",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVk8zejIzaFdkaEhfeXZNZ3otdU5CMGVMUGJXLXRVejJhTXYyRUdqVVdhNEdFdlh4M0hidDRKbWV3NndvMXB6ak1RR3AwYmpRY1I4M2FmVm4zWnh1MmV2Q1lQT19LVXUwYkdScklPTHhUOU5yaU5nNHNuRk9KZmN2cjVaQnVaVjgzMk9iUi1ZWm1xWnd3cV9ONVZTSQ?oc=5",
+    "date": "2026-09-08",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1788986583442-213",
+    "title": "インドネシアでは森林火災が増加している。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43cHNQR19sM21GUExVRHo0MkpMRERqSUNQdV8wdHhVLUYyV2VXYXZBd053d0lrb20xZnJtNVY2Y2J2ODZNYnJRQmFVRXh5R0VNWFBDZzlOSnVra2ZnVzFLWDg5RlJzeE9OYXc?oc=5",
+    "date": "2026-09-09",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1788986583442-787",
+    "title": "コロンビアで発生した山火事により、3000ヘクタールが焼失した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbzJ4cDJ2RjRFWTBuU2JTN1pHcm5jUFBXci04WEluUUNzVGFSdHZBbTZGNzBKcHJ5LXo4MXRLVUFlOGZoRkhNS3RzZWg1RnVUS1BMWGNmdEVfZF85ajllVkdGbmhIMU1zUmRVYU1Va3VWY2hlT1VoUjNZdlZBWWtrdw?oc=5",
+    "date": "2026-09-09",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1788986583443-107",
+    "title": "インドネシア、東京の面積が焼失 森林火災、隣国も被害 | | 全国のニュース - 佐賀新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rczFya1VtWHhybENObkZpdUtKdUE0QzlrT24zTTlweGZmd25XQjlXRFJJODQ3aXczNldkX0ZNVUF5eGdqSlc5eU9lVFlYdTBaUGN4bmF3?oc=5",
+    "date": "2026-09-06",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "type": "forest"
+  },
+  {
+    "id": "1788986583443-891",
+    "title": "インドネシアの山林火災で自衛隊派遣へ 海外での「消火活動」は初の事例 - TBS NEWS DIG",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBROVBTTGtnR3pZbUVvdS1ISGk3WHVaenVabTdNc1ltOXhoSmVyZW42b2k3QXFxZkhYZEp2Umt4blJoUTdKeW9oSkY2N3ltQUNSV2ZueVNTZw?oc=5",
+    "date": "2026-08-28",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1788986583443-868",
+    "title": "大船渡山林火災1年半 200ha復旧近く発注へ 平成以降最大規模 岩手県（岩手めんこいテレビ） - news.yahoo.co.jp",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CUXBjWkhIWXQxbm9tMkwyV0x6aHE1SkxZYThoRENRUEZDTUpkTjF0S0Y1bzRSTDFPWmdNZWRKMXpvMVc1SUtXV2tJc1YybHBnM01NZGJtN2FSTnAyY1Y3Zm1KaFhjUlJvWGZ3ZzZ5VmVDOThfNHN0WnFNdUV3XzA?oc=5",
+    "date": "2026-08-26",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1788986583443-113",
+    "title": "フランスで森林火災を巡る逮捕が420件、人為的原因の大半を当局が指摘 - Межа. Новини України.",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pQTZ0UFpKeUtHSHhTb2gzQWU5dTZka3E1LTdDN0VkSFdCdVhpLVhvTTdnM21ZQVl2enk1NXRKdUJoWjEtVmdvOWZKZGtNZ3pGRC1ZN0Q3VHhiRmxTOVpMYTF6MDk?oc=5",
+    "date": "2026-09-06",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1788986583443-548",
+    "title": "インドネシアが空中消火を強化 森林火災の煙害が近隣国へ拡大 (AP通信) - news.yahoo.co.jp",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX20zaXFqMkVBYkFoQk0wSVp4Uk4yZllRMUZkZ1dUbDd6bkZBZkJQYmFNbHlla3d5MDhqQW1uRDRPeFVCbUJqMFdBUzBETnhhLVphODA1NkJ3SDdoQWNaa1Y1RGc5VDhyakNyMzhCR1hhSGJMSDZfbVVORk1kVDVyM0hnWEhJNm5wb0VJaUdB?oc=5",
+    "date": "2026-08-25",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1788986583443-362",
+    "title": "【インドネシア】カリマンタン島の森林火災、６社に行政処分 (NNA) - news.yahoo.co.jp",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSGhBV1ZPVTByVUtEMk54N01jRmpRaGN3WHl4My1mcWJJM2RENDg3S3dkYnc0S3I5Z2lXUXh5SDJ1VEw5UkpnbENBSi03UkZHdXBUeDJveEo4SmU5WU52VWh1eVhkVl93Q1h6b25TdHNzME56YUU3aW91MG8yMUhQVnlWdlN4bm44aE90U2x3?oc=5",
+    "date": "2026-08-27",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1788986583443-786",
+    "title": "山林火災の消火支援でインドネシアに自衛隊派遣へ - khb東日本放送",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnOEZCRVE1cG9razNhX0dpYTlNZGZma1YxVU5GbzVTOTl1bkZ2eERXRlFvNVEtODJKU0pkWXl3UWx4c0Q4a1A2TGIxY2k3UTg?oc=5",
+    "date": "2026-08-28",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1788986583443-443",
+    "title": "占領下のヤルタで山林火災が約2週間続く、非常事態を宣言 - Межа. Новини України.",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00dkZpQTVhdG53dHZYQWxhZVNjN0NpRjRrZUZfRzlmSVpNRVREVVIxdkc5c0Z4RWloelRiZG1kREJqOVFNRHJUUGNLeExia2RRLWQyRU41NU9NVUUyNXoyZjZ4eGZBU0ZOZEhLdjN3S05UN2R2?oc=5",
+    "date": "2026-09-05",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
     "id": "1788815994312-199",
     "title": "インドネシア、森林火災で「東京都」分の面積延焼 違法開墾や異常乾燥 - 日本経済新聞",
     "source": "GOOGLE_NEWS",
