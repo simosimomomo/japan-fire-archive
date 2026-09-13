@@ -1,5 +1,115 @@
 [
   {
+    "id": "1789331507505-295",
+    "title": "自衛隊が消火活動準備 国外初、森林火災に対応 インドネシア（時事通信） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1obHZKT21sM3JqeDd4ajRRZ2xiOHlvUzQyTWJTZ1drTmkyZWdZbEhNMTNmSm9DWGNxWTdOVHZTOFdOTHhLMndXdTN0SWdadGJzRlFRbUJSR0ptd0FHZTFCWktGaTFmUnA5SUYwZEp5Uk15T1I0ZWJiRkhkRFhWakk?oc=5",
+    "date": "2026-09-13",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1789331507505-664",
+    "title": "大槌町 山林火災の被害を免れたみこし 秋祭りに向け組み立て - NHKニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YUTZGSHUtazNtV3dtcXNyVUV3VVh0bENvcEN0ODlhZEFvV0ZCUDJaS0h0RjhQbEJibHc3MHQ4OEROMnFPc0lQLW9Zb2xHLUhmZ2x2ank3UEk?oc=5",
+    "date": "2026-09-13",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1789331507505-220",
+    "title": "自衛隊が消火活動準備＝国外初、森林火災に対応―インドネシア - Excite エキサイト",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lT0xuSXNyWXVXTHVrZ202bFk2QnRoUlVVa3NUUGxwQVhzczl2VnE1Z0s5UlVsQW4wYWhWb2lOY0FYNGVmLXFQRmw2cVZEcHhRTF9hbjNob0F2U2NHRUR3?oc=5",
+    "date": "2026-09-13",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1789331507505-700",
+    "title": "BNPBは、ポンロゴ、パスラワン、ブルンガンでの森林火災を記録し、過去3日間で数十ヘクタールが燃えています - VOI.ID",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE02Tms1ZVNtTDdmNUtBU1RTZnh0RldXaG5faV8zaGRVdGpMQXBNbHIweEQ3UHRfVzRNYTJjNmpEVHlsMmfSAUJBVV95cUxNTVFVd0YxY2FwamQyOGdOOHdfc2JGeTJKUDlSaUN4THNFT0tvMHE1NnNPWE1HaGhvNUlVQUdIRV84eUE?oc=5",
+    "date": "2026-09-13",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1789331507506-176",
+    "title": "大規模森林火災の消火活動支援 自衛隊輸送艦がボルネオ島に到着（AP通信） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0RTBBY3hXTkFJNUtzUkRaTWlFanctRnFVNTNwY0dVUnFURy1UNlNSckVKX1VqYWpwT0UxQ0lUSmNvc2V1SWkwSU5JM1RNeWxINXEtT2lHR0tuSXBuSVdKdXkzOFlKaTBRby1VWUY5aUc0dS1MSzFlTDN5V1pNdUU?oc=5",
+    "date": "2026-09-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1789331507506-841",
+    "title": "相次ぐ神社仏閣の火災…実は年平均60件と横ばいでも見過ごせない「2つのリスク」｜話題の焦点 - 日刊ゲンダイDIGITAL",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wS3Z2bXhrUzNYZ2JQNERTYlF3S0tQWHBIZ3lEazEzektDelpTWEZnM1VXaGJ6S1dwZmFRZFp0OFNHNjRMbTFZM01WVzU1SFVWUmt5N1R1OU1vS2NCdW5BSENHUEY1UQ?oc=5",
+    "date": "2026-09-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1789331507506-892",
+    "title": "相次ぐ神社仏閣の火災…実は年平均60件と横ばいでも見過ごせない「2つのリスク」 - ｄメニューニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRFRCMi1yNVIyUmhoQklEbFNtZWR6amxiME1iUUFFVUkzcGVGUGtUYXgxSGFZTDZRb0E4Ri1URU9QUDV6VVlKUkNxUm91OUVIZHpJaVNzc2c2QWQyZ3FZMDBaS1k0cURXNi1XN0h2RU04Y1pqemZ6VVltOXZpcWdKUW1VLUXSAYoBQVVfeXFMTXprdW5JVFktY3Fodks3QXNESXRPTmNuTmluLUlDWXAxZkhXZWtaOUx2cGhUSnZvdjg4Qy15a1JCN05mNWprbDRlNHc3YnlRdDR6MU9ScTJ1WkFGVjQ2UDMwd2I0Q085Vm1OMGlxUDVHa01JVGJ2Yk5qdUE1d1o0NkFmV0I5MHVvaElR?oc=5",
+    "date": "2026-09-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1789331507506-708",
+    "title": "カリマンタン島火災で72人逮捕 農地開墾のための違法放火容疑（AP通信） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LREJBdkxnVDRBTWRUS0U0bjh5M0lRYXZwVEViUk5lc3JZTDhZYXJEUWRvWW16YW5TOUNKd3EtY2dURmd2S1R2TzlZeGVqVFRsdUVHQ1IxSXN3dXhKX2JKSUZUdXQ1X0l2UWZ6YlEya2pjR3ZYQ2tqRzRRQzhRLU0?oc=5",
+    "date": "2026-08-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1789331507506-456",
+    "title": "ベルギーで史上最大の森林火災、3000ヘクタールを焼きドイツ国境に迫る - Межа. Новини України.",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80N0kybTVISndPdUhjVW9WQU42aW94WU1UQnNNZEU1SjVBa09tdFEwVFZZT294QVNhSnNlSjUtLXFOQWJqMUhZeXo4R1V3V3dhNUp3Q0thZ1JudS12cV9JRVR5LTNNdw?oc=5",
+    "date": "2026-09-05",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1789331507506-892",
+    "title": "危機にさらされる「森の人」 インドネシア、森林火災が深刻化 - 毎日新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94cjc5c01hSDZ4Qmt0SGpuQlRFeGVSckQ5anlfU3lpT09xOW5VZV9tcGVHLXpGOGlHWlVCeEd0cEo3Nlpad3B6TUYxMUlZVlhwZGZKLWhEbEZQNlFQczB3LXp2WlZWTFNY?oc=5",
+    "date": "2026-09-02",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1789331507506-358",
+    "title": "静岡市清水区三保の工場で火災 けが人なし - アットエス",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SWjg4aUZMLVVfeFM1TG53SDJDb1JWUE5vLW5WaVFxbXZVU3h2ektWRWJNR2x2YW5pa3N3eGk2aG9ZMF9qemxJenYyekZCTVFMWl9vXzhrbUVHaGFSV0hPMg?oc=5",
+    "date": "2026-09-10",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
     "id": "1789244472992-158",
     "title": "森が燃え尽きる前に、火を止めたい。 STOP！森林火災 in インドネシア・ボルネオ島 - コングラント",
     "source": "GOOGLE_NEWS",
