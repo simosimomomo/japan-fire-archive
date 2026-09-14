@@ -1,5 +1,75 @@
 [
   {
+    "id": "1789421975022-969",
+    "title": "山火事マップのスポットライト: ブラチ島火災、クロアチア - IQAir",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUmNjeDlYQ1BjaVRYTWtKNUx1RVo0XzB0R3lVN2RFV0lzOHl0ZTE4V1d3QTRVZlloQ2UxbVNzLWZsSFJaSGljUlVOOUx1VURmSHZwSno2OGlVVGNDUzIzMmVpSTFGT1dhUjMtUjhnZDlZZ3llQnkzVkRWV0VZb01CdDI3R29zaVUtUGU3c0tR?oc=5",
+    "date": "2026-09-14",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1789421975022-367",
+    "title": "全国の消防士がレスキューの技を競う 大規模な山林火災の岩手・大槌町で開催（岩手めんこいテレビ） - ｄメニューニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY010X3FMZkxGY0ZCNnM4QUJBZll0cGZwX2thclNjTHJSZTQtbWd5a3A2N2Y1QnJDRHNLQldlQ29LY01XaUJoM2ZLT1d2dm5zVXhpNUlTLUdjby1qaXFfQ1o0Z2txNU9PbldDMU5sMWpSWXJyd0l2bkxFaGNad0RJanBxTEpKUHotTzliZFc1eHQtT3FzX0FIemhsZGI4eE41eE5BTVNtQXQtRnZUSEZCTTNKUmk1b0dPbUtlaVA4SU9yU3VnVGdoZFVzVDVhaXI4blE?oc=5",
+    "date": "2026-09-14",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1789421975022-996",
+    "title": "自衛隊が消火活動準備 国外初、森林火災に対応―インドネシア - 時事ドットコム",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1piaVdEOWU3VjJVa2dzcHlCckZsN3A1YXpETmQ4TzQyUjJEdWVtWl9kMVBDNkpGdnp2R0tzbG9SYWlTd2J1U2x6OE5RYURkcHFYRDZSZzJGd2dRMGVyUGJJR2t0cS1TWFZrcXAyczI1c1RqSDdSdml2N1BKek0taw?oc=5",
+    "date": "2026-09-13",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1789421975022-674",
+    "title": "インドネシアで森林火災が拡大、エルニーニョが有毒な煙を広げる - mezha.net",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpNmxrdm11Yy1kX2JVbTVDLUJRRy10czVGSVNlbnV0ZjRiTjMxellxQnpTS3NBY2dPeldOYXUyMUNwUllIMG15cjZQSjMzSmhlTHcxNS15X3FMc2lMSlFMZEY1bnVTc2JSUE1fWldvbC0?oc=5",
+    "date": "2026-09-14",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1789421975022-769",
+    "title": "山火事マップ特集：インドネシアの森林火災および泥炭地火災 - IQAir",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMkxZVU96TURtbktTOXJpX3ZhNzRwWnFDMW91ZTIxdU5wRFhPTlptTkZVenZSbndxY1FwbDdCZjRueU1UakdiM3UtSjBrNFNMVmFzd3VOVkdtRXVKYUFKbGM2NTNjZU5HZTJBRmxoQ3ZlZ2RnbUNXS1dHUmhUQlhENkJucklLVHdUc1hxc1pDTEFSemZCcjdfcVFwTlI1NXRjbWRQbHhWY1IyN1k?oc=5",
+    "date": "2026-09-13",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1789421975023-330",
+    "title": "かいけつゾロリが一役買う　三陸鉄道が山林火災で被害の大槌町に義援金 - ｄメニューニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPcDdVNkNtWmFCdktqWUJGazEyV0c1R2ZyLU44Q2lVTlZuOGVwMkVNRVV4dHZtWUEzaGFIb0l3VE1NZXFETXNHM2NqYlU4MlBZcW1JRERLOVlDMjFLVnA5VS1ZQjlITnZ6SmJaSXJKRdIBdEFVX3lxTE9zbDBIYl9YaEhPUGpHY0JVbFFLRmc2SDZueWJiTjB4cmREdVN0TXdEQ0NITUhwSmhBM2JSc0NwZVl3dk1IMllQMVF3UFFuVktPNk9jcnNhSjZQZ3cwckZQWUZSS1dwejh2V3pwNDZCUldSS3Vm?oc=5",
+    "date": "2026-09-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1789421975023-137",
+    "title": "ISPUは森林火災のために悪化:国家と企業は責任を負わなければならない - VOI.ID",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9mZFp1d0FfTzFxODNpNE5hOUFtUGQtUkR1UmpuOW5YRmd4X3RBN1RhN3lXb3hUemJSNXN3cEtuTjcxcnPSAUJBVV95cUxQZ1FWQ1NSUXNCWWNBY1hRbm5TMEtDNm9BcU9BX1kwejJhQnh4X3FwenRfTjItNVprSV9nOWpaSk5ZSkE?oc=5",
+    "date": "2026-09-13",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
     "id": "1789331507505-295",
     "title": "自衛隊が消火活動準備 国外初、森林火災に対応 インドネシア（時事通信） - Yahoo!ニュース",
     "source": "GOOGLE_NEWS",
