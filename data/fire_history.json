@@ -1,5 +1,65 @@
 [
   {
+    "id": "1790198281653-31",
+    "title": "新宿駅前のビルに入る焼き肉店で火災 男女4人搬送",
+    "source": "NHK",
+    "url": "https://news.web.nhk/newsweb/na/nd-20260923de52054",
+    "date": "2026-09-23",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1790198282301-598",
+    "title": "インドネシア森林火災、自衛隊がヘリ消火活動 強力な煙害が「難敵」 - 日本経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrYXlsU3RGdno0eHg5UmhkMnExVzBkZHJuaVlNdlA3V3FZem4tWk03Q3dRMUpIbnRZZXNFZFpLTUtiMkVwNk4zNXF4Snk3WUZXbFpGOWRsMFppeHRPMUtqWjR0TlVnbllNc1JHYQ?oc=5",
+    "date": "2026-09-23",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1790198282301-259",
+    "title": "現地から感謝の声も！ 海自による山林火災への緊急援助活動を伝える動画をインドネシア国防省が作成 - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KVVE4dVFLUWRKVnUyaDN2S3pqeUFmRzhKbExtakQ1YWNwZWx0NjRTVjdpTDczRHdVWlhnZ3I2VFM1ZGwxdUhGOUNmdWFQbFl4WlhINTVjdS1FendsM3FQMDgyUFEwakhoM3pwMFpVQmhYLUlIZkE5S0ttb1EwNEU?oc=5",
+    "date": "2026-09-20",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1790198282301-679",
+    "title": "インドネシアで相次ぐ森林火災 違法開墾で延焼/周辺国にも煙害 被災面積「東京都並み」 - 日本経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZbEZ5alRUUU1DTFoxSzUwRXZhZGFrSXFudldpenJHUFIybExaa25oekFxY0VKM21hekU4d2h3LWc0SEZTb0w0cDVFNl9KcjFCREd5RmZLMnNEZzcwMXc3dGwtZmdBeXZVT0RwQg?oc=5",
+    "date": "2026-09-08",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "type": "forest"
+  },
+  {
+    "id": "1790198282301-670",
+    "title": "独占ビデオ、WALHIのボイ・ジェリー・エベン・センブリング事務局長、森林火災の50%の原因を明らかに - VOI.ID",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9TcnNrQkpPVkZPZjlBRmo2bGF2cDdleURSMWpmQmMzNEJ1SnlrOVVzZVBqTmZUSDQ3dWlnV0FQcnBZekx4NlNiWA?oc=5",
+    "date": "2026-09-23",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1790198282302-495",
+    "title": "40,000人の幼児がISPAに曝露、イルマ・スルーニャは森林火災をKLBにするよう求める - VOI.ID",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9lRVdhODBnbnJWZkE0X0Z6aVJOMGF5TmgzSGNnbklLc2N2M05zSmNwSmRSUHM1LU5JZHEwT3VQcE9aN1nSAUJBVV95cUxNbWN0ZHJpenZiWG5OSk1GYXM2Tm5ZTUJXbmRfSFItQ29uR0xScmxMZlJ2N1RqRUdyV05SalJ4SzFjTkE?oc=5",
+    "date": "2026-09-23",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
     "id": "1790110993691-130",
     "title": "カリマンタン５社の許可抹消、森林火災理由に - nna.jp",
     "source": "GOOGLE_NEWS",
