@@ -1,5 +1,95 @@
 [
   {
+    "id": "1790284764947-373",
+    "title": "ポーランドの「スターリンク」関連施設で火災 ロシア関与か",
+    "source": "NHK",
+    "url": "https://news.web.nhk/newsweb/na/nd-20260925de52282",
+    "date": "2026-09-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1790284765800-152",
+    "title": "プラボウォ大統領が新しい機関を結成し、 森林火災を防ぐ - VOI.id",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9lNnc0Y29aeUxBTE5tbjQyYnAwYm8yTmZLX2VlS3Vkak5tWnZpN1FGeVBrRnhkRldGTGNKMzJTcjZMSnc?oc=5",
+    "date": "2026-09-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1790284765800-372",
+    "title": "大統領は村を森林火災防止の最前線にしたい、消火隊を強化 - VOI.id",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9COXNWZ3F0UUhqdHE5amFSNTNVVGZ0dEZ0X3pDTjZIVjdkSS1ucWM5dWtQSkR3cDdOenVQV2hUalh6aEHSAUJBVV95cUxPclFmZFktLWtlUkttNzlZanZITVBQXzlGTzNwZGZZUWE0U3JpZnRsY29PWk1lTEo4MkVWVHV0c1V5bkE?oc=5",
+    "date": "2026-09-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1790284765800-251",
+    "title": "6つの省は、ガムバットをベースにした森林火災に直面し、プラボウォは森林大臣を宮殿に呼びます - VOI.id",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1rRVBTVFRqSXBQeUxsaGJkQ3AySHlxYWYyM3o1N1lnYXZrTkh0eU5YZFZNM25HN2Q3MjQ3RExOTXVIWWfSAUJBVV95cUxQVzhLSUMybmJ2T1owWVRyVjMtX0hRYXBYd3ZfTXNfbkU1UmpxTEhMaDduZDItWnloaklIVXQ4aGxuMFE?oc=5",
+    "date": "2026-09-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1790284765801-634",
+    "title": "北カランの森林火災のホットスポットは673に達し、カルバルは3倍以上増加 - VOI.id",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB5MW5oZnd5THFFa2RqVFNNcG5KTzQ0NllxWEcwSEMzOTRac3Q4WUFGNnBHTVVTN3I0QWVfVWVDRnNhWlXSAUJBVV95cUxObTJfUlJzOTI5ZVdFYWpFV1R4Um9WNWpHMm40Y2txMU00RU1LcERHblZQYzRSZ21MY3NxZFpjdkRmVWc?oc=5",
+    "date": "2026-09-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1790284765801-57",
+    "title": "プラボウォ、2400万ヘクタールの泥炭地、BRINの森林火災、土地利用の運命を議論 - VOI.id",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1aVHBueVJFNTUtTFMtTURwc05xSUo0czNhMGFzOTJSZnhiOGNTNzl3eTNBamt0TGF2NHBudnNqTkxzRXPSAUJBVV95cUxPV3ZuTi1acXZlUi1UWVlzekhfVFhJQ0JPVDJ3LWphOGxqYk83T0NMNEk5eFM4RzdBLVQ0QzRhaXpMaVE?oc=5",
+    "date": "2026-09-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1790284765801-748",
+    "title": "ココナッツベースの森林火災消火器は広範囲に使用されておらず、BRINはセルポングでまだ実験中 - VOI.id",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBSZmkwWUZNdWY4ZGE3ckFqTHI0cldKWEtBYlF1WlRZUFMzZ3JRcXNuOUd2aTBwOUR4T2owa0d1MkFCMmfSAUJBVV95cUxNMl9tRW1waWozZ0FucXZNSjREQW84Qko5MjdHMmg5X1h0cnhlN1dLUm5tSEVaeXA4dGxOUzA4cTFLMFE?oc=5",
+    "date": "2026-09-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1790284765801-723",
+    "title": "BRINは火災が広がる前に火災のホットスポットを標的にするためにAIを準備します - VOI.id",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9ONEtBWTFSRjBKY2NBbFI2U2dDcGxRcV9yRWQ4Y1p5dmIxa091WU5HT2RPNjFpR0pseGlId20xVmdrWDjSAUJBVV95cUxPQjNUUHhsSUpSOHFmdWxkVWpSNm1pLXhXVVRsTm5DamwwelRUYkxjbUlJT0hueTlOQTVBd3pPWW50ZUE?oc=5",
+    "date": "2026-09-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1790284765801-337",
+    "title": "ジブランの学位は訴えられ、ジュリ王は森林火災を侮辱し、無礼な政治操作と呼んだ - VOI.id",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5CdGxYa0MtRFNwem1GMmEtdnhSZ0habEJDWGlPdVpNSEVBZDJHd3huWkh0a0tSSmlDRHhXN3BDTWRseDDSAUJBVV95cUxNdnJWSnRXR3h1WXZHVEN1RmRHRlZHQWZuT1ZPc2JFY3J0djV3X25JT0RkVjM2RVhtY1BkODdtZ3d2Q2c?oc=5",
+    "date": "2026-09-24",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
     "id": "1790198281653-31",
     "title": "新宿駅前のビルに入る焼き肉店で火災 男女4人搬送",
     "source": "NHK",
