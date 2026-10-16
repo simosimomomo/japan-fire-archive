@@ -1,5 +1,305 @@
 [
   {
+    "id": "1792183388214-266",
+    "title": "シンガポール、煙害が企業活動に影響 インドネシアの森林火災が原因 - 日本経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VXzg3MUpUdnR5Sk4yWVhEZDVxZTFfUGFva3lBcWpOSlZ2eXlXVnMwUDVjSDdMdFNQUkJPY1RfVTYzXzBFNXl1amphcjRvUUtLV01tc3BIeE5UbkxOVHVDTzRrNzNKb1ktOEJRRQ?oc=5",
+    "date": "2026-10-16",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1792183388214-721",
+    "title": "インドネシア森林火災 東京都の面積４倍以上が焼失 シンガポールやマレーシアにも大気汚染の影響拡大 - FNNプライムオンライン",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fVV9DTDcybDl5bEdVdHY1WlotUU1mYlJTOU5rSXJ6ODBQTTZrM3o2bVNsYzYxcXNON0ZsMlJGYUdkSTdkWko5U2pldVg3UQ?oc=5",
+    "date": "2026-10-16",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "type": "forest"
+  },
+  {
+    "id": "1792183388214-917",
+    "title": "山火事マップの注目情報：カリフォルニア州ヘンダーソン火災 - IQAir",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWktoT2lJQlMyNDhkSmd3R01TX2I1WGh0UHAtLVlUQ3o0T2ItZ3hnR1ZjU0hNdkNjaHJYZlpsWGZSNnlRNjljTE50Y016SnFJNVVRSzZnb01Pclg5UGxyTEZPTHNuRWxVVEdIUHBJbTZiUjNta3FtUzJNdVNvMGhTREVmUkZXNThyQ3c?oc=5",
+    "date": "2026-10-16",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1792183388214-0",
+    "title": "山林火災 自衛隊に災害派遣要請 ヘリコプター２機で消火活動 近くに民家はなし 北海道網走市 - TBS NEWS DIG",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CbU9heFVNaEZUY1VOYlVEVzRPejMyOXFQNlUyRFpoWlU1Nl9ibjNYbHc4cmlDTEUwalNzbUJRdDEwTTlrLWhmR1dDbEpTWlQ3ckFQNkdERTBuZTI1NW5udjJNR2VzMnM?oc=5",
+    "date": "2026-10-16",
+    "lat": 43.0642,
+    "lng": 141.3469,
+    "type": "temple"
+  },
+  {
+    "id": "1792183388215-661",
+    "title": "内倉統幕長「空中消火活動に万全を期す」 北海道・網走市の山林火災で災害派遣要請を受理 - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81YWpMTDg4aU1GX0tEUEZSNC14dEttWVFna0RRclhJckQzY2FELTBkcDlFTW5HbUVGVWczMmtxaHJoVHlFVkZGYzN2UVFCcE11Y0RnYURYSGNPa1REcy1CaUxfRFVTVjdrNEl2M0V3VVdZX3R0V1AwSUoydXIzMk0?oc=5",
+    "date": "2026-10-16",
+    "lat": 43.0642,
+    "lng": 141.3469,
+    "type": "temple"
+  },
+  {
+    "id": "1792183388215-931",
+    "title": "平成以降最大規模の山林火災 大船渡市が研究グループに感謝状 岩手県（岩手めんこいテレビ） - ｄメニューニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iOVFhUkJobmMxSnZyTkw0R1RXR2E0bngxeFhjbjRCRXk5b3JjMHF6WU5BWHlFekRCQWJ1X1NmLUVsUThoNDAzSU5HLUIyVnVWMVJJN2NodWJhdnFmaXlDU1hzN2UyaXV1bGFvMGI5VEhfSVFHUDFETmxpb2Y?oc=5",
+    "date": "2026-10-16",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1792183388215-30",
+    "title": "森林火災による煙がインドネシアとシンガポールを覆っている。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHFzVzM1LXhlaDF5R2lXSGFGd2tFX3J2ZDJlbDBPbXJHYWRReXZpd1d0VjZPVXZ1YThGQ0taZzJ6S08wNVUzcFNabzIxVlFjUVd6NlB3eG01YWtGd3lBU2tIdUJfTXRWWm5ZVFJzZjllNTZzazVPTXotT3lJemRNaQ?oc=5",
+    "date": "2026-10-16",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1792183388215-13",
+    "title": "【動画】北海道・網走の国有林で森林火災 消防車進入できず自衛隊に災害派遣要請、けが人情報なし - 産経ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xV0laVndqUjZnb0xjc2pEVHpEQzNXS3JvcVhReXZ1aDVaNDhfT1VxajFkLUd3X1k3aFVDZEZocXlILUF3bWo0eGcxbThhUGxra0lrVGVIZ0FOcmhvMk9jYWFzT0xEYk4tOUFCRUd2N1JqYlhPQ3c?oc=5",
+    "date": "2026-10-16",
+    "lat": 43.0642,
+    "lng": 141.3469,
+    "type": "forest"
+  },
+  {
+    "id": "1792183388215-863",
+    "title": "【速報】北海道・網走で森林火災 自衛隊要請、けが人なし - 47NEWS",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EZFhPckRUT3Y4MF8tVXhKaENKUDJvTkNUcmN2dDVLNk0yTFVDNG01WTA5Y3lEcnp4Z1F0OGdEc1lKeVhmRHdfaVYzSQ?oc=5",
+    "date": "2026-10-16",
+    "lat": 43.0642,
+    "lng": 141.3469,
+    "type": "forest"
+  },
+  {
+    "id": "1792183388215-525",
+    "title": "網走の山林火災 消火活動中もけが人や住宅への被害確認されず - NHKニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HTUpaSVVnWVNHU0RNbnhrckY4WW92aXdaZ0Y5Vi1BWXN1eUw0a1Z4ZllUYlVsX0ltTVZJY3BNNzNDVWg2UWhuSDg3VzhDM0J0ZFY4NUQzWkhhZm9jMVBJ?oc=5",
+    "date": "2026-10-15",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1792183388215-123",
+    "title": "インドネシアは森林火災の消火に全力を注いでいる。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIZTYtZUpMY1V3UzlybTZIdmlMY0hiVXdFempNakJ0YWNURWZrYVlxVjFjdE9iNUQxLXE3T0V1NEdMZDJFeDVnYlNYbnpJQnRKb0U5RUMwQ1pYY0VrU3FmVjFfeXhyS2dDd0dmZkxqWlJ0bU9uUjV3OVhGN3E?oc=5",
+    "date": "2026-10-16",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1792183388215-540",
+    "title": "【網走・山林火災】自衛隊ヘリが消火開始 75ヘクタール焼失もけが人なし 道が自衛隊に災害派遣要請（HTB北海道ニュース） - ｄメニューニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRVjZuQmJDZHZReWFVaFdQU0FhM29NemNpOEdHVEdDSDdhMUhvRU1NcnJkTDU5RVBPNDV3b3ctQ3lZR09wazJTWUtvUTY0YW1TVm5DR1FZbUZXZElGWGctTHJyTkRNR25hd09MYw?oc=5",
+    "date": "2026-10-16",
+    "lat": 43.0642,
+    "lng": 141.3469,
+    "type": "temple"
+  },
+  {
+    "id": "1792183388215-47",
+    "title": "長引く森林火災、影響深刻化（時事通信） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lRS1kcEdZTU43T1lPQlhBcVRRQ1EwbGNTSFdKd2NGazRuT1VFMVhIYV94VnJRMmdLQUVvR2lzakhESFkycElicERSTXdOOGdNby1mcmkwUkhFRHJ2cEd0UHRMSW8tVmdjaWxSNjdEblBjYW42Nmk0ZDlvRVBFbVU?oc=5",
+    "date": "2026-10-15",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1792183388215-556",
+    "title": "長引く森林火災、影響深刻化 インドネシア、エルニーニョ現象が拍車（時事通信） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wZEJZSEplOEZZaGh0NHhad3ZfZWRoX2hBdk9ZRkNnVk05cWZsWGkyYXFRcWlVTGVaTFU4MHFQZThpQmJTNkpqYVVSeVA2TVhfU05iWUhTQWNLNWlCa19rWVo0cll4Vl9UQk03UGNOODEzOW9NbXlxTWloOTYtQVE?oc=5",
+    "date": "2026-10-15",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1792183388215-154",
+    "title": "山林火災 自衛隊に災害派遣要請　ヘリコプター２機で消火活動　近くに民家はなし　北海道網走市 - ｄメニューニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tMElXMGplaC1ZZW10cTZLMFlLOS1vUUF1ZHZhV1lpYkhCVXZVT1d4NnhVRVdBZ1ZHZWRKeGNJcllzTm0ySVVJdW5LQTluZmtyQWVRNVEtQmc4M29zSG96X2wzeDdsczlmWjlxUTFhZ9IBdEFVX3lxTE1XQ3N4MXdqRFptdDBWVlA1Z2JULUIyZi1fOFoyNDB6MnhQYllWVWVKYUxralozMm4zWlZJbzZ2NWF4U181MFBZdFJTUTZ1ZFhsSDEtUGZ4ZlNVRXpMRkUxbmxMYzlnaV91MlVaVWRGT2tVd2pR?oc=5",
+    "date": "2026-10-16",
+    "lat": 43.0642,
+    "lng": 141.3469,
+    "type": "temple"
+  },
+  {
+    "id": "1792183388215-722",
+    "title": "マリブで山火事「ブライソン火災」発生 住民に避難命令、少年施設の入所者38人も避難（10/16） - LALALA USA",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMbDRLaW56UWVTWTBwcDdVVzJ3Z2JmdHpiWTNGTVZzUEtnSVJFVjhCS3dGSDU5Q1FwZjVwNEpBLVVCMkt4dXQwdmpfQTU?oc=5",
+    "date": "2026-10-16",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1792183388215-521",
+    "title": "長引く森林火災、影響深刻化 (時事通信) - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZWxnT0RuVzRKX0d6RHVHaUpEaVAxZ2U1RzlHRGp2SU9DeFVwR3gtQVNtSTdPUDZqeE9UMDB3ZFNVV2FIT3JmbmRfaU9RWXZ5bC1Ta3Rka2UwVlo1dnhVQ3JSTERUZ0lDQTdTckFPUURaM0l3WFhNTmNkalJIM2VxNTNjUWxycE5TYWNuYVVB?oc=5",
+    "date": "2026-10-15",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1792183388215-361",
+    "title": "インドネシアの森林火災：4人死亡、有毒な煙が東南アジアを覆う。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2xocjlGbk9adWJJU3kwb3NuUWJXZWZfeDRxVnJFTkhlZFVyZTZZVzFRdU01bWFUYTVIa1NVdk1UaDZneVpxSHBTOWYxSWF3d1FBc3pPOFhCS3FIWF9CTEZwWWRhV3llNDBYMXdHYU5oR3dNRmJkem5vOE9vLXgyNktIMjZtLTFRRjQybl90S3ctdFJpeEt0TDllT1kzRHprazVZ?oc=5",
+    "date": "2026-10-16",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1792183388215-525",
+    "title": "インドネシアは森林火災への対応における国際支援の選択肢を検討している。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNndFOUxiOThHZ2xoOWFNd1Bheld2a21wUkxaRi1oTnJ5UlhDVS10aWw5LVRjV1Zra3J5Q1ExbFB4TFBzSmYwV0hkcHpjejlsdm9aUkhqOVB6cmVwMW5pZzNUMmJrOFk3c2hHQzUwd1NrdkJGYzNfVDg3alZxcGoxSlBJVm1XdjdKWGJrOTZNUmV2NjhKUFE?oc=5",
+    "date": "2026-10-16",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1792183388215-268",
+    "title": "インドネシアは、深刻な山火事への対応のため、外国からの支援を承認した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQelo2QXh3UEI3Z3MxM1ZoM091aHBIZC1hUWFZZGpVMVZDSmpQU25CYjYzS3JYLVQ0eEhTbHFqd1pOenVDQVVTNGJWQW9uZ3lTX2xYYVROemRzbHpsNmQyS2FXamItbjZmcGhsY292QzJoOVZwMnZSWmdHQzdRMzctNWpGaXR4a2wzbnRNVmlGTlQyTG1QM1Vya002OWk1N0k?oc=5",
+    "date": "2026-10-16",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1792183388215-280",
+    "title": "網走の山林火災は鎮火せず 16日も消火活動 自衛隊加わる - 北海道新聞デジタル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQVFXWU00TG5MVmlaRlFPXzJySG5Bd19FTzA2S1NGdnYxeldHZFlKcWwwd2doUkRla3EzZEtySElHYjhSbHFVZlBBZGN4YnBIbVNtRUtSdGp0Q0VkOXNkcVFMT0psVFVVbEZ5b0JYTE4wb0JoWmFuZ2lEdWVQcDdkbXRlQUJtRnd3?oc=5",
+    "date": "2026-10-16",
+    "lat": 43.0642,
+    "lng": 141.3469,
+    "type": "temple"
+  },
+  {
+    "id": "1792183388215-101",
+    "title": "アマゾンで森林火災 政府が非常事態宣言 放火の可能性も イタリア・シチリア島で巨大竜巻 10人搬送 - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QMm5tZFAxa0RjYlljZlZubjQxSEMwSGszQTZxM2E5YTJUc2tqOVUtUXlLZm93YlRHeVV2WDNqcGRVa2RURFkzSFFWMU53MF9tYUFzd2pITVpFMlJfSm5KOExiY0w1QzdMaWhuaWlYSDJGRDRFcmFtR1BOSjBtcWs?oc=5",
+    "date": "2026-10-14",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1792183388215-500",
+    "title": "「対岸から火が見える」網走・能取湖近くの国有林で山林火災 約75ha焼失か 自衛隊ヘリが消火活動（HTB北海道ニュース） - ｄメニューニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40UGNNVFowTEJudHJvWnNreEZaQXlLRm9paU9SUUVoRi1xSG5KazhTeHpnRkFNdlNybTNMRzctRVF2YnhFcFN6SzBKdU0ybG83Vlh1dE1PU19qT3o2bzN1SGNmM0RDak5uTktUVw?oc=5",
+    "date": "2026-10-16",
+    "lat": 43.0642,
+    "lng": 141.3469,
+    "type": "temple"
+  },
+  {
+    "id": "1792183388215-341",
+    "title": "バクニン省の16のコミューンと区は、森林火災の極めて高いリスクに直面している。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbFVWVnNHVXMtYnVMUkFFWXJ2WjVYVVVDeW1BMXhob095SVhGamNVMHgyM0NOYUFzQVpNY2tRNWJVa3pHdlJDeUJCdF9qVUZJRndjdU5sajlONE1GN2pnYmV0M0lpUWtUczRSWXcxbkt4WUhvd2tMRndlY214SlNqRVdrWlEwUDUwazJJdQ?oc=5",
+    "date": "2026-10-16",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1792183388215-455",
+    "title": "長引く森林火災、影響深刻化 インドネシア、エルニーニョ現象が拍車 (時事通信) - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTXE0M3VRNlZzZTJhdEhKcF84S1ExZmVIUDlDVWQxeTJ3bjhlYkJaQVU5RGp4ZmtrVU5MdE56X2FEVDdpb0xHeVktQkdRcl92UXRpX0dIaTYyZXNJVXBBX3NIZ1d5STNfUG9BZHNfQ2FENjcyalBHWnYzUnpzNUJ3dFo5Mk9ZMnpTRS1KaTB3?oc=5",
+    "date": "2026-10-15",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1792183388215-266",
+    "title": "山林火災から一晩…鎮火せず　自衛隊に災害派遣を要請　ヘリコプターでの消火活動続く　北海道網走市 - Infoseek",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90V1VualBSS0xqel9uaHVJUElldl93QnJVZ0UtSVRjZXhOSE5FRWtLZm9XVkYxSVVER1Z3R2dXcjB4MDJiS0JHcW5TVGdOcV9aNTFLQ2VKVm1xcXlDSTVzcXVuWFQyLXJWYUM2T9IBckFVX3lxTE9vajJlY1ZzZEhoSEZlQ2tON2VFVEVJMzVjOXdpN2piZVpDeHFabGdUa2F2X2J1aTB5VjFGbmYwcUFacW8tTUxJdDJQVmEwUk9mbjMwWHZzb2VsZGdLUlJQdTBsMWRXNGRnVXRrMU95NW90UQ?oc=5",
+    "date": "2026-10-16",
+    "lat": 43.0642,
+    "lng": 141.3469,
+    "type": "temple"
+  },
+  {
+    "id": "1792183388215-591",
+    "title": "インドネシア森林火災 東京都の面積４倍以上が焼失 シンガポールやマレーシアにも大気汚染の影響拡大 - 千葉テレビ放送株式会社",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vZHJGd2llNnd0ZDdsMnc4TDctcUt4T0Z2WW90Y1JxQzN1SnRtZUJHQzlpaTFPWUtUdWpNZU1jb2dmajZ4UE1aNlJweWxvdE1RQVk4NjFUMEc4MnB4YnRj?oc=5",
+    "date": "2026-10-16",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "type": "forest"
+  },
+  {
+    "id": "1792183388215-985",
+    "title": "網走市美岬で山林火災、消火活動続く けが人なし 最も近い民家まで2キロ - 北海道新聞デジタル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVzgzcXA0Ylcxc3QyTGNUbHVGSUtoc3RSV2kxc25OYkJQUi1nNjFBTG83TVRtWXlRYW10Ymt4eWdzWXh3VUVfQnBLUjRuSHo5TklNaWY2T19NemY5cFZpd0hTSVZjMDNaenpsN1NfV1ZYTE51RExBTE5hREtTYmI0R19VZDloSVRw?oc=5",
+    "date": "2026-10-15",
+    "lat": 43.0642,
+    "lng": 141.3469,
+    "type": "temple"
+  },
+  {
+    "id": "1792183388215-188",
+    "title": "消火活動が難航　山林火災発生も消防車が近づけず　自衛隊へ災害派遣要請を検討　北海道 - ｄメニューニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hQzFCYkFEaGs2R0ROYTEzdl9WLW1NeWxSYV9EUVZST0dWeUxfWm5sUVFHTU1VdEd3SmFVSDg3aXNWdkVINWV6dUl2QmNuMnNmUk52eVl6TDRpUFdFNTgtWi04TUtHdzVMVk8tc2w3VTRPdmFxSkllWUlpMNIBgAFBVV95cUxNZWNvbWZuMno0eTFwZmtKNDJZQkF2ZGVyODd2VVNxRVZKeW1QM3JKcnZpRzdvazBQZi1lMzhmdFd1d1pzSE5WbmZ2QjRBTzVjWTdhYVNxa0ZMSHdnbkhsOWdKUnBuSHZ3OUJUSmU1YXhNY19KOTFtQ3NYbE4zQU05SQ?oc=5",
+    "date": "2026-10-15",
+    "lat": 43.0642,
+    "lng": 141.3469,
+    "type": "temple"
+  },
+  {
+    "id": "1792183388215-120",
+    "title": "【速報】北海道・網走で森林火災 自衛隊要請、けが人なし - YouTube",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8weFFoblhPWmhnemdzZlFkNVQxcWtBdkptOEwtelhKNTFjUUJ6U3JuZWdhaHRWeDVpLS1PWEJ1NFV6ZlZEQWthV1BuSmE2dTFjVGFNQnREaWNwZG1V?oc=5",
+    "date": "2026-10-16",
+    "lat": 43.0642,
+    "lng": 141.3469,
+    "type": "forest"
+  },
+  {
     "id": "1792098403020-244",
     "title": "“過去10年で最悪レベル”インドネシアで森林火災の被害拡大 絶滅危惧種オランウータンも“飢餓状態”で保護 シンガポールなど周辺国も大気汚染が深刻（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
     "source": "GOOGLE_NEWS",
