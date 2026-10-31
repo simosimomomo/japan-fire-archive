@@ -1,5 +1,65 @@
 [
   {
+    "id": "1793481217802-162",
+    "title": "インドネシアの排出権事業、森林火災で存亡の危機 再開の矢先に - 日本経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HdExUTXpyYldOWlUtQy1BZ0ZQckxBTk1vUmFhREI0RllVaUZHbk93VmtmbzlvbkhCM1dJdkVuNmVfYWxKQ1p5WWlQTk40RkVtWnJGamVrdTNaOE9rNDRjNHhBSnl1ZWIyNkVmaw?oc=5",
+    "date": "2026-10-31",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1793481217802-552",
+    "title": "インドネシアの森林火災の煙害、死者5200人超か 8～9月で（毎日新聞） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GUEx1OE4yQVBIajZHcTlQQ2VSakxIclVTbVFCRkZvY0RyNks3QTZhTmROSHJqVWRNVWhRMGg0Qm54a2JodkZSaldMMUpKdTM3UkhHMk1fdGFaWU9TV1VVaV80ZUs1LVprZTVJa3FPT0FLeEl5SkZ0dXhkRUwwZHc?oc=5",
+    "date": "2026-10-30",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1793481217802-369",
+    "title": "岩手 大槌町の山林火災から半年 焼けた木の活用が課題 - NHKニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GdFZ6NjFqT3NSMk55LXcySHJxdGJiaEFBaFB4dVh6VnJMSjE5ZkZOVTYzQ2ttRkhtWDA3SXE0ZThmd3VyX1BIVUpXNS1ST21jM2pUZDVKSzVLOHB1allV?oc=5",
+    "date": "2026-10-22",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1793481217803-724",
+    "title": "インドネシア森林火災焼失面積、四国超えか カリマンタン島やスマトラ島、監視サイト推計 (時事通信) - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdzdyQXFDSzNIUmoxTTZZOXB5N2dnblc5SnN4YnhpemdNS2FRTnhGaVRhZDcxNC1JbnpzMzJzUldjWkZCd3NSVTJuaHJqby1wQ21SdDlfWGdaSHpGdU1JZTRSTjBvNGZOSzV2SmdDc0RxSkdCWVkwSklydmlENjlDd0JQRnRGd3FrZGtwTWNn?oc=5",
+    "date": "2026-10-20",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1793481217803-324",
+    "title": "【網走・山林火災】自衛隊ヘリが消火開始 75ヘクタール焼失もけが人なし 道が自衛隊に災害派遣要請 - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TSWlFbXpQWFotaHREMFdVLXg5X0ZhZFZJeG93YVRhN1kzYjQydXplQjAyXzE1YnlrWEVSNDMzZWIxYTNRQkRaTlhKdm1KcDdfR3R1NE80Rm9DX3R5NnFTLWFBNHFHQlAySW9iZkZGdURSZkRrOVd0Mm15ekhYMk0?oc=5",
+    "date": "2026-10-16",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1793481217803-241",
+    "title": "大槌・山林火災の森林被害額は18億9300万円 面積は1620ヘクタールで確定 - 岩手日報",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NcENRQ2NTUnZSTURFYW1iMWFRVEV2RTFUY1UtNU9vSG1Id0pIeHl4S3UzaDVIaVJVUWMtcXJKN0xXck9iR3E0VVRzRXNCTklWU1hiRkJ2LVc2LVNVWU5mTA?oc=5",
+    "date": "2026-10-06",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
     "id": "1793397850600-228",
     "title": "インドネシアの森林火災の煙害、死者5200人超か 8～9月で - 毎日新聞",
     "source": "GOOGLE_NEWS",
