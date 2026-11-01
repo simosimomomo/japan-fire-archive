@@ -1,5 +1,65 @@
 [
   {
+    "id": "1793569853144-569",
+    "title": "滋賀 甲賀市で住宅火災 家族3人と連絡取れず",
+    "source": "NHK",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261102de69325",
+    "date": "2026-11-01",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1793569853773-539",
+    "title": "インドネシアの森林火災、「煙害」の責任追及は日本企業の取引先にも - オルタナ",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE11d1hadnN3VkFnWWN6anlyVDRCbl8xZ0tseU1ZSHpVZThoRE1RdVpxZEp4eXdVTWJScjVGZ0J3SzRFRnhCN2JkdQ?oc=5",
+    "date": "2026-11-01",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1793569853773-597",
+    "title": "大気汚染で５２００人超死亡か ８、９月の森林火災―インドネシア - 時事ドットコム",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81NmZ3QlpNX3hjWW1WRkZMWWRJTVFqMjBaSFloT1N3Y3dLbVkxeUMwVU52bUtnWkhyQmRJbVRqQlNCT0gzRzdHTjk4aDFqQkZRTUJLUmp6aGpRc2hRWnhEM2l1Yw?oc=5",
+    "date": "2026-11-01",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1793569853773-334",
+    "title": "森林火災で日系企業捜査 インドネシア警察 - 北海道新聞デジタル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTZ3gycFg1M1B2Q3Jrb2QxZW1oN2lHNU1uZ3dEQnd6cEROLUlKNHgzUG1JZWdVSTItM3IxOVl5Z2RmT0xZSXh3SW53WlNpQkUtS2dvMmoxSkp5dw?oc=5",
+    "date": "2026-10-29",
+    "lat": 43.0642,
+    "lng": 141.3469,
+    "type": "forest"
+  },
+  {
+    "id": "1793569853773-917",
+    "title": "山林火災を生き延びたアワビ、初出荷　大船渡の陸上養殖、返礼品に - ｄメニューニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOV0l0X2w4eDEyNEF2a0c4XzJHZVk5Nm81akl5bFNsSHRpV2FyMTRkNi02Q0FaUTJOLXdsa0oyOXNYZDJrcDBDa1o5WExPRzdXbDU1NWlhYUt2Q012QU5wclk3ODBDRVVmSkM3emszcFhvZm5ZWmgwd0NIRFdNZHMzcEhENkxFOWFLREdlZ09MSHR1ZVVoeEZwUGxPNnVSc0x4X004WHIyalZqMXhRTTA5UU5kWXZKaXdGaUx6YlBZa0Z3TlExRVhKME00cmk2WWtEMWpiU3d3RDhnQ2EtZzI2NGVXeDl0QdIBngFBVV95cUxNZ0VHSTE4NWM1UmRhU3VoRDg0LVRCVkRWVkJ4N1ZVZ19GX3F3emF6Um9aNGlacXRHQWxvVFg4SkUxM3VoQkEwbm9oV1UyUmNnblc3SGlUYnFTbHRaVDVSNTJkeWdmYm9hVHNaQl92eUUwenBrX0F4QmFndXVDUFp1R3QtNlBDY3BBang3eXJFSEM3a0wyUndBazQ1VHEtZw?oc=5",
+    "date": "2026-11-01",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1793569853773-8",
+    "title": "なぜ神社・寺院が次々燃える？天才弁護士・安達悠司議員が国会で政府に迫る連続火災の闇「把握していますか」【参政党】 - YouTube",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1neDNHT1g2eVdfWFczRnItOEN5eGxYdUx2Y1RFbHZPVjBTNDE5SW9pX2htUHdRb29BNWZzYUNaWEZudHRxZWFjUndOZ0pVSjdBNC1MN1g4aXNhR1JV?oc=5",
+    "date": "2026-10-30",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
     "id": "1793481217802-162",
     "title": "インドネシアの排出権事業、森林火災で存亡の危機 再開の矢先に - 日本経済新聞",
     "source": "GOOGLE_NEWS",
