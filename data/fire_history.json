@@ -1,5 +1,55 @@
 [
   {
+    "id": "1793921250071-388",
+    "title": "フランスで再び大規模デモ 高校で火災など混乱も",
+    "source": "NHK",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261106de71327",
+    "date": "2026-11-05",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1793921250434-740",
+    "title": "RSPO RT2026、インドネシアの森林火災対応、シングル輸出ゲート（輸出一元化制度）、小規模農園のインクルーシブ課題を議論 - 共同通信PRワイヤー",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GLVVySE5kc2p3TjdEVjBtSnhpOS0yX1MyQ0FQWGFobWJKNnNRTERWdWllalJzLU40bU9JSnNQeWxRZW9xcjNqVUJ4SjE5aTBBTl90eDAta0x2c3M?oc=5",
+    "date": "2026-11-05",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1793921250434-837",
+    "title": "【News】インドネシアの森林火災による煙霧、ダバオ地方で大気汚染続く - ダバオッチ",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1reHYxV1U0WnJaYi1nME9aRTB6blpIdnp0dlEtVE10elZmSGdiQzlDaHVPSEptRHpiaXdXYWdZZElNQ0cyeUZWSnB4d09nZ0tUZS1LbEhhSzA4ZkJPUmdEOWpB?oc=5",
+    "date": "2026-11-05",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1793921250435-579",
+    "title": "RSPO RT2026、インドネシアの森林火災対応、シングル輸出ゲート（輸出一元化制度）、小規模農園のインクルーシブ課題を議論 - 千葉テレビ放送株式会社",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UWTNJMU1jV3RVMTU2RjVCQXh5b3ZHdFVGNHE5RzhtekdiMnQzeVUtdWlPZnUtdzlOazBWLTJtazM0amdMdjRGdWplcjRHWjhpOWxQY0dVekNSN3FFcXE4?oc=5",
+    "date": "2026-11-05",
+    "lat": 35.6074,
+    "lng": 140.1063,
+    "type": "forest"
+  },
+  {
+    "id": "1793921250436-57",
+    "title": "RSPO RT2026、インドネシアの森林火災対応、シングル輸出ゲート（輸出一元化制度）、小規模農園のインクルーシブ課題を議論 - ライブドアニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LcnNuaWE2Q2JlZDBOZjlXeV9qYkZvOGEwcjUyUVdXd3dvN1psRGF2dHM0U2ljSHRORGVHdXJ1VzhBV001c3kwdTJlQlFham1hZWh5MF9UWi00SHNDeU5FU0l3?oc=5",
+    "date": "2026-11-05",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
     "id": "1793834737604-359",
     "title": "森林火災を克服するためのインドネシアとシンガポールの協力関係はますます緩和されています - VOI.ID",
     "source": "GOOGLE_NEWS",
