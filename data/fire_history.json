@@ -1,5 +1,55 @@
 [
   {
+    "id": "1794174662662-393",
+    "title": "JR中央線快速電車 東京駅－高尾駅の上下線で運転見合わせ",
+    "source": "NHK",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261109de72687",
+    "date": "2026-11-08",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "type": "temple"
+  },
+  {
+    "id": "1794174663006-24",
+    "title": "森林火災、オーストラリアが消火活動支援 - NNAアジア",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE93QmFlRmdNOFA5UHdubGhPa1Z2Sl9XUVBKM3ZZSTVleGxYTlp0eDZVRDVDRm84bU1nbW5MX0tGcURYMmh1Q2c?oc=5",
+    "date": "2026-11-08",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1794174663007-521",
+    "title": "インドネシアの森林火災、「パーム産業への批判に危機感」: 持続可能な生産に取り組む国際団体（オルタナ） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sWjc5OTBlUHRISXloNmlxWmNoTjJvR1I4dzVKQ1lIWmd4ZUR4OUpaYl9QOHVIWWk1bjJqOU5fVld4dm00aVZqR1c5d2Y4amdjU1FMWWxKRVF3dGpoY0NlcDZqYnlmZmdmalJST2VDMEFOTmN3NHBHUWpBaGNvMDg?oc=5",
+    "date": "2026-11-04",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1794174663007-519",
+    "title": "オーストラリアの支援航空機は、東クタイの森林火災の火口を直接標的にします - VOI.ID",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE95aDBHSWozM1d2MjF4cjRPTlBUY2pEcUxvNjNIS01FNmpGZVY4Q29JWG80TzlUZVp1MjljUnpuQ0RQN2PSAUJBVV95cUxOTW1KY3k0aXh4UlNtN3pZX3czc2ZpSjZ0TWxTYmJLQVBadmJWdmg0TWlFRlFGZ2F1djNTMWVKZC1wSWc?oc=5",
+    "date": "2026-11-08",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1794174663007-50",
+    "title": "首都圏などの設計士や建築業者らが山林火災で被災した樹木の活用状況視察　有効活用のため県が企画　岩手・大船渡市 - ｄメニューニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QdTg5aWJrdnp3THlwTVlQeXlaUEkwNXVjSTVONHJOdXZvdVdBaUh0dUl5WUk4cFVKSndQMkZVaFpnMldkc05zelljdXZiUnQwVXNZV2FUUnVLWWJFT045TEVfdjdfOTRnWjhwTngwa9IBdEFVX3lxTFAxeURLTnExMjQwX05tME80cktBX3l1TGc5SmwyWVlfZEU0T210Z3FsaEdJeVlENGFEUVpPek5GRUYzQjdnV190NWwwRVI4WnMwUzh1N1dSRzRVeHZpSkRVblBIWWlxNy1aTkkzczZ0bFVGM255?oc=5",
+    "date": "2026-11-05",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
     "id": "1794087430960-684",
     "title": "雨期でも収まらない森林火災被害…焼け焦げた臭いが漂うインドネシア 国民の怒りの矛先は - 東京新聞",
     "source": "GOOGLE_NEWS",
