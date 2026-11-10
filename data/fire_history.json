@@ -1,5 +1,25 @@
 [
   {
+    "id": "1794273566816-94",
+    "title": "小型SAR衛星で市街地・森林火災の被害を検出 国総研が衛星企業2社と共同研究を開始 - NOVAIST",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HSkVWdEluaEduckxUMy12R19ZZ0tDZmhpN0lsZEFNVlVIbzRfcjg5Tkw5eUQzSDVvenkyamtnS0xJTk8wSUVCZ1J4UExwdmhIZ09xenNjaWM0d2R2OExxeXc1b25MeDRxZUVn?oc=5",
+    "date": "2026-11-09",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1794273566816-575",
+    "title": "PKB議員、政府に旧火災地帯の土地をPSNに再利用するよう求める - VOI.ID",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFByZndILUwxUDJJUFhNWHk3cWFDa052M3ZBSGZ5MTlYS01lVzI3NnYxTEJvRUhTSWpxQmxEOURIZWY0VlHSAUJBVV95cUxPbGhGdG11S1V0NWgxVUhRNDhDWC1CMW1DdVprX1JUNDNSS1J0TVROZFkwSTE5UnRWcnNWT1o3T2ZURmc?oc=5",
+    "date": "2026-11-09",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
     "id": "1794174662662-393",
     "title": "JR中央線快速電車 東京駅－高尾駅の上下線で運転見合わせ",
     "source": "NHK",
