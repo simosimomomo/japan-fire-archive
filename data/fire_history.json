@@ -1,5 +1,115 @@
 [
   {
+    "id": "1794525704314-879",
+    "title": "山形 寒河江 住宅火災で3人の遺体 3人居住か 連絡とれず",
+    "source": "NHK",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75126",
+    "date": "2026-11-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1794525704314-326",
+    "title": "広島 3人死亡火災 同居の32歳長男が火つけたか 放火容疑で逮捕",
+    "source": "NHK",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75122",
+    "date": "2026-11-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1794525704758-253",
+    "title": "手足に重いやけどを負った母親も オランウータンを襲う森林火災 - 日本経済新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pWEUwcnJ2cDgyVXFwWXFwRi16TDdHQ3c5ZDFneVRNTEhFb1dIRExaNTVsWFNBS0NOWm1qN1RqX1ZVcTVqZWZUTWlxMExkc0MtNFc0UmVScUdzSmkzTlp1YlprWjlnMFU0TnNDWA?oc=5",
+    "date": "2026-11-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1794525704758-390",
+    "title": "鎮火めど立たないインドネシア森林火災 東京都13個分超が焼失 生活が一変、呼吸器疾患急増で街に無料の「酸素バス」 - FNNプライムオンライン",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JSFU4WVpZTzgtbjdZMWFpbDZrYmNrSkFQanpPTngyZlNrb3FPaGs0TGVHLXdyZ3Z3UVYwOGJERTUyUDZfUEdvWlZxQkpjQQ?oc=5",
+    "date": "2026-11-12",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "type": "forest"
+  },
+  {
+    "id": "1794525704758-308",
+    "title": "インドネシア・カリマンタン島で発生した森林火災の煙＝10月（ロイター＝共同） - インドネシアで山火事相次ぐ 焼失面積は19年以降最悪か - 写真・画像(1/1) - 西日本新聞me",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05YU1kbXVEdVk1UmR1NWlEbEstclkyNGI4R1pLRGE0Z3RjSGFqck5odnpPcUhCNi0zQURKOENndFRSQUVFc2VoQldnQXJJb1loeWlQbTR4cw?oc=5",
+    "date": "2026-11-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1794525704758-638",
+    "title": "鎮火めど立たないインドネシア森林火災 東京都13個分超が焼失 生活が一変、呼吸器疾患急増で街に無料の「酸素バス」 - 千葉テレビ放送株式会社",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IN3dGeHFRZVIxR1MxTkJlcktVZU1OZ3lEY3BZdTV6UFlzbzB4YnRWOF9Qc3RzaVB0WU0tZnkxTi11NFQ0bk9wdzEzSXZDMVI1SlMzeGZGNXFTbXJ4Um44?oc=5",
+    "date": "2026-11-12",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "type": "forest"
+  },
+  {
+    "id": "1794525704758-406",
+    "title": "インドネシアで山火事相次ぐ 焼失面積は19年以降最悪か - au Webポータル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12dWZ6U3k4MFVlRXplMXZ5MDFucmpid2k0NlJuR2dqQmpjRHdSdTZUbjBvcG1Rd0wxRjdGTVQxTTBDRDRuTzhwU2dndUVWa3FtN2dHY2p1MC1MQzBuRU9MU1ZxbWVHRHpRQjZCV25B?oc=5",
+    "date": "2026-11-12",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1794525704759-586",
+    "title": "【速報】瑞穂市の公民館で未明に火災 社務所などに延焼 - 岐阜新聞デジタル",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wRi1jdHI1S2dJSHRBZUVTbzB0MWtXNXZFRFhtTnUyZmttcVpUdzhlUjZnU2NxM18wcWExUHJpbmM0QUt4T3B4Q2g3WFB1WE1acjU3d3lR?oc=5",
+    "date": "2026-11-11",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1794525704759-538",
+    "title": "853. 森林火災・山火事のトレンド | 国立研究開発法人 国際農林水産業研究センター - 国際農林水産業研究センター | JIRCAS",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2cWdBbExEVkdwMks0T01tOWRFVzQzVUNyUGl6anNyTUwyRjNUMzJRUEFzUEdSVHI3U2lCak5DMGxUd3RaQlREZkt5bVQxZ1JtNWw4TFpBaUhnYjVKQXdZQkx0TU0?oc=5",
+    "date": "2023-09-07",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1794525704759-713",
+    "title": "鎮火めど立たないインドネシア森林火災 東京都13個分超が焼失 生活が一変、呼吸器疾患急増で街に無料の「酸素バス」 - ライブドアニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zSS1oYlZhYTIwSHJpU05UQ0xyRl9rYk1WV2NDdHVHNHd3ZW1zNXhtUk50QUN5UDRNZUg0MzQxT3JQa0Q0MDkyZ0hibjZvVHUtdm5ZVXpjMzZEaFMwdGc?oc=5",
+    "date": "2026-11-12",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "type": "forest"
+  },
+  {
+    "id": "1794525704759-950",
+    "title": "鎮火めど立たないインドネシア森林火災 東京都13個分超が焼失 生活が一変、呼吸器疾患急増で街に無料の「酸素バス」 - Excite エキサイト",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oaXpqVXZJOERzU2xnMEZjdHFycU5JNjJvUUgwOEJkOWhKV1dKUmh6SDFtckVCVlRNcVFVNjN3ZnZ3aUIxZXl3cElmbWdSa3dvdDRhcnBsVFhZWWdUZFIyNzBUUlVONDFteW5LcXNR?oc=5",
+    "date": "2026-11-12",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "type": "forest"
+  },
+  {
     "id": "1794442615965-557",
     "title": "「山火事に向かって飛んでいく虫」「炎を利用して狩る鳥」…火を味方にした驚くべき生物たちの映像 - ニューズウィーク日本版",
     "source": "GOOGLE_NEWS",
