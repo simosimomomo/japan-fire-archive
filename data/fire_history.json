@@ -1,5 +1,155 @@
 [
   {
+    "id": "1794879882964-1",
+    "title": "林野火災（山火事）に注意！ - 前橋市",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xSGxHSE9kVnRvblk5cHJwSkZPTEZJSHRWYl9ZUWhCcnVEUjhTTk9rcktoY1JWWDBvRXdmTTY3QlhaTmFkRVk1TGI2eUpaVVJSWEl6aEhpX3FSTXc?oc=5",
+    "date": "2026-11-11",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1794879882964-277",
+    "title": "気候変動時代の持続可能なパーム油（上）農園火災はRSPO認証で防げるか - オルタナ",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jZkwxd25jN2wxbGVXRGdxcG1MQTRLdG5vb0tLSGozZUNGOWN2ZjRUT0FWWlFucHZqYV9VaUJ3WDdycWFHdzRtSA?oc=5",
+    "date": "2026-11-16",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1794879882964-433",
+    "title": "インドネシア大統領、森林火災の煙害で近隣2カ国に謝罪 対策も説明 - Reuters",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNHhQTGhUZU52bkh5UzUtLWhvUEJXdUJvWDN4Yzdjd3dhWVFsTk5LNjdBdGZLZ2F6aU9WOUs2dUhZX3I4Y3VmYjRGd2VPYTMzZ3pIWl9fQ3FmTGJkMEJjZ3AzQWozaHZubEVYZVpCVUNYQVZrUEJqd1hTdFcya1A1czI2THk2YnM?oc=5",
+    "date": "2026-11-16",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1794879882964-121",
+    "title": "インドネシア、森林火災の越境煙害謝罪 「最善尽くした」―ＡＳＥＡＮ首脳会議 - 時事ドットコム",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VQUVEOWlDRkFVeWREN0kxWGRrR2txdTJJYUdsamp6S2MySU5TS21OaElVdEdRMGptY1pnYmRGNUNWYzdxa2FZbUczVzl4UnJRWjZLZTNLektRZDdEclJTTmhaNA?oc=5",
+    "date": "2026-11-16",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1794879882964-327",
+    "title": "COP31で23カ国が山火事レジリエンスに関するアンタルヤ行動計画を承認 - ニュースと統計 - IndexBox",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMElTdVJVQTlxUUN3UEs5R0pMSUV3MzNzUjRtY3BCYmwtNVZmT2VGNURkLUs1TVVxbDlVVy1QcWJaYndMbnJXc3RDd2p0dE53RjNyYkFNal81M29MVk4wUFM3UFR0TmdkNW5lMUtUTnVSMHZNVGVQZzBQR3A0RHA5eWd4TkFCU1NkOV9RcGZvOXg0Uks5LWtXelpaT2pIaGtqR01ETnVydE5lWmRzZUFPamR1c0RvaEhVTXlVVlo5eWE1QmxY?oc=5",
+    "date": "2026-11-16",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1794879882964-763",
+    "title": "インドネシア大統領、森林火災の煙害で近隣2カ国に謝罪 対策も説明 - ニューズウィーク日本版",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KNFpLaEtUYThaS3lkcU1LZENmWVRIWkVsMzAwSFhQS2tGeHdQWTg0M3dlWjFqQXlqZjlDdzQ5VUg3VE9iSnRxQzRpUEFGY1A5akpLTWRHSnZ4UQ?oc=5",
+    "date": "2026-11-16",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1794879882965-422",
+    "title": "インドネシア大統領は、森林火災による煙害についてシンガポールとマレーシアに謝罪した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTVV6dTA1VWhWZEM4SU93WG9IR05pYll3WXIwSDM1ZmVOdVg5dnhqcUxZRjBiVV9NaUhjdm0zRWI0a1FmTEVXeGRlVC1vQVBkVGRFY1BEYUNSMGRfaEQ4OGRDUy1ZbEpuWjM3cDRPYUJMRnZkX3NSWHI3T3RDZEdTN2dDa1Etdm5DM0xJTHdENVpwUTRLclB2dWtNUEc1ZGRiNnFkQjBKQ05WYUxY?oc=5",
+    "date": "2026-11-16",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1794879882965-264",
+    "title": "インドネシア大統領、森林火災の煙害で近隣2カ国に謝罪 対策も説明（ロイター） - Yahoo!ニュース",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hWmhVNHdnOVF4TFMtaHZ0azB1T0thUkxDbEdOYTljM0hPcXBGN2YzRzJGNmM0ZVhKM2VsRlB0UFVBdi1Pb09WWFVzb1VTa05EOXlyWkR2UWxLa1RSdTY2SHhXVzhiX0hXaERPNGROZjlod0lZc2ZpVWpld1hBM1E?oc=5",
+    "date": "2026-11-16",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1794879882965-586",
+    "title": "山林火災でオランウータンが生存危機 保護団体が救助活動 インドネシア – Quebee キュエビー - QAB 琉球朝日放送",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRN2tDVks5dTZfSW9sR0VGWG1wN2t6Q1ByeDNTdDhlSzBVSWEtRHkzdGhRTlRIeHBUMFJjek1aMmx0RDRtMEN5ZGhYZHRqRFZCeENTRHpJZWU?oc=5",
+    "date": "2026-11-14",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1794879882965-800",
+    "title": "インドネシア、森林火災の越境煙害謝罪 「最善尽くした」―ＡＳＥＡＮ首脳会議 - 時事ドットコム",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS0dSMnhLR1dNbW1zYzhoVWVNUVNicmtBU0hFNnlYN2ttSWQxNWdXcE5sMmgwcVBaZ3EzdlRBanlDb1lYdnRIRFJLNmJLalN2ZzUtYzdScGZtSE00YkVGRTBUdHNuUTJiR0RSQVhsdmNnaHlxSFc5NUYtMzAxa2ZwMFF3?oc=5",
+    "date": "2026-11-16",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1794879882965-126",
+    "title": "インドネシア大統領、森林火災の煙害で近隣2カ国に謝罪 対策も説明 - Infoseek",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSd21fVHVrbVhTd1VWbC12TlljVUx2U2h6dElNWUZfQS0tcThLb3NPYzhlVnAzRUNnM1QxUjV2OHpFR0ZORlJZcXd1N19tMDhSWXJyV09hVnQtMi1mRmplc092M2ttZkhtOWkzRHln?oc=5",
+    "date": "2026-11-16",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1794879882965-904",
+    "title": "アマゾン干ばつ＝観測史上最多の森林火災＝マナウス物流麻痺と食料高騰の危機＝パラー州が環境・気候緊急事態宣言 - ブラジル日報",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94MTRpNnNRWk1Lckh5ejJ1aEl1UG9JbWNGbXdxU2VIbURrYlVTUVFUWHkwVUcybEFhZEVnV1RoU0VSTU1CdEdqZU1JbWU0YlRKemhSRXlNNzhMZlNXQVE?oc=5",
+    "date": "2026-11-16",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1794879882965-20",
+    "title": "【山林火災・13日目】火災の影響で断水が発生 大月市が給水車を出して対応 焼失面積は396ha 山梨・扇山 - 日テレNEWS NNN",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUVpPRUs2aXp4YWJ0bENUT3ZkcTlPQWIxYnd3aGJSZTBwaVJoQm1qblZSVWZjNWRHSFpfdGhTUDZXYXBaV0hUSVoxaXVzd190ZTBUUlJZSGk2ZUt3RWpkNHVwRmc5Nk41TzhfdDZDUEVJZ1VGR21mNTREVm1PcllyUHlpa0pWWGs?oc=5",
+    "date": "2026-01-21",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1794879882965-536",
+    "title": "鎮火めど立たないインドネシア森林火災 東京都13個分超が焼失 生活が一変、呼吸器疾患急増で街に無料の「酸素バス」 - UQライフ",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON0ZwQm02MDJtalQzYzA4MWlfQjh6NGFwc3lKUlh1NnFhbVdaZi02dUFTQTFsVm5EallkT1E4Rk5QTzRsZ2tBSmgtMi1ZVldYZnVLUWVDbVVscHg1OFhBT3BRZEozZWxoaVBQWnNLT3hoVm9NNWNiV2tQMHkyTFdPVg?oc=5",
+    "date": "2026-11-12",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "type": "forest"
+  },
+  {
+    "id": "1794879882966-43",
+    "title": "プラボウ大統領、 カラフタル森林火災の煙霧についてマレーシアとシンガポールに謝罪 - VOI.ID",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE51aXAyZ1U5emZSVHVtVU12U09ZUzdBUFFGenluczlfMTBuUGZfelZfaDQ0c3F1OUFlamdZRFpNWXUxTVU?oc=5",
+    "date": "2026-11-16",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
     "id": "1794782290011-99",
     "title": "現職1人が立候補を届け出 大規模山林火災の復旧復興進む岩手・大船渡市の市長選挙が告示 - TBS NEWS DIG",
     "source": "GOOGLE_NEWS",
