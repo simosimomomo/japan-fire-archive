@@ -1,5 +1,95 @@
 [
   {
+    "id": "1795389922237-523",
+    "title": "沖縄 首里城正殿が復元 きょう正午から一般公開",
+    "source": "NHK",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261122de80078",
+    "date": "2026-11-22",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1795389922238-406",
+    "title": "【動画】上空から見た首里城正殿は？",
+    "source": "NHK",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261123de80128",
+    "date": "2026-11-22",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1795389922238-610",
+    "title": "インドネシアの製菓工場で火災 3人死亡 36人行方不明",
+    "source": "NHK",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261123de80121",
+    "date": "2026-11-22",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "temple"
+  },
+  {
+    "id": "1795389922553-129",
+    "title": "森林火災の煙にかすむ「赤道直下の街」の嘆き インドネシア・ポンティアナック〈海外便り〉 - 東京新聞",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DZjRTc0d4UmZjbDRpTnZRdC1pbHVZdUhMVmJSU3Q2ZHZabUE5YXlMRTkxb1dWc1lOUDllMi1sQWRHMmlZV3FjYzFVa0pXc0xYcXNz?oc=5",
+    "date": "2026-11-22",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "type": "forest"
+  },
+  {
+    "id": "1795389922553-341",
+    "title": "国家災害対策庁、衛星活用で森林火災の監視強化 - NNAアジア",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4zOHFlOGV2ZGEtMXljV2hxbms5VkgwNDlVR1V3c013a0ZMTGlIYmNLYUQyMjhpUmxfX2tfY2xVcTc5MzY4VkE?oc=5",
+    "date": "2026-11-22",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1795389922553-239",
+    "title": "インドネシアの森林火災による被害額は300億ドルを超える可能性がある。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYUhuY0lHXzhZLWNEekxzWkNPVmdadUd3NG1neklFX2hXWXVoOHRLZzVTVDVHdjB3ZWZMM3pFTTFPdmpXVHdVVjFocnJ4WDJld3drRF9PYWI3cHhTdVJRM245OWI2Vm5fX3JENDE0eWpPYUxSay1VX21ta2RmN1RHYXpHNmVvZ0k?oc=5",
+    "date": "2026-11-22",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1795389922553-413",
+    "title": "インドネシアの森林火災による経済的損害は300億ドルを超える可能性がある。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWlBIbnZTaWhud3hqR2RhRm5SanppUF9iOEZxRXo2X05sSmVtV3ItSHNCaUV5REtWQTE1RUtIQXhmNkF5VUVEdktlQnVUN3RzZXE3ejhMaWNlZFRERkFUbUktQ3VWekItdzc4M1hhVDM4dzd6Wl95al85b1FKU1F4UFpwd3ZtS3loN29SanA1SmlPQVY2eXRR?oc=5",
+    "date": "2026-11-22",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1795389922553-725",
+    "title": "インドネシアの森林火災は、300億ドル以上の経済的損害をもたらす可能性がある。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZFJSbUstU2RsbGdiZlBlNTlJSWNnRTZKUEZsOUZsT0xJeWdZT1BIZUVEVGJsV3FGbEY5bHY1aXQ0dE4xUUlfV250ekU4NmlFYS1wOGtuN01qS2U5VGF1akxpM0lrSlhBdkpwMlpLc0RwRTNqWU5lSHRnSzJvQ293Y1pHRmpjazFyZkx0ZEY2VlE3Ql9qQVdB?oc=5",
+    "date": "2026-11-22",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
+    "id": "1795389922553-96",
+    "title": "インドネシア：火災により約288万ヘクタールの森林と土地が焼失し、GDPの2.69％に相当する経済損失が発生した。 - Vietnam.vn",
+    "source": "GOOGLE_NEWS",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQWRkR1dxSXVwR2RmZTI5cm1idU43TkdXckR3TFI5WGtiTm0yQi02ZVRPRmRkU2g2dkJPLXZlS1NHWGd4ZE0zZTZzd1NGLXU2ZnhTZ2Q1WWZXYXdaME8zNzdRQU5TVXN0OHdwY2djSlljeUQ1NTZWNEZ4SzVsczZSajdhVm81dWwtRnNmaWJtLXd5WkFjZzVWRDBuamtmQzA0cjZkM2FsdkhxakFsc0xZZkw3LW9WdEVxSXVZS25pN1MzQnQtNEwwRjRXSngxMU9fWWc?oc=5",
+    "date": "2026-11-22",
+    "lat": 36.2048,
+    "lng": 138.2529,
+    "type": "forest"
+  },
+  {
     "id": "1795301712563-549",
     "title": "俳優キム・ミン、山火事の現場で素早い初期対応 大規模火災を防ぐ - Kstyle",
     "source": "GOOGLE_NEWS",
